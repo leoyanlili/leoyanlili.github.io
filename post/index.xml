@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>捷伴行Agile</title>
-    <link>https://www.yespmo.com/</link>
-    <description>Recent content on 捷伴行Agile</description>
+    <title>Posts on 捷伴行Agile</title>
+    <link>https://www.yespmo.com/post/</link>
+    <description>Recent content in Posts on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2020 AgileWalker</copyright>
-    <lastBuildDate>Sat, 09 Nov 2019 16:20:47 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.yespmo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yespmo.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,20 +31,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://www.yespmo.com/pages/resume/</link>
-      <pubDate>Sat, 09 Nov 2019 16:20:47 -0500</pubDate>
-      
-      <guid>https://www.yespmo.com/pages/resume/</guid>
-      <description>More is here https://www.agilewalker.com
-Interests  Creating beautiful resumés from simple Markdown documents  Work Experience   Word Processor (Redmond, WA)
-Junior Resumé Maker, 2006 - 2007
- Intermingled presentation and content Styling was a pain, so either didn&amp;rsquo;t do it or found a half-decent template and didn&amp;rsquo;t mess with it    \LaTeX\ + pdflatex
-Senior Resumé Maker, 2008 - 2010
- Edited verbose \LaTeX\ documents in a text editor Mixed content and presentation to achieve pixel-perfection Installed and configured the unusual TeX setups required by the best-looking \LaTeX\ resumés    LinkedIn, StackOverflow Careers, vizualize.</description>
     </item>
     
     <item>

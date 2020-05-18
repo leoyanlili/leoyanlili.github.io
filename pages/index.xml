@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 捷伴行Agile</title>
+    <link>https://www.yespmo.com/pages/</link>
+    <description>Recent content in Pages on 捷伴行Agile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2020 AgileWalker</copyright>
+    <lastBuildDate>Sat, 09 Nov 2019 16:20:47 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.yespmo.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://www.yespmo.com/pages/resume/</link>
+      <pubDate>Sat, 09 Nov 2019 16:20:47 -0500</pubDate>
+      
+      <guid>https://www.yespmo.com/pages/resume/</guid>
+      <description>More is here https://www.agilewalker.com
+Interests  Creating beautiful resumés from simple Markdown documents  Work Experience   Word Processor (Redmond, WA)
+Junior Resumé Maker, 2006 - 2007
+ Intermingled presentation and content Styling was a pain, so either didn&amp;rsquo;t do it or found a half-decent template and didn&amp;rsquo;t mess with it    \LaTeX\ + pdflatex
+Senior Resumé Maker, 2008 - 2010
+ Edited verbose \LaTeX\ documents in a text editor Mixed content and presentation to achieve pixel-perfection Installed and configured the unusual TeX setups required by the best-looking \LaTeX\ resumés    LinkedIn, StackOverflow Careers, vizualize.</description>
+    </item>
+    
+  </channel>
+</rss>
