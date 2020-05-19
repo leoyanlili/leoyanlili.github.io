@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.yespmo.com/post/creating-a-new-theme/</loc>
+    <loc>https://www.yespmo.com/posts/impedements-list-backlog/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yespmo.com/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.yespmo.com/post/migrate-from-jekyll/</loc>
+    <loc>https://www.yespmo.com/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yespmo.com/posts/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.yespmo.com/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,17 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.yespmo.com/</loc>
-    <lastmod>2019-11-09T16:20:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yespmo.com/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.yespmo.com/post/goisforlovers/</loc>
+    <loc>https://www.yespmo.com/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.yespmo.com/post/hugoisforlovers/</loc>
+    <loc>https://www.yespmo.com/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
