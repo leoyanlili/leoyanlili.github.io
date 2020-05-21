@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 捷伴行Thoughts</title>
+    <title>Tags on 捷伴行Thought</title>
     <link>https://www.yespmo.com/tags/</link>
-    <description>Recent content in Tags on 捷伴行Thoughts</description>
+    <description>Recent content in Tags on 捷伴行Thought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright 2020 捷伴行Agile</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <copyright>© Copyright {year} 捷伴行Agile</copyright>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.yespmo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>agile</title>
+      <link>https://www.yespmo.com/tags/agile/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yespmo.com/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impediment</title>
+      <link>https://www.yespmo.com/tags/impediment/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yespmo.com/tags/impediment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interesting</title>
+      <link>https://www.yespmo.com/tags/interesting/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yespmo.com/tags/interesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scrum</title>
+      <link>https://www.yespmo.com/tags/scrum/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yespmo.com/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translation</title>
+      <link>https://www.yespmo.com/tags/translation/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yespmo.com/tags/translation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>development</title>

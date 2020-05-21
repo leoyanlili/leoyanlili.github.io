@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agile on 捷伴行Thought</title>
+    <link>https://www.yespmo.com/tags/agile/</link>
+    <description>Recent content in agile on 捷伴行Thought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright {year} 捷伴行Agile</copyright>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.yespmo.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile Impediment List</title>
+      <link>https://www.yespmo.com/posts/impediment-list-backlog/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yespmo.com/posts/impediment-list-backlog/</guid>
+      <description>Agile Impediment List Alias: Impediment Backlog Agile Impediment List Introduction Agile Impediment List Alias: Impediment Backlog
+The Scrum Team is trying to make progress on the product. Team members often run into problems that hinder their progress. Fixing them in the moment may not be possible, practical, and/or in the best interest of the organization or team.
+Internal or external events can slow the Development Team&amp;rsquo;s work. Team members might want to fix the problem immediately, but that takes effort away from making progress toward the Sprint Goal.</description>
+    </item>
+    
+  </channel>
+</rss>
