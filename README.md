@@ -5,7 +5,7 @@
 
 - 一些99%的文字，[捷伴行Doc](http://www.51scrum.com/) www.51scrum.com
 
-- 志愿服务和活动，[捷伴行Thought](http://www.yespmo.com/) www.yespmo.com
+- 敏捷和软件行业外文干货，[捷伴行Thought](http://www.yespmo.com/) www.yespmo.com
 
 - 给我留言，[点这里](https://www.agilewalker.com/reachme/)
 
