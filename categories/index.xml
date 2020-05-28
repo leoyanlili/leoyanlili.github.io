@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 捷伴行Thought</title>
-    <link>https://www.yespmo.com/categories/</link>
-    <description>Recent content in Categories on 捷伴行Thought</description>
+    <title>Categories on 捷伴行Spreader</title>
+    <link>https://www.agilespreader.com/categories/</link>
+    <description>Recent content in Categories on 捷伴行Spreader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2020 捷伴行Agile</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.yespmo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agilespreader.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://www.yespmo.com/categories/development/</link>
+      <link>https://www.agilespreader.com/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yespmo.com/categories/development/</guid>
+      <guid>https://www.agilespreader.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://www.yespmo.com/categories/golang/</link>
+      <link>https://www.agilespreader.com/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yespmo.com/categories/golang/</guid>
+      <guid>https://www.agilespreader.com/categories/golang/</guid>
       <description></description>
     </item>
     

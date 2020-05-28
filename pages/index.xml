@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on 捷伴行Thought</title>
-    <link>https://www.yespmo.com/pages/</link>
-    <description>Recent content in Pages on 捷伴行Thought</description>
+    <title>Pages on 捷伴行Spreader</title>
+    <link>https://www.agilespreader.com/pages/</link>
+    <description>Recent content in Pages on 捷伴行Spreader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2020 捷伴行Agile</copyright>
     <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.yespmo.com/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agilespreader.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.yespmo.com/pages/resume/</link>
+      <link>https://www.agilespreader.com/pages/resume/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yespmo.com/pages/resume/</guid>
+      <guid>https://www.agilespreader.com/pages/resume/</guid>
       <description>捷伴行Agile - Agile makes us better 促进敏捷文化在软件领域传播，并在广泛领域有趣创新
   捷伴行Agile博客，捷伴行Agile www.agilewalker.com
-  一些99%的文字，捷伴行Doc www.51scrum.com
-  敏捷和互联网外文干货，捷伴行Thought www.yespmo.com
+  一些99%的文字，捷伴行Thought www.51scrum.com
+  敏捷和互联网外文干货，捷伴行Spreader www.agilespreader.com
   给我留言，点这里
   欢迎微信公众号，有更多敏捷文化和Python软件开发相关话题
 关于我们</description>
