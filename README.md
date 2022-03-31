@@ -3,10 +3,6 @@
 
 - 捷伴行Agile博客，[捷伴行Agile](https://www.agilewalker.com/) www.agilewalker.com
 
-- 一些99%的文字，[捷伴行Thought](http://www.51scrum.com/) www.51scrum.com
-
-- 敏捷和互联网外文干货，[捷伴行Spreader](http://www.agilespreader.com/) www.agilespreader.com
-
 - 给我留言，[点这里](https://www.agilewalker.com/reachme/)
 
 欢迎微信公众号，有更多敏捷文化和Python软件开发相关话题
