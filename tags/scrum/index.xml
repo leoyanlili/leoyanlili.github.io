@@ -1,26 +1,283 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scrum on 捷伴行Spreader</title>
-    <link>https://www.agilespreader.com/tags/scrum/</link>
-    <description>Recent content in scrum on 捷伴行Spreader</description>
+    <title>scrum on 捷伴行Agile</title>
+    <link>https://leoyanlili.github.io/tags/scrum/</link>
+    <description>Recent content in scrum on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright 2020 捷伴行Agile</copyright>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.agilespreader.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© Copyright 2023 捷伴行Agile</copyright>
+    <lastBuildDate>Mon, 28 Sep 2020 13:26:15 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agile Impediment List</title>
-      <link>https://www.agilespreader.com/posts/impediment-list-backlog/</link>
+      <link>https://leoyanlili.github.io/bak_posts/impediment-list-backlog/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.agilespreader.com/posts/impediment-list-backlog/</guid>
+      <guid>https://leoyanlili.github.io/bak_posts/impediment-list-backlog/</guid>
       <description>Agile Impediment List Alias: Impediment Backlog Agile Impediment List Introduction Agile Impediment List Alias: Impediment Backlog
 The Scrum Team is trying to make progress on the product. Team members often run into problems that hinder their progress. Fixing them in the moment may not be possible, practical, and/or in the best interest of the organization or team.
 Internal or external events can slow the Development Team&amp;rsquo;s work. Team members might want to fix the problem immediately, but that takes effort away from making progress toward the Sprint Goal.</description>
+    </item>
+    
+    <item>
+      <title>Scrum框架的局限性在哪里？</title>
+      <link>https://leoyanlili.github.io/where-scrum-limits/</link>
+      <pubDate>Mon, 28 Sep 2020 13:26:15 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/where-scrum-limits/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;By Mark Levison&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Posted on January 29, 2019Posted on January 29, 2019&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何理解并应用精益敏捷Kanban看板</title>
+      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
+&amp;ndash;大卫.安德森
+看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
+临时请求(按需的任务) 计划外工作 生产支持 简要历史 在1940年代后期，丰田公司从超级市场那里找到了更好的工程流程。 他们注意到商店的店员通过商店的库存而不是供应商的库存来补充货品。
+只有当一个货品接近售罄时，店员才能进行订购。 超市的“实时”交付流程激发了丰田工程师重新考虑他们的方法，并开创了一种新方法-看板系统-该方法可以使库存与需求匹配，并实现更高的质量和产量水平。
+看板，拼写为Kanban，是日语中的“信号板”，表示“可用产能（工作）”。 看板是与精益生产和实时生产（JIT）有关的概念，它被用作排产系统，告诉你要生产什么，何时生产以及要生产多少。看板成为支持整个生产系统运行的有效工具，也是促进改进的很好的方法。
+原则 在看板方法上实施软件增量是一个基于拉动的系统，它可以帮助团队以可持续的速度和产能进行交付，减少了工作和时间的浪费。 保证这一点，就需要遵循以下看板的基本原则。
+1. 可视化工作
+看板工作面板的可视化模型及其工作流程使范围和功能透明化，有助于观察和检查从待办事项到完成的工作流程。 这样会让工作可见，也包括阻塞，瓶颈和队列以及即将进行的工作，这有助于团队制定策略，是继续进行现有的工作或将新工作带入。
+2. 限制在制品WIP
+团队为看板面板中的所有“进行中”的列共同定义了一个限制，例如分析，开发，测试等。此WIP限制实现了基于拉动的系统，因为只有在该列下的工作总数少于其上限的情况下才可以将工作从上一列拉至当前列。
+这有助于平衡基于流的方法，团队不会开始并承担过多的工作。 它减少了浪费，并帮助团队专注于先完成后开始。
+3. 聚焦在工作流
+要完成一项工作并增加价值，它必须经历其开发过程的多个阶段。 如分析，开发，测试，评审等。为了获得看板的价值，团队需要专注于从启动到完成的工作流程。 通过遵循上面2条原则，可以帮助你专注于流程。
+专注于工作流会使团队可视化即将到来的的瓶颈并对其采取行动。 以便保持流动。 团队经常制定工作的策略以优化流程。
+把看板和现实生活相关联 我们已经学习了看板的基础知识及其原理，让我们尝试将看板流程与现实生活联系起来。 假设你已经知道并正在实践Scrum，我们将在其中执行定义的时间框的迭代。 我们提交一堆故事，对其进行处理2到3周，然后完成迭代，并再次计划新的一堆故事以进行下一次迭代。 在看板中，我们不会为迭代，时间框或冲刺提交故事。 我们做的有些不同。
+在下面的示例中，我们将Scum和看板与现实生活联系起来。 假设人们是故事，放映厅是一次迭代，放映时间是迭代时间。
+关联Scrum流程和现实生活 这个案例说明了放映厅中的人员流动，一次是一群人。 如果我们假设人是用户故事，并且将时间显示为迭代或时间框。 然后，你可能会注意到一群人一起在放映厅里走来走去。 我们有明确的座位容量和放映时间。 为每次放映安排的人在放映开始之前已预先计划好了。
+关联看板流程和现实生活 这个案例说明了门卫允许公园中的人流是一个接一个的。 如果我们假设人是用户故事，那么公园就是看板面板。 然后，你可能会注意到没有定义的公园放映时间，因为它是24小时开放的。 进入公园或在公园内漫游并出来的人不在同一个人群中。 我们没有容量和演出时间。 但是，公园的管理层决定一次不允许在公园内同时容纳6人以上，以提高公园内人们的舒适度。
+在此图中，让我们尝试用Scrum术语关联场景。 如果我们假设人是用户故事，那么在大厅外面等待下次放映的人就是Backlog中的用户故事列表。当前的放映厅放映就是当前Sprint或迭代。观众是冲刺的故事。 显示时间是冲刺持续时间。 放映厅容纳人数是团队对冲刺的产能。 已经看过电影的人是以前冲刺中的“完成”故事，可能已经确定已发布或已部署。
+在这里，让我们尝试用上面的图片来映射看板术语。 假设人员是用户故事或任务，公园是可视看板面板。 排队等候在外面的人是当前的看板Backlog。 放映时间没有定义，“最大容量”没有限制，但是管理层决定不允许面板中的故事超过6个。 已经从公园出来的人就是已经可以部署的用户故事。 管理层正在统计出来的故事，以便允许进入新的故事。看板面板(公园)内的故事(人)没有确定的开始或结束日期。
+上面图片中进行解释，以解释Scrum流程。
+上面图片中进行说明，以解释看板流程。</description>
+    </item>
+    
+    <item>
+      <title>Scrum入门系列PPT之-Scrum介绍</title>
+      <link>https://leoyanlili.github.io/scrum-beginner-ppt-intro/</link>
+      <pubDate>Wed, 03 Jun 2020 07:07:25 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/scrum-beginner-ppt-intro/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这不是结束，甚至不是结束的开始，但这毕竟是开始的结束。&lt;/p&gt;
+&lt;p&gt;-&amp;ndash; 温斯顿.丘吉尔&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>翻译敏捷行业专业外文，不只是谷歌翻译</title>
+      <link>https://leoyanlili.github.io/translation-beyond-google/</link>
+      <pubDate>Thu, 21 May 2020 11:36:53 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/translation-beyond-google/</guid>
+      <description>流行但愚蠢的态度是，一个好的经理在任何地方都可以成为一个好经理，而不需要对他所管理的生产过程有特别的了解
+—爱德华.戴明
+前言 孔子说：一日而三省吾身。应该说是体现了敏捷思维在个人哲学意识迭代中的最早的实践应用。但真的要做到，确实有点难。改成三日一省如何？至少三天才能对一件事情有比较客观的初步认知。每次反思就像Scrum框架里的一个Sprint，总要有个时间盒子，结束后能看到增量价值交付。这里就不接着谈Kanban了，敏捷方法不是今天的主题。该反思的还是要反思，但不用太频繁。
+说说翻译 偶尔会做些敏捷行业外文的翻译，一方面借此提升自己的行业英语水平，另一方面对行业的知识通过翻译的形式，加深自己的理解并促进工作实践。师夷长技以制夷，这里谈不上“制”，只为提升自我。
+很多人听到翻译，觉得现在应该挺简单，有谷歌翻译。不排除每个人的背景不同，本业余人士的个人理解是，一篇专业的翻译文章需要至少经历以下几个步骤：
+第一步 谷歌翻译，当今社会效率至上，让人工智能解放人类的一部分时间。把译文的基本的框架涂鸦出来，当然，这个版本往往是惨不忍睹，你懂的。很快能完成。
+第二步 专业翻译，译者需要有较长时间的专业知识沉淀，理解和实践经验，结合领域专有思维。如同本文开头，戴明说的那句话。例如，agile在英语中是形容词“敏捷的”，可自从本世纪初有了大写A的Agile，这个词就成了一个专有名词，敏捷宣言的“敏捷”，成为了软件开发行业甚至日后的各大行业中更先进的理念。对每个行业来讲都是一样的，专业的事情交给专业的人。
+第三步 共情翻译，译者需要通过文字与优秀的作者共同感受。需要点虚拟穿越的想象力，进入作者在写作那一刻的环境，思想和情绪等，翻译出来冰冷的文字，也是知识，但无法把作者的情感传达给读者。例如，something must not become stale，简单翻译：某事一定不能太久，结合上下文，感受作者的心情和中文的习惯，或许可以这么翻译：我们一定不能把某事拖太久。
+第四步 文化翻译，结合中华5000年的文化特点。让浑厚的中华文明来给文章润色，这就是好好学习语文和历史的好处了，也可以经常这么教育孩子。 翻译时，我们可以考虑用成语，这是中文的很特别的地方。例如，Empty List，直接翻译就是 “空的清单”。总觉得这么翻译太干，有时候可以结合上下文，翻译成“空空如也的清单”也许就更朗朗上口。
+第五步 通读三遍，调整标点符号，段落，错别字等。文字能简单就简单，字数越少越好。首先自己觉得顺畅，标准是，把自己当成读者。帮读者易于理解，节省阅读时间，是作者和译者共同的责任，接着就可以把译文传递到下一步。
+第六步 专家审校，最后，译文由优秀的行业专家的审校是很重要的，颇有些XP中结对编程的味道，结对翻译？一个人总是难免出错，考虑不周，有同行专家的审校总是让人心里踏实很多。
+写在最后 即便经历了前面六个步骤，要告诉自己的是，译文一定还有改进的空间，能够翻译的更好，这也是敏捷人的共同思维模式。不过，翻译工作该交的时候还是要交，从完成到完美的过程永远不会结束，所以，完成比完美更重要。优秀的翻译文章和书籍都凝聚了相关行业专家心血和对行业长期投入而获得的领悟，除此，还需要足够的文学，历史，哲学等方面的知识。
+保持社交距离。勤洗手。 —
+END
+感谢你阅读本文，希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>运用GROW模型，提问的艺术，敏捷教练基本功</title>
+      <link>https://leoyanlili.github.io/how-to-use-grow-model/</link>
+      <pubDate>Tue, 28 Apr 2020 14:13:58 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/how-to-use-grow-model/</guid>
+      <description>GROW模型是教练过程中提问的方式，代表有目的决策的四个组成部分。 用首字母缩写，GROW代表：
+公众号原文：运用GROW模型，提问的艺术，敏捷教练基本功
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</title>
+      <link>https://leoyanlili.github.io/agile-product-ownership/</link>
+      <pubDate>Sat, 18 Apr 2020 08:53:26 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/agile-product-ownership/</guid>
+      <description>15分钟，用产品负责人的视角看Scrum敏捷软件开发
+[https://player.youku.com/embed/XNDYzNzY5NTc0MA==]
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
+      <link>https://leoyanlili.github.io/sprint-capactiy-planning/</link>
+      <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/sprint-capactiy-planning/</guid>
+      <description>《系统之美》
+前言，在本文中，我们将从以下几点了解关于产能规划的话题：
+&amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 2. &amp;lt;strong&amp;gt;小时&amp;lt;/strong&amp;gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&amp;lt;br /&amp;gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&amp;lt;br /&amp;gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h4&amp;gt; &amp;lt;span class=&amp;quot;dt-highlight&amp;quot;&amp;gt;Step 1 – 计算Sprint持续时间&amp;lt;/span&amp;gt; &amp;lt;/h4&amp;gt; &amp;lt;p&amp;gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&amp;lt;br /&amp;gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&amp;lt;br /&amp;gt; 黄色=上一个Sprint&amp;lt;br /&amp;gt; 绿色=当前的Sprint&amp;lt;br /&amp;gt; 蓝色=未来Sprint &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-large wp-image-1049&amp;quot; src=&amp;quot;https://www.</description>
+    </item>
+    
+    <item>
+      <title>「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</title>
+      <link>https://leoyanlili.github.io/scrum-crash-course/</link>
+      <pubDate>Thu, 16 Apr 2020 03:36:39 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/scrum-crash-course/</guid>
+      <description>[本视频长度1.5小时] 敏捷文化中的Scrum是什么？ - 速成班带你深度了解
+[https://player.youku.com/embed/XNDYxMDk2NjgwMA==]
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
+      <link>https://leoyanlili.github.io/sprint-burndown-chart/</link>
+      <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/sprint-burndown-chart/</guid>
+      <description>《系统之美》
+前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
+&amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&amp;lt;br /&amp;gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&amp;lt;br /&amp;gt; 因此，从所有这些信息中，开始绘制燃尽图 &amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total Days of the sprint = 10 days&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total committed &amp;amp; estimated task hours for the team = 110 Hours&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&amp;lt;br /&amp;gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&amp;lt;br /&amp;gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1003&amp;quot; src=&amp;quot;https://www.</description>
+    </item>
+    
+    <item>
+      <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
+      <link>https://leoyanlili.github.io/v-user-story-splitting/</link>
+      <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/v-user-story-splitting/</guid>
+      <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地
+[https://player.youku.com/embed/XNDYwMzEwNjI1Ng==]
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
+      <link>https://leoyanlili.github.io/v-understand-user-story/</link>
+      <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/v-understand-user-story/</guid>
+      <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器
+[https://player.youku.com/embed/XNDYwMjQyNTI2MA==]
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
+      <link>https://leoyanlili.github.io/product-backlog-prioritization/</link>
+      <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/product-backlog-prioritization/</guid>
+      <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么我们需要优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h2&amp;gt; 什么是产品待办事项优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;div class=&amp;quot;uvc-sub-heading ult-responsive&amp;quot; data-ultimate-target=&amp;quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &amp;quot; data-responsive-json-new=&amp;quot;{&amp;amp;quot;font-size&amp;amp;quot;:&amp;amp;quot;desktop:14px;&amp;amp;quot;,&amp;amp;quot;line-height&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}&amp;quot;&amp;gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&amp;lt;br /&amp;gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&amp;lt;br /&amp;gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;待办事项优先级排序的优势&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 商业利益&amp;lt;br /&amp;gt; -最快的投资回报&amp;lt;br /&amp;gt; -客户或业务满意度&amp;lt;br /&amp;gt; -更好地管理依赖项&amp;lt;br /&amp;gt; -最小化风险&amp;lt;br /&amp;gt; -关注价值驱动的开发 &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 对Scrum团队的优势&amp;lt;br /&amp;gt; -通过选择的故事进行有效的梳理&amp;lt;br /&amp;gt; -通过选择的故事进行有效的Sprint计划&amp;lt;br /&amp;gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&amp;lt;br /&amp;gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_empty_space&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;优先级排序中对待不同的待办事项条目&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;p&amp;gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-976&amp;quot; src=&amp;quot;https://www.</description>
+    </item>
+    
+    <item>
+      <title>理解Scrum 度量和关键绩效指标</title>
+      <link>https://leoyanlili.github.io/understanding-scrum-metrics/</link>
+      <pubDate>Tue, 07 Apr 2020 09:37:16 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/understanding-scrum-metrics/</guid>
+      <description>—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更及时的更新通知。</description>
+    </item>
+    
+    <item>
+      <title>「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</title>
+      <link>https://leoyanlili.github.io/7-minutes-scrum/</link>
+      <pubDate>Fri, 03 Apr 2020 09:23:12 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/7-minutes-scrum/</guid>
+      <description>[https://player.youku.com/embed/XNDYxNzcyMjYwMA==]</description>
+    </item>
+    
+    <item>
+      <title>「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</title>
+      <link>https://leoyanlili.github.io/scrum-okr-kpi-metrics/</link>
+      <pubDate>Mon, 30 Mar 2020 04:06:56 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/scrum-okr-kpi-metrics/</guid>
+      <description>[https://player.youku.com/embed/XNDYxMDk3Mzg4MA==]</description>
+    </item>
+    
+    <item>
+      <title>「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</title>
+      <link>https://leoyanlili.github.io/scrum-and-kanban/</link>
+      <pubDate>Mon, 30 Mar 2020 04:00:37 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/scrum-and-kanban/</guid>
+      <description>[https://player.youku.com/embed/XNDYwMjg2OTgzMg==]</description>
+    </item>
+    
+    <item>
+      <title>选择合适自己的敏捷认证培训</title>
+      <link>https://leoyanlili.github.io/your-favorite-agile-certification/</link>
+      <pubDate>Sun, 29 Mar 2020 15:04:52 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/your-favorite-agile-certification/</guid>
+      <description>考试和证书：考试有专门考点，监考严格，纸质考试。考试包含120个选择题，其中100道为打分题，20道不计分（根据当次考试情况选取），考试后6-7周在线出成绩。证书更新周期是每三年，可以通过获得PDU或支付费用来刷新。
+考试和证书：考试包含50个选择题，答对37个合格，培训结束当天就可以考试，马上在线出成绩。证书更新周期是每三年，可以通过获得SDU或支付费用来刷新，认证还给PDU的哦。
+考试和证书：包含80个选择问题，答对68题通过。证书永久有效。
+考试和证书：考试包含40个选择题, 答对26题通过。证书永久有效。
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
+    </item>
+    
+    <item>
+      <title>「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</title>
+      <link>https://leoyanlili.github.io/how-to-develop-scrum-team/</link>
+      <pubDate>Fri, 27 Mar 2020 10:46:38 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/how-to-develop-scrum-team/</guid>
+      <description>[https://player.youku.com/embed/XNDYwMTM1Nzg4MA==]</description>
+    </item>
+    
+    <item>
+      <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
+      <link>https://leoyanlili.github.io/scrum-is-not-agilesoftware-framework/</link>
+      <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/scrum-is-not-agilesoftware-framework/</guid>
+      <description>2019-新冠病毒疫情最新情报速递
+Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。
+许多Scrum专家说：Scrum是一个产品开发框架。
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
   </channel>

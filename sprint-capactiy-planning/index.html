@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划 | 捷伴行Agile</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解关于产能规划的话题：
+&lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &lt;/p&gt; &lt;p&gt; 1. &lt;strong&gt;故事点&lt;/strong&gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &lt;/p&gt; &lt;p&gt; 2. &lt;strong&gt;小时&lt;/strong&gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&lt;br /&gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&lt;br /&gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h4&gt; &lt;span class=&quot;dt-highlight&quot;&gt;Step 1 – 计算Sprint持续时间&lt;/span&gt; &lt;/h4&gt; &lt;p&gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&lt;br /&gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&lt;br /&gt; 黄色=上一个Sprint&lt;br /&gt; 绿色=当前的Sprint&lt;br /&gt; 蓝色=未来Sprint &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-large wp-image-1049&quot; src=&quot;https://www.">
+    <meta name="generator" content="Hugo 0.110.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="敏捷Scrum开发7大事件之2：团队Sprint产能规划" />
+<meta property="og:description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解关于产能规划的话题：
+&lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &lt;/p&gt; &lt;p&gt; 1. &lt;strong&gt;故事点&lt;/strong&gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &lt;/p&gt; &lt;p&gt; 2. &lt;strong&gt;小时&lt;/strong&gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&lt;br /&gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&lt;br /&gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h4&gt; &lt;span class=&quot;dt-highlight&quot;&gt;Step 1 – 计算Sprint持续时间&lt;/span&gt; &lt;/h4&gt; &lt;p&gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&lt;br /&gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&lt;br /&gt; 黄色=上一个Sprint&lt;br /&gt; 绿色=当前的Sprint&lt;br /&gt; 蓝色=未来Sprint &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-large wp-image-1049&quot; src=&quot;https://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://leoyanlili.github.io/sprint-capactiy-planning/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-04-16T12:49:55+00:00" />
+<meta property="article:modified_time" content="2020-04-16T12:49:55+00:00" />
+<meta itemprop="name" content="敏捷Scrum开发7大事件之2：团队Sprint产能规划">
+<meta itemprop="description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解关于产能规划的话题：
+&lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &lt;/p&gt; &lt;p&gt; 1. &lt;strong&gt;故事点&lt;/strong&gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &lt;/p&gt; &lt;p&gt; 2. &lt;strong&gt;小时&lt;/strong&gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&lt;br /&gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&lt;br /&gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h4&gt; &lt;span class=&quot;dt-highlight&quot;&gt;Step 1 – 计算Sprint持续时间&lt;/span&gt; &lt;/h4&gt; &lt;p&gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&lt;br /&gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&lt;br /&gt; 黄色=上一个Sprint&lt;br /&gt; 绿色=当前的Sprint&lt;br /&gt; 蓝色=未来Sprint &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-large wp-image-1049&quot; src=&quot;https://www."><meta itemprop="datePublished" content="2020-04-16T12:49:55+00:00" />
+<meta itemprop="dateModified" content="2020-04-16T12:49:55+00:00" />
+<meta itemprop="wordCount" content="948">
+<meta itemprop="keywords" content="Agile Metrics,agile project managememt,capacity planning,Scrum,敏捷实践,敏捷框架,敏捷计划,敏捷项目管理,系统之美,系统思维," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="敏捷Scrum开发7大事件之2：团队Sprint产能规划"/>
+<meta name="twitter:description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解关于产能规划的话题：
+&lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &lt;/p&gt; &lt;p&gt; 1. &lt;strong&gt;故事点&lt;/strong&gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &lt;/p&gt; &lt;p&gt; 2. &lt;strong&gt;小时&lt;/strong&gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&lt;br /&gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&lt;br /&gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h4&gt; &lt;span class=&quot;dt-highlight&quot;&gt;Step 1 – 计算Sprint持续时间&lt;/span&gt; &lt;/h4&gt; &lt;p&gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&lt;br /&gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&lt;br /&gt; 黄色=上一个Sprint&lt;br /&gt; 绿色=当前的Sprint&lt;br /&gt; 蓝色=未来Sprint &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-large wp-image-1049&quot; src=&quot;https://www."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  <header class="cover bg-top" style="background-image: url('https://leoyanlili.github.io/wp-content/uploads/2020/04/Capacity-Planning-250x250.png');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        捷伴行Agile
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/goisforlovers/" title="(Hu)go Template Primer page">
+              (Hu)go Template Primer
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/hugoisforlovers/" title="Getting Started with Hugo page">
+              Getting Started with Hugo
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="" title="tutorials page">
+              tutorials
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">敏捷Scrum开发7大事件之2：团队Sprint产能规划</div>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.facebook.com/sharer.php?u=https://leoyanlili.github.io/sprint-capactiy-planning/" class="ananke-social-link facebook no-underline" aria-label="share on Facebook">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+      
+      <a href="https://twitter.com/share?url=https://leoyanlili.github.io/sprint-capactiy-planning/&amp;text=%e6%95%8f%e6%8d%b7Scrum%e5%bc%80%e5%8f%917%e5%a4%a7%e4%ba%8b%e4%bb%b6%e4%b9%8b2%ef%bc%9a%e5%9b%a2%e9%98%9fSprint%e4%ba%a7%e8%83%bd%e8%a7%84%e5%88%92" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">敏捷Scrum开发7大事件之2：团队Sprint产能规划</h1>
+      
+      <p class="tracked">
+        By <strong>老彦</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-04-16T12:49:55Z">April 16, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><blockquote>
+<!-- raw HTML omitted -->
+<p>《系统之美》</p>
+</blockquote>
+<p>前言，在本文中，我们将从以下几点了解关于产能规划的话题：</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          1. &lt;strong&gt;故事点&lt;/strong&gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          2. &lt;strong&gt;小时&lt;/strong&gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&lt;br /&gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&lt;br /&gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;Step 1 – 计算Sprint持续时间&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&lt;br /&gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&lt;br /&gt; 黄色=上一个Sprint&lt;br /&gt; 绿色=当前的Sprint&lt;br /&gt; 蓝色=未来Sprint
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  &lt;img class=&quot;alignnone size-large wp-image-1049&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-2.png&quot; alt=&quot;&quot; width=&quot;336&quot; height=&quot;328&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-2.png 336w, https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-2-300x293.png 300w&quot; sizes=&quot;(max-width: 336px) 100vw, 336px&quot; /&gt;
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;Step 2 – 计算团队成员的可用性&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  假设有7个成员团队，4个开发人员和3个测试人员，此处不计算SM和PO，因为不需要在产能规划中计算他们的产能
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1051&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-10.png&quot; alt=&quot;&quot; width=&quot;256&quot; height=&quot;216&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;Step 3 –  确定成员的投入比率 %&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  现在确定共享资源（如果有），如果没有共享资源，将计算每个100％分配给此Scrum团队的资源。 假设有一个测试者（测试者3），他在两个团队之间共享，在这个示例中，他分配给该团队的50％产能。
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  &lt;img class=&quot;alignnone size-large wp-image-1048&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-1.png&quot; alt=&quot;&quot; width=&quot;388&quot; height=&quot;216&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-1.png 388w, https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-1-300x167.png 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-1-355x199.png 355w&quot; sizes=&quot;(max-width: 388px) 100vw, 388px&quot; /&gt;
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;Step 4 – 计算每天的标准时间&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  如果我们假设每个人每天有8个小时的总分配时间，则共享资源将每天为该团队分配4个小时的时间。 对于10天Sprint，整个团队的最大总产能为520小时，每天具有52小时，包括共享测试人员。 在此sprint持续时间内，每个人有10天80小时，分配50％的共享资源有40小时。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-1040&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Capacity-Planning_1-1024x350-1.gif&quot; alt=&quot;&quot; width=&quot;1024&quot; height=&quot;350&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;p&gt;
+                  现在让我们看看日历中的情况如何
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  &lt;img class=&quot;alignnone size-large wp-image-1041&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Capacity-Planning_2-1024x910-1.gif&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;675&quot; /&gt;
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;&lt;b&gt;Step &lt;/b&gt;&lt;b&gt;5 &lt;/b&gt;&lt;b&gt;–  考虑多种因素&lt;/b&gt;&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  &lt;strong&gt;1. 团队假期&lt;/strong&gt;
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  标记整个团队的非工作日期。 国定假日等。
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  &lt;strong&gt;2. 计算个人不在工作上的时间&lt;/strong&gt;
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  计算如果有计划请假或不在办公室的资源。
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  &lt;strong&gt;3. 不同的默认工作日小时数&lt;/strong&gt;
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  有时候可能将个别团队成员作为例外，将默认时间从8小时更改为其他时间。
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  &lt;img class=&quot;alignnone size-large wp-image-1045&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Default-Pic.png&quot; alt=&quot;&quot; width=&quot;735&quot; height=&quot;270&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Default-Pic.png 735w, https://www.agilewalker.com/wp-content/uploads/2020/04/Default-Pic-300x110.png 300w&quot; sizes=&quot;(max-width: 735px) 100vw, 735px&quot; /&gt;
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;p&gt;
+                  假设– 1月9日为团队度假，在这种情况下：从这张图片中我们可以看到，总产能和个人产能相应减少。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1047&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Holiday.png&quot; alt=&quot;&quot; width=&quot;735&quot; height=&quot;284&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Holiday.png 735w, https://www.agilewalker.com/wp-content/uploads/2020/04/Holiday-300x116.png 300w&quot; sizes=&quot;(max-width: 735px) 100vw, 735px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;p&gt;
+                  &amp;nbsp;
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  假设–开发人员1，开发人员2和测试人员1在三个不同的天计划休息一天。 通过应用我们可以从这张图片中看到的，总产能和个人产能会相应减少。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1050&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-8.png&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;294&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-8.png 981w, https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-8-300x116.png 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Profile-Pic-8-768x297.png 768w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;p&gt;
+                  &amp;nbsp;
+                &lt;/p&gt;
+                
+                &lt;p&gt;
+                  如果开发人员3计划在1月13日进行半天工作，则计划产能将相应更改，如下所示
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1046&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Half-Holiday.png&quot; alt=&quot;&quot; width=&quot;735&quot; height=&quot;284&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Half-Holiday.png 735w, https://www.agilewalker.com/wp-content/uploads/2020/04/Half-Holiday-300x116.png 300w&quot; sizes=&quot;(max-width: 735px) 100vw, 735px&quot; /&gt;&lt;/figure&gt; 
+              
+              &lt;p&gt;
+                &amp;nbsp;
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;&lt;b&gt;Step &lt;/b&gt;&lt;b&gt;6 &lt;/b&gt;&lt;b&gt;–  考虑团队所有人需要消耗时间的其他工作&lt;/b&gt;&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  考虑其他会议和敏捷仪式所需的时间。 下图显示了团队在每次仪式和其他会议上花费的典型时间。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1044&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/CapacityPlanning-1024x213-1.gif&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;158&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;p&gt;
+                  从产能中减少12.33小时。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1042&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Capacity-Planning_3-1024x280-1.gif&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;208&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                &lt;/h4&gt;
+                
+                &lt;h4&gt;
+                  &lt;span class=&quot;dt-highlight&quot;&gt;&lt;b&gt;Step &lt;/b&gt;&lt;b&gt;7 &lt;/b&gt;&lt;b&gt;–  考虑专注因素&lt;/b&gt;&lt;/span&gt;
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  针对团队的专注程度进行计划，以便应对任何计划外的时间损失，同时记得每天8小时里的休息时间，临时计划内的会议，其他正式活动，培训，与专家的讨论等。为无法预料的事情保留专注因素。该值可以在75％到95％之间变化。产能时间 X 专注因素 = 最终产能。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1043&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Capacity-Planning_4-1024x245-1.gif&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;182&quot; /&gt;&lt;/figure&gt; 
+              
+              &lt;p&gt;
+                &lt;span style=&quot;font-size: 24px; font-weight: bold;&quot;&gt;因此，Sprint 2团队的最终产能为318.32小时&lt;/span&gt;
+              &lt;/p&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  &lt;b&gt;总结下7个步骤&lt;/b&gt;
+                &lt;/h4&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-top vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-3&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;ult_pricing_table_wrap ult_info_table ult_design_5 ult-cs-gray &quot;&gt;
+              &lt;div class=&quot;ult_pricing_table &quot;&gt;
+                &lt;div id=&quot;info_table_features_wrap-4551&quot; class=&quot;ult-responsive ult_price_features&quot; data-ultimate-target=&quot;#info_table_features_wrap-4551.ult_price_features&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+                  &lt;p&gt;
+                    &lt;img class=&quot;alignnone size-large wp-image-1052&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/summary-1024x313.png&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;232&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/summary-1024x313.png 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/summary-300x92.png 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/summary-768x235.png 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/summary.png 1456w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-3&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h4&gt;
+                  请注意
+                &lt;/h4&gt;
+                
+                &lt;p&gt;
+                  这些值，百分比和小时数仅用于以上示例。 需要根据自己的需要和事实来确定。&lt;br /&gt; 1. 计算最适合项目的专注因素取值（75%-95%）。&lt;br /&gt; 2. 根据Sprint周期确定的Sprint持续时间。&lt;br /&gt; 3. 为开发人员/测试人员和Scrum团队中的其他任何角色（SM和PO除外）进行计划。&lt;br /&gt; 4. 在团队中按实际分配团队成员。&lt;br /&gt; 5. 类似团队假期，个人计划假期，部分投入时间等因素，且不仅限于这三个因素。&lt;br /&gt; 6. 根据您的时间表计算仪式时间，以及其他计划中的会议。&lt;br /&gt; 7. 在上面的示例中，有些计算并不完美，对于示例来说可以避免复杂化和过于精细。
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_raw_code wpb_content_element wpb_raw_html&quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          在Scrum Master的协助下，Scrum团队可以在进行Sprint规划之前确定产能。 最佳时间就在针对任何特定Sprint的 &lt;strong&gt;Sprint规划之前&lt;/strong&gt;，可以最直观的了解成员的休假计划或 相关Sprint仪式需要的时间。&lt;br /&gt; 各个团队可以更新其可用时间，Scrum Master可以帮助团队了解如何计算其个人能力。 Sprint规划之前，Scrum Master可以与团队进行30分钟的快速会议，据此计算和更新产能规划。 我的建议是在Sprint 规划之前的1或2天与团队一起计算Excel中的所有因素，当团队足够成熟以后，可以在很少的干预下自行完成。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          产能规划可以帮助团队评估团队能承诺和完成用户故事的范围，特别是当按小时估算产能并用个人产能和他/她分配的估算任务时间映射到已承诺的用户故事的任务时。团队可以识别在Sprint规划中承诺用户故事时会受到的限制条件。&lt;br /&gt; 之所以一直偏爱小时数而不是故事点速率的产能规划，是因为它可以通过简单地用天，假期，请假，其他时间，专注因子等数学运算来轻松计算可用小时数，从而获得团队产能。从技术上讲，这在用故事点速率时是不可能的。&lt;br /&gt; 其次，不能将故事（具有故事点）分配给单个成员，因为完成故事需要团队努力。要是在团队成员之间分发所有故事点！简直不敢想象。一个故事（无论故事点是什么）可以有多个任务（每个任务的工作量以小时为单位）可以轻松地分配给一个或多个团队成员，每个任务可以分配给每个成员。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          总之至少包含这四条：&lt;strong&gt;更好的Sprint规划&lt;/strong&gt;，&lt;strong&gt;提高了承诺可靠性&lt;/strong&gt;，&lt;strong&gt;控制需求的蔓延&lt;/strong&gt;，&lt;strong&gt;更合理的任务分配&lt;/strong&gt;。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<p>—</p>
+<p>END</p>
+<p>希望能在评论区学习到大家的经验和想法~</p>
+<p>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</p>
+<!-- raw HTML omitted -->
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/agile-metrics/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Agile Metrics</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/agile-project-managememt/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">agile project managememt</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/capacity-planning/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">capacity planning</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/scrum/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">scrum</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷实践</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷框架</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷计划</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷项目管理</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E7%B3%BB%E7%BB%9F%E4%B9%8B%E7%BE%8E/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">系统之美</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E7%B3%BB%E7%BB%9F%E6%80%9D%E7%BB%B4/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">系统思维</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/product-backlog-prioritization/">敏捷Scrum开发7大事件之1：产品待办列表优先级排序</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-user-story-splitting/">「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-crash-course/">「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-understand-user-story/">「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/sprint-burndown-chart/">敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/sprint-burndown-chart-2/">敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-coach-overview/">「视频」敏捷教练的工作是什么？让我们总览一下</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/burn-down-chart/">「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/understanding-scrum-metrics/">理解Scrum 度量和关键绩效指标</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/what-is-agile-coach/">告诉你的CxO敏捷教练是什么</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/7-minutes-scrum/">「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-okr-kpi-metrics/">「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-and-kanban/">「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/your-favorite-agile-certification/">选择合适自己的敏捷认证培训</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/how-to-develop-scrum-team/">「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://leoyanlili.github.io/" >
+    &copy;  © Copyright 2023 捷伴行Agile 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

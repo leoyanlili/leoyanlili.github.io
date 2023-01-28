@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Scrum框架的局限性在哪里？ | 捷伴行Agile</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="
+By Mark Levison
+
+
+Posted on January 29, 2019Posted on January 29, 2019
+
+我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。">
+    <meta name="generator" content="Hugo 0.110.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Scrum框架的局限性在哪里？" />
+<meta property="og:description" content="
+By Mark Levison
+
+
+Posted on January 29, 2019Posted on January 29, 2019
+
+我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://leoyanlili.github.io/where-scrum-limits/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-09-28T13:26:15+00:00" />
+<meta property="article:modified_time" content="2020-09-28T13:26:15+00:00" />
+<meta itemprop="name" content="Scrum框架的局限性在哪里？">
+<meta itemprop="description" content="
+By Mark Levison
+
+
+Posted on January 29, 2019Posted on January 29, 2019
+
+我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。"><meta itemprop="datePublished" content="2020-09-28T13:26:15+00:00" />
+<meta itemprop="dateModified" content="2020-09-28T13:26:15+00:00" />
+<meta itemprop="wordCount" content="120">
+<meta itemprop="keywords" content="agile methodology,Scrum," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Scrum框架的局限性在哪里？"/>
+<meta name="twitter:description" content="
+By Mark Levison
+
+
+Posted on January 29, 2019Posted on January 29, 2019
+
+我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        捷伴行Agile
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/goisforlovers/" title="(Hu)go Template Primer page">
+              (Hu)go Template Primer
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/hugoisforlovers/" title="Getting Started with Hugo page">
+              Getting Started with Hugo
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="" title="tutorials page">
+              tutorials
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.facebook.com/sharer.php?u=https://leoyanlili.github.io/where-scrum-limits/" class="ananke-social-link facebook no-underline" aria-label="share on Facebook">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+      
+      <a href="https://twitter.com/share?url=https://leoyanlili.github.io/where-scrum-limits/&amp;text=Scrum%e6%a1%86%e6%9e%b6%e7%9a%84%e5%b1%80%e9%99%90%e6%80%a7%e5%9c%a8%e5%93%aa%e9%87%8c%ef%bc%9f" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Scrum框架的局限性在哪里？</h1>
+      
+      <p class="tracked">
+        By <strong>老彦</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-09-28T13:26:15Z">September 28, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><blockquote>
+<p>By Mark Levison</p>
+</blockquote>
+<blockquote>
+<p>Posted on January 29, 2019Posted on January 29, 2019</p>
+</blockquote>
+<p><em>我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。</em></p>
+<h3 id="scrum在哪里适用">Scrum在哪里适用？</h3>
+<p>Scrum是一种工具，用于建立能够成功应对不断变化的业务环境的自治，自组织，高绩效团队和组织。 人们通常选择使用Scrum的原因，是因为他们想要更高的质量或更快的速度，而不明白这其实是高绩效团队的成果，而不是Scrum本身。</p>
+<p>Scrum已在各行各业的团队中得到有效利用，包括软件开发（其成长起来的行业），硬件开发，制造，市场营销，人力资源…甚至战斗机和天然气厂设计！ 这些截然不同的行业的共同点是它们依赖一种知识工作形式，这可以被理解为主要涉及的非常规问题解决的工作，而这些问题通常需要创造性思维。 知识工作得益于协作，这是Scrum团队的主要重点，因此Scrum非常适合这些行业也就不足为奇了。</p>
+<p>由于团队是Scrum的核心工作单位，因此Scrum的许多局限性源于组织的团队结构。</p>
+<h3 id="scrum良好运行的关键条件">Scrum良好运行的关键条件</h3>
+<p>现在了解Scrum在哪里有效，我们可以考虑在给定的工作环境中Scrum正常运行需要哪些结构基础。</p>
+<p><strong>知识工作</strong>–看起来似乎显而易见，但值得说明的是：组织（包括大多数零售和服务行业）基于日常任务的执行而无需执行复杂的问题解决或创造性思维，就不会从使用Scrum框架中受益。</p>
+<p><strong>共同目标</strong>–一群人只有在有共同目标时才成为一个“团队”。 在软件开发中，共同的目标来自产品愿景和策略。 在营销团队中，这可能以品牌策略或营销活动计划的形式出现。 无论从事哪个行业，这个目标必须使所有团队成员的工作团结在一起，比他们各自的做出的贡献更重要。 没有一个共同的目标，就没有真正的凝聚力团队，凝聚力是关键。</p>
+<p><strong>足够的挑战</strong>–与“共同目标”并驾齐驱的是问题必须具有足够的挑战性，以至于人们独自一人无法完成工作。 如果人们可以在不与他人互动的情况下工作并且仍然实现自己的目标，那么他们通常会选择这样做。 问题的难度必须保证使用团队，否则Scrum只是不必要的开销而已。</p>
+<p><strong>专注的团队成员关系</strong>–在许多场合下多任务处理的成本已显而易见，并且不再像从前那样被视为一种理想的技能。指派人员到一个以上的团队中工作会迫使他们执行多项任务，从而降低他们的生产力。任何形式的多任务处理都会使人们减少产能。将他们分配给多个团队是最糟糕的事情。由于他们从一种工作环境切换到另一种环境时的延误和重新集中精力的消耗而降低了他们的产能，并且团队在等待该人员投入工作前将遇到瓶颈。最终，犯错误的数量将增加，部分原因是这些人切换环境时候会忘记关键细节。证据表明，人员专注在一个团队（只有一个团队）会使所有相关团队的吞吐量提高一倍。没有专注的团队成员关系，所有群体注定会降低生产力，而真正的团队（还不算指高绩效团队）就永远不会成立。在这种环境下，Scrum将受到极大的束缚。</p>
+<p><strong>稳定的团队成员关系</strong>–有效的团队需要时间才能组建。 新团队需要6到8个月的时间才能形成真正有效的凝聚力。 此外，每次成员变更时，团队的生产力都会暂时下降。 几个月后，他们可能会恢复实力，甚至可能最终有所提高，但是有些团队永远都无法恢复。 在团队成员频繁更换的情况下，团队将始终处于较低的绩效水平。</p>
+<p><strong>较低的变更成本</strong>–敏捷的时代已来临，因为软件变更的成本已大大降低。 多年来的许多工作都集中在进一步降低进行变更的成本上-从持续集成和测试驱动开发，到DevOps和行为驱动开发。 现代软件开发工作中的变更成本不是零，但比绿色屏幕和大型机要低得多。 为了使任何口味的敏捷都能在新环境中取得成功，降低变更成本（甚至是在后期）必须成为重中之重。 如果进行变更，在工作中会产生大量成本，那么敏捷/ Scrum就不太实用了。</p>
+<p><strong>可计划的</strong>– Scrum团队通常以两周的Sprint进行工作，因此他们需要至少能够提前计划那么长时间的工作并允许进行小的更改。 例如，一个软件开发团队拥有足够的灵活性，可以在sprint中期解决一个生产支持问题，而不会影响Sprint的主要工作。 营销团队可以根据收到的有关客户行为的新数据来调整其营销活动。 实际的限制是至少有一半的团队工作是可计划的。 整个业务模式都是为了响应不可预测的客户需求的公司，如果使用Scrum来组织未来的工作，无法从中受益。 注意：在维修行业之外，很少有企业能够在纯粹的基于响应的业务上长期生存。</p>
+<p><strong>被赋权的</strong>–团队只有在团队成员感到自治的情况下才能组建。 Scrum通过将团队建立为自组织的方式明确了这一点。 希望这绝不是缺少的关键条件，但是，如果确实如此，尝试应用Scrum并不会帮助团队变得自组织和高效，但可能会暴露出问题，因此可以先解决此问题，然后再继续进行。</p>
+<p><strong>跨技能是可能的</strong>– Scrum（和看板团队）通过共享技能消除瓶颈，直到多个团队成员始终能够解决延迟。 瓶颈是实现高性能的根本上重要的障碍，组织最终必须解决它们。 丰田的方法是向人们支付更多报酬，以便能够处理多个工作站。 在医疗保健领域，有些司法管辖区开始通过允许以前仅由医生完成的某些工作现在由护士或执业护士来解决此问题。 同时，在某些工作环境中，由于法规，法律或根本不同的技能领域（例如，艺术家和金属工人），跨技能的适用性或价值可能受到限制，Scrum的价值也受到限制。</p>
+<p><strong>早期交付和测试</strong>–在Scrum中，我们不认为对用户需求的期望是正确的。 相反，我们希望尽早交付产品并收集反馈。 我们在产品发现而非创造的方式中工作。 在无法在每个Sprint结束时交付有效产品的环境中，我们无法收集反馈。 解决方案是在每个Sprint的末尾找到要展示的内容并获得反馈。</p>
+<p><strong>一起办公</strong>–将所有团队成员都放在同一房间仍然是最佳选择。 人类已经经历了数百万年的面对面互动，因此这仍然是组建协作团队的最佳方法。 尽管远程工作和分布式团队目前在许多企业中很流行，但这些所带来的挑战却是巨大的，并导致高性能团队需要更长的成长时间。 如果绝对不可避免地要采用分布式的团队，则应用Scrum做法（例如每日站立）将更具挑战性，需要适应过程。 在分散的团队中仍然可以有效地实践Scrum –只是难度要大得多。</p>
+<h3 id="scrum应用不理想的例子">Scrum应用不理想的例子</h3>
+<p>因此，既然我们了解了Scrum的工作原理以及成功的条件，以下我们的排序是从Scrum最不可能提供帮助的团队到虽有挑战性但仍然可以受益的团队。</p>
+<p><strong>建筑施工</strong>–当一个团队负责浇筑混凝土或铺路时，变更的成本实际上就是工程成本。 总体而言，敏捷方法仍然可以使用，但是会增加成本。 考虑精益建设，帝国大厦和伦敦碎片是这类方法的例子。</p>
+<p><strong>服务台和维修服务</strong>–组织中的人员提供数字或基于电话的支持服务时，他们的工作确实涉及“知识工作”的关键条件，但这完全是由中断引起的。 他们可以开始处理一个问题，但是当打来的电话涉及到更重要的问题时，他们必须进行切换。 这种模式在一天中可能会重复多次。 这不符合“可计划的”条件，因此Scrum在这种情况下将无效。 考虑使用其他工具（例如看板）来改善通过任何系统的流程。 这也可能适用于其他组织和服务-基本上在知识是主要要求但工作不可计划的任何地方。</p>
+<p><strong>后台操作</strong>–许多组织都有从事所有后台工作的小组，例如财务和其他相关部门。 其中大部分工作（发票，费用跟踪和其他簿记工作）都是由独立工作的个人有效完成的。 尽管这项工作是基于知识的，但它通常是重复性的，因此不会具有挑战性。 这些小组通常缺乏清晰的愿景或共同目标。 我们仍然考虑使用看板而不是Scrum，作为更好地了解这些小组内部工作流程的工具。</p>
+<p><strong>基础架构和技术</strong>–大多数组织还拥有配置笔记本电脑，服务器，安全性，网络，防火墙和其他技术基础架构的人员。 与后勤工作相比，这项知识工作没有那么重复，而且更具挑战性，并且它可以从协作中受益，因为问题通常需要多个技能来解决。 这些小组通常也有一个共同目标（例如，保持内部用户的生产力和安全性）。 但是在许多情况下，他们的计划外工作超出了计划内工作。 但是，Scrum可以通过关注团队的计划外工作量，从而帮助他们投入工作以减少这些工作。</p>
+<p><strong>现有的商业应用</strong>–组织经常将许多后端软件（例如Gmail，QuickBooks，Expensify）外包给云供应商。这很好，不过最终，会有足够多的应用程序需要偶尔更改（新用户，新记帐规则等）。这些应用程序都不需要一全职个人来维护，因此最终可能需要6-7个人来维护10-15个单独的应用程序。缺乏明确的共同目标，该小组不太可能成为一个团队。 Scrum可以工作，但价值可能有限。对于基础架构和团队而言，挑战在于他们的知识可能会分散，因为人们没有理由学习另一位团队成员所在的领域。无论团队选择Scrum，看板还是其他框架，这将仍然是一个问题。考虑问问该小组是否可以重组以创建一个可能实现共同目标的空间。另一种选择是，团队可以根据自己的情况来制定目标。这些灵感来自与Petri Heiramo的对话：</p>
+<p>鉴于他们工作的“产品”显然不足以团结他们，因此讨论需要转移到比他们正在做的工作更伟大的事情上。 他们想成为有史以来最好的支持团队吗？ 他们愿意有一半的时间做自己想做的事情吗？ 他们是否想不用做他们的工作，并尝试使其尽可能自动化？ 他们是否知道自己正在改善别人的生活，他们是否可以为此目的制定一些有价值的目标？</p>
+<p>一种可能是问他们工作的快乐程度。如果他们不快乐，那么下一个问题可能是他们愿意努力使自己快乐。毕竟，他们的三个主要选择是：1）继续做自己在做的事情，并仍然不快乐； 2）做一些使自己更快乐，为自己的工作感到自豪的事情，或3）离开公司去做其他事情。显然，3是不理想的，也不是一个很好的起点，因此选择实际上应该在1到2之间。然后下一步是问他们是什么使他们对工作感到高兴和自豪，是什么使他们对工作感到不快乐和羞愧。这可以帮助他们建立共同的目标，使他们变得更快乐，并找到纠正措施的起点。可能会讨论如何衡量幸福和自豪感（即如何知道他们正在朝着自己的目标迈进）。只要他们在工作上取得了一些引以为傲的具体进展，他们可能会达成一些自我奖励的约定（例如星期五的啤酒），进展可以是：</p>
+<ul>
+<li>消除最深层的信息瓶颈，那些能让他们在休假的时候还要带着工作压力的阻碍。</li>
+<li>清除他们最严重的技术问题。</li>
+<li>使脾气暴躁的客户对其团队/服务感到满意甚至高兴。</li>
+<li>建立一些新的实践来提高生产率或减少反馈周期。</li>
+</ul>
+<p><strong>单独的工作</strong>-任何没有合作前景的业务问题（每个人或公司都孤立工作），也不会直接从Scrum中受益。 毕竟，没有团队可以成长。 在这种情况下，请考虑“个人敏捷”和“个人看板”。</p>
+<p>团队成员分布在多个团队，没有稳定的成员关系– 这让我无法想象能有一个理想的业务环境。 如果是这种情况，Scrum能非常有效地工作以突出组织上的障碍，但不会帮助解决问题。 在每个研讨会中，我们都讨论Scrum是发现问题的工具这一事实。 从长远来看，当组织认真对待去解决Scrum发现的此类问题（而不仅仅是管理它们）时，Scrum就能成功。</p>
+<p>我们对Scrum的应用会有不少限制，但是它们比大多数人想象的要广泛得多。</p>
+<p>感谢Petri Heiramo为现有商业应用维护团队提供的建议和远见卓识。</p>
+<p>原文链接：<a href="https://agilepainrelief.com/blog/what-are-the-limits-of-the-scrum-framework.html">https://agilepainrelief.com/blog/what-are-the-limits-of-the-scrum-framework.html</a></p><ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/agile-methodology/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">agile methodology</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/scrum/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">scrum</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/understand-kanban/">如何理解并应用精益敏捷Kanban看板</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-how-to-set-okr/">「视频」6分钟说如何设定一个好的OKR(搬砖推荐)</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-beginner-ppt-intro/">Scrum入门系列PPT之-Scrum介绍</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/translation-beyond-google/">翻译敏捷行业专业外文，不只是谷歌翻译</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/designthinking-leanstartup-agile/">有价值的产品=设计思维&#43;精益创业&#43;敏捷方法</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/how-to-use-grow-model/">运用GROW模型，提问的艺术，敏捷教练基本功</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-product-ownership/">「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/sprint-capactiy-planning/">敏捷Scrum开发7大事件之2：团队Sprint产能规划</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-crash-course/">「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/sprint-burndown-chart/">敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-user-story-splitting/">「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-understand-user-story/">「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/product-backlog-prioritization/">敏捷Scrum开发7大事件之1：产品待办列表优先级排序</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/understanding-scrum-metrics/">理解Scrum 度量和关键绩效指标</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/7-minutes-scrum/">「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://leoyanlili.github.io/" >
+    &copy;  © Copyright 2023 捷伴行Agile 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

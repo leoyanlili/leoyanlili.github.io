@@ -1,0 +1,10 @@
+url: https://www.agilewalker.com
+name: '捷伴行Agile - 促进敏捷文化在软件领域传播，并在广泛领域有趣创新'
+description: >
+  促进敏捷文化在软件开发领域传播，并在广泛领域获得有趣创新
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+

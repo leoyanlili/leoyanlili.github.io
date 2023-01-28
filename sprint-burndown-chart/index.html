@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇） | 捷伴行Agile</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
+&lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1004&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; &amp;nbsp; &lt;/p&gt; &lt;p&gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &lt;/p&gt; &lt;p&gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&lt;br /&gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&lt;br /&gt; 因此，从所有这些信息中，开始绘制燃尽图 &lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;strong&gt;Total Days of the sprint = 10 days&lt;/strong&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt;Total committed &amp; estimated task hours for the team = 110 Hours&lt;/strong&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p&gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&lt;br /&gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&lt;br /&gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1003&quot; src=&quot;https://www.">
+    <meta name="generator" content="Hugo 0.110.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）" />
+<meta property="og:description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
+&lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1004&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; &amp;nbsp; &lt;/p&gt; &lt;p&gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &lt;/p&gt; &lt;p&gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&lt;br /&gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&lt;br /&gt; 因此，从所有这些信息中，开始绘制燃尽图 &lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;strong&gt;Total Days of the sprint = 10 days&lt;/strong&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt;Total committed &amp; estimated task hours for the team = 110 Hours&lt;/strong&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p&gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&lt;br /&gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&lt;br /&gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1003&quot; src=&quot;https://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://leoyanlili.github.io/sprint-burndown-chart/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-04-14T12:44:21+00:00" />
+<meta property="article:modified_time" content="2020-04-14T12:44:21+00:00" />
+<meta itemprop="name" content="敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）">
+<meta itemprop="description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
+&lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1004&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; &amp;nbsp; &lt;/p&gt; &lt;p&gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &lt;/p&gt; &lt;p&gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&lt;br /&gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&lt;br /&gt; 因此，从所有这些信息中，开始绘制燃尽图 &lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;strong&gt;Total Days of the sprint = 10 days&lt;/strong&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt;Total committed &amp; estimated task hours for the team = 110 Hours&lt;/strong&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p&gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&lt;br /&gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&lt;br /&gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1003&quot; src=&quot;https://www."><meta itemprop="datePublished" content="2020-04-14T12:44:21+00:00" />
+<meta itemprop="dateModified" content="2020-04-14T12:44:21+00:00" />
+<meta itemprop="wordCount" content="761">
+<meta itemprop="keywords" content="burndown chart,Scrum,Scrum Metrics,敏捷可视化,敏捷指标,敏捷评估,敏捷项目管理,燃尽图,用户故事,风险管理," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）"/>
+<meta name="twitter:description" content="《系统之美》
+前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
+&lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1004&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; &amp;nbsp; &lt;/p&gt; &lt;p&gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &lt;/p&gt; &lt;p&gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&lt;br /&gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&lt;br /&gt; 因此，从所有这些信息中，开始绘制燃尽图 &lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;strong&gt;Total Days of the sprint = 10 days&lt;/strong&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt;Total committed &amp; estimated task hours for the team = 110 Hours&lt;/strong&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p&gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&lt;br /&gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&lt;br /&gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt; &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1003&quot; src=&quot;https://www."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  <header class="cover bg-top" style="background-image: url('https://leoyanlili.github.io/wp-content/uploads/2020/04/chart1-250x250.png');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        捷伴行Agile
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/goisforlovers/" title="(Hu)go Template Primer page">
+              (Hu)go Template Primer
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/hugoisforlovers/" title="Getting Started with Hugo page">
+              Getting Started with Hugo
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="" title="tutorials page">
+              tutorials
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</div>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.facebook.com/sharer.php?u=https://leoyanlili.github.io/sprint-burndown-chart/" class="ananke-social-link facebook no-underline" aria-label="share on Facebook">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+      
+      <a href="https://twitter.com/share?url=https://leoyanlili.github.io/sprint-burndown-chart/&amp;text=%e6%95%8f%e6%8d%b7%e5%bc%80%e5%8f%91%e6%a1%86%e6%9e%b6Scrum%e5%b7%a5%e4%bb%b6-%e5%86%b2%e5%88%ba/%e8%bf%ad%e4%bb%a3%e7%87%83%e5%b0%bd%e5%9b%be%ef%bc%88%e4%b8%8a%e7%af%87%ef%bc%89" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</h1>
+      
+      <p class="tracked">
+        By <strong>老彦</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-04-14T12:44:21Z">April 14, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><blockquote>
+<!-- raw HTML omitted -->
+<p>《系统之美》</p>
+</blockquote>
+<p>前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>    &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+      &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1004&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          &amp;nbsp;
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&lt;br /&gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&lt;br /&gt; 因此，从所有这些信息中，开始绘制燃尽图
+        &lt;/p&gt;
+        
+        &lt;ol&gt;
+          &lt;li&gt;
+            &lt;strong&gt;Total Days of the sprint = 10 days&lt;/strong&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;strong&gt;Total committed &amp; estimated task hours for the team = 110 Hours&lt;/strong&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+        
+        &lt;p&gt;
+          如果将总小时数除以总天数平均值（110/10）= 11小时。&lt;br /&gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&lt;br /&gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+      &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1003&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown_Ideal-Line-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown_Ideal-Line-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown_Ideal-Line-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown_Ideal-Line-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown_Ideal-Line-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          &amp;nbsp;
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          基于当前sprint的示例，团队需要每天工作11个小时。 到第一天结束时，团队将能够完成110个小时的总工作时间中的11个小时。 因此，到第一天结束时，剩余总小时数将为110 – 11 = 99小时。 同样，到第二天结束时，剩余的工作时间将为99 – 11 = 88小时。 以这种方式，在最后一天结束之前，剩余的工作时间将为零。&lt;br /&gt; 这是未来的预测，你的excel预测到团队将能够每天工作11个小时，而这11个小时将相应减少剩余时间，因此每天的预测值是称为燃尽图的&lt;strong&gt;理想线&lt;/strong&gt;。 在冲刺的第一天将其绘制在图表上，这些线从第一天开始到最后一天结束。&lt;br /&gt; 但是实际上，由于以下原因，每天结束时的剩余时间不会与预测的相同。
+        &lt;/p&gt;
+        
+        &lt;ol&gt;
+          &lt;li&gt;
+            即使经过11个小时或更长时间的工作，剩余的时间也不必减少11个小时，因为11个小时只是估算值，一旦团队开始实际施工，实际的时间可能会与估算值有所不同。 在敏捷中，重要的是，我们不在乎已经完成了多少工作，在乎有多少待处理或剩余的工作。 牢记，每个人都会更新他们完成的每个任务的剩余时间。  如果第一天的总剩余时间为105小时，那么第一天的总消耗为110 – 105 = 5小时。 在理想线中是11个小时。
+          &lt;/li&gt;
+          &lt;li&gt;
+            由于产品负责人的关键优先级发生变化，范围可能会不断蔓延。这会突然增加或减少剩余时间，导致实际生产线突然上升或下降。
+          &lt;/li&gt;
+          &lt;li&gt;
+            团队成员生病了，那天分配给成员的任务可能不会被燃尽
+          &lt;/li&gt;
+          &lt;li&gt;
+            障碍，如外部依赖，开发环境等障碍可能会减慢预计的燃尽趋势。
+          &lt;/li&gt;
+          &lt;li&gt;
+            任何其他原因。
+          &lt;/li&gt;
+        &lt;/ol&gt;
+        
+        &lt;p&gt;
+          因此获得直到Sprint当前日期为止的每天实际剩余小时数，并绘制一条线，称为“&lt;strong&gt;实际线&lt;/strong&gt;”&lt;br /&gt; 请参考下图以了解燃尽图上实际燃尽线的流动方式
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h5&gt;
+                  &lt;strong&gt;第3天实际线&lt;/strong&gt;
+                &lt;/h5&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-994&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day3-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;1024&quot; height=&quot;576&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day3-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day3-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day3-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day3-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h5&gt;
+                  &lt;strong&gt;第6天实际线&lt;/strong&gt;
+                &lt;/h5&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-995&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day6-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day6-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day6-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day6-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day6-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h5&gt;
+                  &lt;strong&gt;最后一天实际线 &lt;/strong&gt;
+                &lt;/h5&gt;
+                
+                &lt;p&gt;
+                  &lt;img class=&quot;alignnone size-large wp-image-996&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day10-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day10-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day10-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day10-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Actual_Burndown_Line_Day10-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          如果燃尽图上多增加一条线是非常有用的。 这就是能力线。 如果谈论上面的示例，则团队已经承诺在10天的冲刺中总共投入110个小时的工作，在此假设团队的能力为130个小时。&lt;br /&gt; 理想线是根据110小时的承诺量绘制的（每天燃尽11小时）。 对于能力线，可以根据130小时的可用能力（每天燃尽13个小时）绘制另一条平滑线。&lt;br /&gt; 这条线非常重要，在本文稍后将了解其重要性&lt;br /&gt; 请参考下图，以直观了解能力线。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h5&gt;
+                  理解能力线&lt;strong&gt; &lt;/strong&gt;
+                &lt;/h5&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-997&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Burn-Down-Capacity-Line-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Burn-Down-Capacity-Line-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Burn-Down-Capacity-Line-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Burn-Down-Capacity-Line-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Burn-Down-Capacity-Line-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+              &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                &lt;h5&gt;
+                  一个完整的燃尽图（有能力线）
+                &lt;/h5&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1001&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Complete-Burn-Down-1024x576-1.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;428&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Complete-Burn-Down-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Complete-Burn-Down-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Complete-Burn-Down-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Complete-Burn-Down-1024x576-1-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>        &lt;p&gt;
+          1. 如果实际线结束于理想线之上的任何地方，则意味着在冲刺持续时间内完成所有故事是存在风险的。风险有多大取决于实际线终点和理想线之间的垂直距离。&lt;br /&gt; 距离越远，风险越大，因为根据承诺，当天的剩余时间实际上比预期的要多。&lt;br /&gt; 这种情况可能有很多原因，需要采取主动的纠正行动。原因如下&lt;br /&gt; a）团队不能给冲刺承诺足够的时间。&lt;br /&gt; b）团队过低估计了任务。&lt;br /&gt; c）团队没有及时更新剩余时间。&lt;br /&gt; d）团队在冲刺开始之后又增加了新的故事。&lt;br /&gt; e）团队重新估计了任务时间并增加了剩余时间。&lt;br /&gt; 如果这种情况在冲刺的早期出现，团队仍然有机会赶上进度，但是在冲刺的最后几天，会很难改变延期。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          下面的两个图代表两种不同的情况，其中一个图表示风险最小，而另一个则表示高风险。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1005&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/LowRisk-Actual.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;429&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/LowRisk-Actual.jpg 1000w, https://www.agilewalker.com/wp-content/uploads/2020/04/LowRisk-Actual-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/LowRisk-Actual-768x433.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/LowRisk-Actual-355x199.jpg 355w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1002&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/HighRisk-Actual.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;440&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/HighRisk-Actual.jpg 1000w, https://www.agilewalker.com/wp-content/uploads/2020/04/HighRisk-Actual-300x174.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/HighRisk-Actual-768x445.jpg 768w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1006&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/No-Risk-Actual-Burndown.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;419&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/No-Risk-Actual-Burndown.jpg 1000w, https://www.agilewalker.com/wp-content/uploads/2020/04/No-Risk-Actual-Burndown-300x165.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/No-Risk-Actual-Burndown-768x423.jpg 768w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          浅橙色矩形是风险的大小。如果能力线在燃尽图里，可以更容易看到并识别解决风险的可能性。 即使实际线高于理想线，但低于能力线，意味着团队仍可以完成任务，因为仍然在他们的能力范围内。&lt;br /&gt; 下面的两个图代表两个燃尽图，一个处于风险区域，另一个在该特定日期没有风险
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1015&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Within-Capacity.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;436&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Within-Capacity.jpg 1000w, https://www.agilewalker.com/wp-content/uploads/2020/04/Within-Capacity-300x172.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Within-Capacity-768x441.jpg 768w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+        &lt;div class=&quot;vc_column-inner&quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1007&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/OutofCapacity-Burndown.jpg&quot; alt=&quot;&quot; width=&quot;760&quot; height=&quot;435&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/OutofCapacity-Burndown.jpg 1000w, https://www.agilewalker.com/wp-content/uploads/2020/04/OutofCapacity-Burndown-300x172.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/OutofCapacity-Burndown-768x439.jpg 768w&quot; sizes=&quot;(max-width: 760px) 100vw, 760px&quot; /&gt;&lt;/figure&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        &lt;p&gt;
+          2. 现在让讨论另一种情况，即实际线始终在理想线以下。 这是一个好兆头，但是如果它太低，则团队可能过高估计了现有工作量，有能力在冲刺期间进行更多的工作。一个好的成熟实际线应该接近理想线，如果不是，那就需要干预。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          3. 如果发现燃尽图实际线突然飙升，这说明团队的工作范围正在蔓延。
+        &lt;/p&gt;
+        
+        &lt;p&gt;
+          这是解读燃尽图的方式，在下一节中，我们一起了解如何在不同情况下解读燃尽图。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+      &lt;div class=&quot;wpb_wrapper&quot;&gt;
+        未完待续...参看 &lt;a href=&quot;https://www.agilewalker.com/sprint-burndown-chart-2/&quot;&gt;敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/burndown-chart/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">burndown chart</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/scrum/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">scrum</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/scrum-metrics/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Scrum Metrics</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E5%8F%AF%E8%A7%86%E5%8C%96/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷可视化</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E6%8C%87%E6%A0%87/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷指标</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷评估</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷项目管理</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E7%87%83%E5%B0%BD%E5%9B%BE/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">燃尽图</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">用户故事</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">风险管理</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/sprint-burndown-chart-2/">敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-user-story-splitting/">「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/v-understand-user-story/">「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/product-backlog-prioritization/">敏捷Scrum开发7大事件之1：产品待办列表优先级排序</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/burn-down-chart/">「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/understanding-scrum-metrics/">理解Scrum 度量和关键绩效指标</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-visualization/">简说敏捷转型可视化和可视化敏捷方法</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-coach-overview/">「视频」敏捷教练的工作是什么？让我们总览一下</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/7-minutes-scrum/">「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-okr-kpi-metrics/">「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-and-kanban/">「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/your-favorite-agile-certification/">选择合适自己的敏捷认证培训</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/how-to-develop-scrum-team/">「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-collaberation-tools/">新冠疫情期间，简单介绍几款用于敏捷开发的协作工具</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/what-is-agile-coach/">告诉你的CxO敏捷教练是什么</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://leoyanlili.github.io/" >
+    &copy;  © Copyright 2023 捷伴行Agile 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

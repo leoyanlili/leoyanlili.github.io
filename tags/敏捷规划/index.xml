@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>敏捷规划 on 捷伴行Agile</title>
+    <link>https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E8%A7%84%E5%88%92/</link>
+    <description>Recent content in 敏捷规划 on 捷伴行Agile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2023 捷伴行Agile</copyright>
+    <lastBuildDate>Sat, 28 Nov 2020 08:48:42 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E8%A7%84%E5%88%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>产品发布计划</title>
+      <link>https://leoyanlili.github.io/product-release-plan/</link>
+      <pubDate>Sat, 28 Nov 2020 08:48:42 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/product-release-plan/</guid>
+      <description>&amp;ldquo;不谋万世者，不足谋一时；不谋全局者，不足谋一域。&amp;rdquo;
+-陈澹然[清]
+序言：
+这篇文章，让我想到了全局观，应该是作为产品负责人具备的基本素养，不仅给产品以愿景，给团队以方向，同时也能帮助产品负责人与干系人很好的进行沟通。而发布计划应该是这种素养的可视化的表述之一。发布计划向上衔接面向管理层的产品愿景和路线图，向下衔接面向团队的Sprint计划，对产品某次发布有个明确的规划，连接愿景与落地。个人的经验而言，可以让产品负责人与团队一起，结合用户故事地图工具一起来做发布计划。
+2015年4月27日，一架皇家空军C17运输机飞往尼泊尔，装载了人道主义援助和物资。飞机的速度，每个货盘离开C17所花费的时间以及货盘的顺序确定了哪个货盘将降落在哪里&amp;hellip;.有了愿景，你需要制定计划以整合投资和资源来开发产品。你已经有一个产品待办事项，并在使用产品待办事项条目（PBI）用以形成日常的产品增量。你已经在产品待办事项中估算了产品待办事项条目，并知道所有团队的速度。
+产品负责人需要能与干系人沟通下一个发布的时间以及该版本包含哪些产品待办事项条目。 有时候，发布日期是一个重要的约束，而有时发布内容是主要的约束。 当同时约束日期和内容时，会出现过度约束的问题引起的风险，产品负责人必须使这种风险透明化。
+如果开发团队可以通过明确的日常产品增量看到承诺的长期方向，那么他们更有可能投入更多的精力去实现这一目标，并且更有可能在实现产品愿景的过程中构建正确的事物。
+如果对下一个版本的内容缺乏明确的共识，则可能会给干系人一种印象，即在下一个版本发布之前，范围是可以协商的。 结果，发布日期可能会受到功能蔓延的影响，并且团队最终一再推迟交付。
+当产品负责人对市场，团队和干系人都熟悉的时候，信任度很高，仅凭概要计划和评估就足够了。 另一方面，如果产品负责人是刚开始接触团队，市场或利益相关者，信任度低，或者该计划包含高于正常水平的风险，则可能需要更详细的计划和评估。
+孤立地创建发布计划的产品负责人会错失开发团队的智慧和见解。 此外，团队不会对计划有责任感，因此他们不太可能对任何预测都全情投入。因此：与开发团队一起创建初始产品待办事项，根据你计划实现的愿景并最大化价值的产品增量顺序进行沟通。 也就是说，使用待办事项制定发布计划。 使用该计划获得必要的投资者承诺和团队预测来开发你的产品。
+我们的焦点始终放在产品级别上的进展。 如果你有多个开发团队通过一个产品待办事项一起工作，那么他们可以使用其历史速度来预测在当前的产品待办排序的情况下，这些团队一起将产生的日常产品增量， 但是这种方式不依赖于将特定的产品待办事项预先分配给各个团队。 由于速度各不相同，因此任何一组日常产品增量的预期进度也会有所不同，在任何给定的交货日期，日常产品增量的内容也会有所变化。
+发布计划是下几个发布的可交付成果的有序列表。 即使团队的速度有微小的差异，但经过短短的Sprint后，交付进度仍变得不确定。 根据经验，超过三个Sprint会包含更多的猜测，而不是统计上合理的预测。
+包括固定工作，发布计划考虑了使PBI完成的所有工作。 对于任何PBI，团队不得将“强化”工作或“质量工作”与其余工作分开。 产品负责人会定期根据对市场和团队速度的最新理解更新发布计划。
+从顶部开始逐步解决待办事项，将每个PBI的估算单位（例如估算点）相加，直到达到已知团队速度的总和。 下一个版本的日常产品增量包括这些位于产品待办事项列表顶部的条目。 继续向下推进待办事项工作，将PBI放到日常的产品增量中，并将日常的产品增量分配给后续版本。 根据此计划更新产品路线图。
+例如，假设团队估计先前草图中的每个PBI需要10个估计点的工作。 该团队在7月15日之前有6个Sprint的可用时间，我们想知道届时我们将能够交付什么。
+团队有一个速度保持在每个Sprint 15至20点之间的历史。 所有其他考虑因素都相同，团队将在7月15日之前完成90到120个估算点的工作。我们可以从待办事项的顶部算起PBI估算值，在这里，每个条目的估算值是10点，我们相应地预期团队将完成的工作量。 在这里，所有其他因素都相同时，他们将完成9到12个PBI。
+从理论上讲，可以对这些计算采取更严格的方法：例如，规定15到20之间的速度范围涵盖过去大约五个Sprint的所有速度的两个标准偏差。 然后，从理论上讲，会声称下一个Sprint的预测交付具有95％的确定性，依此类推，随后的Sprint的确定性会更低。
+然而，实际上，速度，团队构成，产品待办事项的内容（它会发生变化！）和市场条件等参数变化很大，以至于即使在统计确定性上，外部因素对差异的影响也会破坏任何预测的尝试。 尽管如此，这个方法仍是面对未来的合理指标和通用的预测法，就像我们可以或多或少地依赖天气预报员的预测。
+一个常见的敏捷短语是“将决定推迟到最后一个必须决定的时刻”的建议。 某些PBI的目标日期可能构成这样的“必须决定的时刻”（期望的或强制的交付日期），然而，负责任的精益实践会推动决策而不是推迟决策。
+发布计划用产品待办事项作为框架，以尽可能早地做出决策（例如，考虑PBI之间的依赖关系，或者将PBI或日常产品增量与发布日期保持一致）。 在所有其他条件相同的情况下，尽快开始工作很重要，因为设计和实施有助于使紧急需求尽早可见，并为团队提供有关风险的早期数据。 推迟工作或驱动工作的决策只会延迟不可避免的事情。 使用这种方法，你可以根据团队速度更新评估的发布日期。 这个方法在全世界都有广泛的Scrum实践。
+产品负责人可以通过发布计划来确定长期价值，该发布计划应说明PBI之间如何相互加强，或者可以基于高价值优先，计划项目样式的一系列发布。 然而，团队不应将此类评估值当做任何给定PBI的确切日期，并且不应将交货日期解释为具有约束力的承诺。 发布计划基于估计，并承认灵活性而非必然性。 Scrum保持交付日期固定不变，因此Sprint的结束日期是神圣的，此时团队将尽力而为。 敏捷性的代价就是有些不确定性。
+也可以在Sprint结束前发布一些PBI，每次发布一点日常产品增量，可以让交付流程顺畅，并最大程度地减少已完成工作的堆积。
+—
+END
+感谢你阅读本文，希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>敏捷开发Scrum七大事件之3：产品待办事项梳理</title>
+      <link>https://leoyanlili.github.io/product-backlog-refinement/</link>
+      <pubDate>Wed, 13 May 2020 14:57:18 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/product-backlog-refinement/</guid>
+      <description>前言，在本文中，我们将从以下几点了解关于产能规划的话题：
+&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产品待办事项梳理有很多优点，下面列出了其中的几个。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;standard-arrow list-divider bullet-top&amp;quot;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpFirst&amp;quot;&amp;gt; 通过消除用户故事的不确定性和未知事实来提高效率。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 提前识别依赖性（在团队和跨职能部门内）和风险，以制定相应的计划。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好的估算并避免返工（开发，测试和实施）。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 使开发人员和测试人员了解其要求，从而节省了开发团队在sprint周期中进行进一步讨论的时间。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 确保故事遵循INVEST原则，提供更易于理解的成熟的用户故事 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 有效的Sprint计划：如果在进行Sprint计划前，故事已经进行了梳理和优先处理，PO和开发团队不需要花费大量时间梳理或估算故事。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 强调最高优先级以挑选故事进行梳理，计划等。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 给产品负责人提供多次机会，根据实际需要提供更多信息来细化需求。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 在梳理过程中，如果开发团队遇到一些疑问或问题，并且需要更多时间与PO进行协作，则团队可以将梳理会议中的故事搁置下来，以便PO可以获得更多的信息来补充给故事，并将故事包含在后续梳理会议中。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好地管理产品目标，Sprint目标和里程碑会议。 &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-1179&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/05/productgroom2_.gif&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;1024&amp;quot; height=&amp;quot;577&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_row-fluid dt-default&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid vc_custom_1493919898038 vc_row-has-fill&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h2&amp;gt; &amp;lt;i class=&amp;quot;fa fa-hand-o-right&amp;quot;&amp;gt;谁对待办事项梳理负责?</description>
+    </item>
+    
+    <item>
+      <title>「视频」10分钟的敏捷估算教学，全面实用，理解深刻了</title>
+      <link>https://leoyanlili.github.io/10-minute-agile-estimation/</link>
+      <pubDate>Wed, 29 Apr 2020 04:47:52 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/10-minute-agile-estimation/</guid>
+      <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。
+访问以下链接
+「视频」10分钟的敏捷估算教学，全面实用，理解深刻了
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
+      <link>https://leoyanlili.github.io/v-understand-user-story/</link>
+      <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/v-understand-user-story/</guid>
+      <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器
+[https://player.youku.com/embed/XNDYwMjQyNTI2MA==]
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+    <item>
+      <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
+      <link>https://leoyanlili.github.io/product-backlog-prioritization/</link>
+      <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/product-backlog-prioritization/</guid>
+      <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么我们需要优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h2&amp;gt; 什么是产品待办事项优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;div class=&amp;quot;uvc-sub-heading ult-responsive&amp;quot; data-ultimate-target=&amp;quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &amp;quot; data-responsive-json-new=&amp;quot;{&amp;amp;quot;font-size&amp;amp;quot;:&amp;amp;quot;desktop:14px;&amp;amp;quot;,&amp;amp;quot;line-height&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}&amp;quot;&amp;gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&amp;lt;br /&amp;gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&amp;lt;br /&amp;gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;待办事项优先级排序的优势&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 商业利益&amp;lt;br /&amp;gt; -最快的投资回报&amp;lt;br /&amp;gt; -客户或业务满意度&amp;lt;br /&amp;gt; -更好地管理依赖项&amp;lt;br /&amp;gt; -最小化风险&amp;lt;br /&amp;gt; -关注价值驱动的开发 &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 对Scrum团队的优势&amp;lt;br /&amp;gt; -通过选择的故事进行有效的梳理&amp;lt;br /&amp;gt; -通过选择的故事进行有效的Sprint计划&amp;lt;br /&amp;gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&amp;lt;br /&amp;gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_empty_space&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;优先级排序中对待不同的待办事项条目&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;p&amp;gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-976&amp;quot; src=&amp;quot;https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

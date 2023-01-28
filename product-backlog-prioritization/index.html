@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序 | 捷伴行Agile</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="&lt;blockquote&gt; &lt;p class=&quot;p1&quot;&gt; &lt;span class=&quot;s1&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;” --&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;《系统之美》&lt;/span&gt; &lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt; 为什么我们需要优先级排序？ &lt;/h2&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;h2&gt; 什么是产品待办事项优先级排序？ &lt;/h2&gt; &lt;div class=&quot;uvc-sub-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:14px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&lt;br /&gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&lt;br /&gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &lt;/div&gt; &lt;/div&gt; &lt;h5&gt; &lt;strong&gt;待办事项优先级排序的优势&lt;/strong&gt; &lt;/h5&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 商业利益&lt;br /&gt; -最快的投资回报&lt;br /&gt; -客户或业务满意度&lt;br /&gt; -更好地管理依赖项&lt;br /&gt; -最小化风险&lt;br /&gt; -关注价值驱动的开发 &lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 对Scrum团队的优势&lt;br /&gt; -通过选择的故事进行有效的梳理&lt;br /&gt; -通过选择的故事进行有效的Sprint计划&lt;br /&gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&lt;br /&gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;vc_empty_space&quot;&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h5&gt; &lt;strong&gt;优先级排序中对待不同的待办事项条目&lt;/strong&gt; &lt;/h5&gt; &lt;p&gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-full wp-image-976&quot; src=&quot;https://www.">
+    <meta name="generator" content="Hugo 0.110.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="敏捷Scrum开发7大事件之1：产品待办列表优先级排序" />
+<meta property="og:description" content="&lt;blockquote&gt; &lt;p class=&quot;p1&quot;&gt; &lt;span class=&quot;s1&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;” --&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;《系统之美》&lt;/span&gt; &lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt; 为什么我们需要优先级排序？ &lt;/h2&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;h2&gt; 什么是产品待办事项优先级排序？ &lt;/h2&gt; &lt;div class=&quot;uvc-sub-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:14px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&lt;br /&gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&lt;br /&gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &lt;/div&gt; &lt;/div&gt; &lt;h5&gt; &lt;strong&gt;待办事项优先级排序的优势&lt;/strong&gt; &lt;/h5&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 商业利益&lt;br /&gt; -最快的投资回报&lt;br /&gt; -客户或业务满意度&lt;br /&gt; -更好地管理依赖项&lt;br /&gt; -最小化风险&lt;br /&gt; -关注价值驱动的开发 &lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 对Scrum团队的优势&lt;br /&gt; -通过选择的故事进行有效的梳理&lt;br /&gt; -通过选择的故事进行有效的Sprint计划&lt;br /&gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&lt;br /&gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;vc_empty_space&quot;&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h5&gt; &lt;strong&gt;优先级排序中对待不同的待办事项条目&lt;/strong&gt; &lt;/h5&gt; &lt;p&gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-full wp-image-976&quot; src=&quot;https://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://leoyanlili.github.io/product-backlog-prioritization/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-04-13T08:44:13+00:00" />
+<meta property="article:modified_time" content="2020-04-13T08:44:13+00:00" />
+<meta itemprop="name" content="敏捷Scrum开发7大事件之1：产品待办列表优先级排序">
+<meta itemprop="description" content="&lt;blockquote&gt; &lt;p class=&quot;p1&quot;&gt; &lt;span class=&quot;s1&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;” --&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;《系统之美》&lt;/span&gt; &lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt; 为什么我们需要优先级排序？ &lt;/h2&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;h2&gt; 什么是产品待办事项优先级排序？ &lt;/h2&gt; &lt;div class=&quot;uvc-sub-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:14px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&lt;br /&gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&lt;br /&gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &lt;/div&gt; &lt;/div&gt; &lt;h5&gt; &lt;strong&gt;待办事项优先级排序的优势&lt;/strong&gt; &lt;/h5&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 商业利益&lt;br /&gt; -最快的投资回报&lt;br /&gt; -客户或业务满意度&lt;br /&gt; -更好地管理依赖项&lt;br /&gt; -最小化风险&lt;br /&gt; -关注价值驱动的开发 &lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 对Scrum团队的优势&lt;br /&gt; -通过选择的故事进行有效的梳理&lt;br /&gt; -通过选择的故事进行有效的Sprint计划&lt;br /&gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&lt;br /&gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;vc_empty_space&quot;&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h5&gt; &lt;strong&gt;优先级排序中对待不同的待办事项条目&lt;/strong&gt; &lt;/h5&gt; &lt;p&gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-full wp-image-976&quot; src=&quot;https://www."><meta itemprop="datePublished" content="2020-04-13T08:44:13+00:00" />
+<meta itemprop="dateModified" content="2020-04-13T08:44:13+00:00" />
+<meta itemprop="wordCount" content="1113">
+<meta itemprop="keywords" content="Certified Scrum Mater,Kano,MoSCoW,Scrum,待办事项优先级,待办列表,敏捷估算,敏捷实践,敏捷规划,敏捷计划,敏捷评估,敏捷项目管理,系统之美,系统思维," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="敏捷Scrum开发7大事件之1：产品待办列表优先级排序"/>
+<meta name="twitter:description" content="&lt;blockquote&gt; &lt;p class=&quot;p1&quot;&gt; &lt;span class=&quot;s1&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;” --&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;《系统之美》&lt;/span&gt; &lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt; 为什么我们需要优先级排序？ &lt;/h2&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;p&gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;h2&gt; 什么是产品待办事项优先级排序？ &lt;/h2&gt; &lt;div class=&quot;uvc-sub-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:14px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&lt;br /&gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&lt;br /&gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &lt;/div&gt; &lt;/div&gt; &lt;h5&gt; &lt;strong&gt;待办事项优先级排序的优势&lt;/strong&gt; &lt;/h5&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 商业利益&lt;br /&gt; -最快的投资回报&lt;br /&gt; -客户或业务满意度&lt;br /&gt; -更好地管理依赖项&lt;br /&gt; -最小化风险&lt;br /&gt; -关注价值驱动的开发 &lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div class=&quot;dt-fancy-title&quot;&gt; 对Scrum团队的优势&lt;br /&gt; -通过选择的故事进行有效的梳理&lt;br /&gt; -通过选择的故事进行有效的Sprint计划&lt;br /&gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&lt;br /&gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt; &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt; &lt;div class=&quot;vc_column-inner&quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;div class=&quot;vc_empty_space&quot;&gt; &lt;/div&gt; &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt; &lt;div class=&quot;wpb_wrapper&quot;&gt; &lt;h5&gt; &lt;strong&gt;优先级排序中对待不同的待办事项条目&lt;/strong&gt; &lt;/h5&gt; &lt;p&gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &lt;/p&gt; &lt;p&gt; &lt;img class=&quot;alignnone size-full wp-image-976&quot; src=&quot;https://www."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  <header class="cover bg-top" style="background-image: url('https://leoyanlili.github.io/wp-content/uploads/2020/04/BacklogPrioritization-250x250.jpg');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        捷伴行Agile
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/goisforlovers/" title="(Hu)go Template Primer page">
+              (Hu)go Template Primer
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/bak_posts/hugoisforlovers/" title="Getting Started with Hugo page">
+              Getting Started with Hugo
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="" title="tutorials page">
+              tutorials
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">敏捷Scrum开发7大事件之1：产品待办列表优先级排序</div>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.facebook.com/sharer.php?u=https://leoyanlili.github.io/product-backlog-prioritization/" class="ananke-social-link facebook no-underline" aria-label="share on Facebook">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+      
+      <a href="https://twitter.com/share?url=https://leoyanlili.github.io/product-backlog-prioritization/&amp;text=%e6%95%8f%e6%8d%b7Scrum%e5%bc%80%e5%8f%917%e5%a4%a7%e4%ba%8b%e4%bb%b6%e4%b9%8b1%ef%bc%9a%e4%ba%a7%e5%93%81%e5%be%85%e5%8a%9e%e5%88%97%e8%a1%a8%e4%bc%98%e5%85%88%e7%ba%a7%e6%8e%92%e5%ba%8f" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">敏捷Scrum开发7大事件之1：产品待办列表优先级排序</h1>
+      
+      <p class="tracked">
+        By <strong>老彦</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-04-13T08:44:13Z">April 13, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><!-- raw HTML omitted -->
+<pre><code>            &lt;blockquote&gt;
+              &lt;p class=&quot;p1&quot;&gt;
+                &lt;span class=&quot;s1&quot;&gt;“&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;” --&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;《系统之美》&lt;/span&gt;
+              &lt;/p&gt;
+            &lt;/blockquote&gt;
+            
+            &lt;h2&gt;
+              为什么我们需要优先级排序？
+            &lt;/h2&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+          &lt;div class=&quot;wpb_wrapper&quot;&gt;
+            &lt;p&gt;
+              在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。
+            &lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        
+        &lt;h2&gt;
+          什么是产品待办事项优先级排序？
+        &lt;/h2&gt;
+        
+        &lt;div class=&quot;uvc-sub-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:14px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+          产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&lt;br /&gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&lt;br /&gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;h5&gt;
+        &lt;strong&gt;待办事项优先级排序的优势&lt;/strong&gt;
+      &lt;/h5&gt;
+      
+      &lt;div class=&quot;dt-fancy-title&quot;&gt;
+        商业利益&lt;br /&gt; -最快的投资回报&lt;br /&gt; -客户或业务满意度&lt;br /&gt; -更好地管理依赖项&lt;br /&gt; -最小化风险&lt;br /&gt; -关注价值驱动的开发
+      &lt;/div&gt;
+      
+      &lt;div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;dt-fancy-title&quot;&gt;
+        对Scrum团队的优势&lt;br /&gt; -通过选择的故事进行有效的梳理&lt;br /&gt; -通过选择的故事进行有效的Sprint计划&lt;br /&gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&lt;br /&gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+    &lt;div class=&quot;vc_column-inner&quot;&gt;
+      &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+        &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+          &lt;div class=&quot;vc_column-inner&quot;&gt;
+            &lt;div class=&quot;wpb_wrapper&quot;&gt;
+              &lt;div class=&quot;vc_empty_space&quot;&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                  &lt;h5&gt;
+                    &lt;strong&gt;优先级排序中对待不同的待办事项条目&lt;/strong&gt;
+                  &lt;/h5&gt;
+                  
+                  &lt;p&gt;
+                    在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;img class=&quot;alignnone size-full wp-image-976&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Prioratiziation-Treatment.gif&quot; alt=&quot;&quot; width=&quot;556&quot; height=&quot;556&quot; /&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>                &lt;div class=&quot;uvc-sub-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-64535e9145c15e3f7 .uvc-sub-heading &quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:14px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;h5&gt;
+                            &lt;strong&gt;在对待办事项条目进行优先级排序时，有许多影响因素需要考虑。 最重要的因素是：&lt;/strong&gt;
+                          &lt;/h5&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-8&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            &lt;strong&gt;1. 客户满意度&lt;/strong&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            我们牢记客户满意度，为可能得到较高客户满意度的功能（待办事项条目）分配高优先级来为故事排序。 并优先考虑令客户感到满意的功能。&lt;br /&gt; 因此，我们需要先实现基本需求，然后再实现性能领域，再实现令人愉悦的功能&lt;br /&gt; 请查看下面有关产品待办事项优先级排序技术的部分，该部分解释了Kano模型，以了解衡量客户满意度如何帮助我们对产品待办事项进行优先级排序
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            &lt;strong&gt;2. 业务价值&lt;/strong&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            了解业务战略和业务目标对于确定功能的优先级非常重要。因此，产品所有者或业务分析师是确定产品待办事项优先级的最佳人选。确定哪些功能会增加最大价值以满足业务目标，有助于确定产品待办事项的优先级。&lt;br /&gt; 发起人，销售团队或战略思考者通过瞄准长期利益或短期增值与竞争对手比较来影响业务价值。
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            &lt;img class=&quot;alignnone size-full wp-image-966&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Considerations.gif&quot; alt=&quot;&quot; width=&quot;639&quot; height=&quot;639&quot; /&gt;
+                          &lt;/p&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            &lt;strong&gt;3. 受影响的用户适量或使用频率&lt;/strong&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            这是特定于产品的，不能到处都被视为优先因素。通过了解受到影响的用户数量，可以对功能进行优先级排序。例如，在电子商务网站中，消费者主页的外观将比供应商主页具有更高的优先级。&lt;br /&gt; 同样，如果某个功能将被更频繁地使用，可在需要时及早优先处理该功能的其他优化工作。
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            &lt;strong&gt;4. 开发是实施功能的成本&lt;/strong&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            高成本不一定要放在低优先级， 成本不是唯一的因素，在确定优先级时，我们还需要考虑功能的回报。低成本-高回报肯定会是最高优先级，同样，高成本-低回报可以是低优先级。综合考虑其他优先事项因素，有时候高成本-高回报的也可以放在在首位。
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            &lt;strong&gt;5. 风险&lt;/strong&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            将高风险功能排在首位，会最大程度地减轻早期风险。 如果高风险功能被留在项目后期，会增加实施的总体风险。
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            &lt;strong&gt;6. 复杂度&lt;/strong&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            建议在项目的早期阶段开始进行具有高复杂性或困难性的功能。由于团队刚起步，因此易于安排熟练和经验丰富的成员加入。 而且，如果花费的时间比估计的时间长，团队也会有更多的空间来调整额外的时间。
+                          &lt;/p&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                  &lt;h4&gt;
+                    让我们利用这些考虑因素来获得优先级排序
+                  &lt;/h4&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                  &lt;p&gt;
+                    有许多技术可以考虑产品待办事项优先级，我们将在本文后面详细讨论MoSCoW方法和Kano模型。在这里，我们要讨论通过考虑上述几个因素来获得优先级。
+                  &lt;/p&gt;
+                  
+                  &lt;h5&gt;
+                    &lt;strong&gt;前提 :&lt;/strong&gt;
+                  &lt;/h5&gt;
+                  
+                  &lt;ol&gt;
+                    &lt;li&gt;
+                      识别项目中会被考虑的用来分析优先级的因素后，您可以使用上述所有因素或影响最大的因素来进行。在示例中，我们使用三个因素：a）客户满意度，b）业务价值，c ）费用。
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                      将权重分配给每个考虑因素， 在此示例中，我们为客户满意度分配了12，为业务价值分配了10，为成本分配了7。
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                      准备好包含缺陷，故事，探针等项目的待办事项。在本示例中，我们假设我们的待办事项有10个我们要优先处理的故事。
+                    &lt;/li&gt;
+                    &lt;li&gt;
+                      定义一个范围，根据考虑的因素为每个故事提供比值。 在此示例中，我们有个范围1到10。
+                    &lt;/li&gt;
+                  &lt;/ol&gt;
+                  
+                  &lt;p&gt;
+                    请参考下面的矩阵。 后面进行解释，以得出获得优先级别的计算机制
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;h5&gt;
+                            &lt;img class=&quot;alignnone size-full wp-image-972&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Considerational-Table_1.gif&quot; alt=&quot;&quot; width=&quot;1015&quot; height=&quot;715&quot; /&gt;
+                          &lt;/h5&gt;
+                          
+                          &lt;h5&gt;
+                            解读：
+                          &lt;/h5&gt;
+                          
+                          &lt;p&gt;
+                            在此矩阵中，将考虑因素及其权重作为列，将9个待办事项条目作为行。&lt;br /&gt; 矩阵内的数字是相对值，表示每个故事受其考虑因素影响的比值。 比值范围为1到10。&lt;br /&gt; 每个故事在最后第二列中都有一个合计值。 它代表该故事的所有要素分值的累积值。 故事的要素分值计算为权重乘以其比值。&lt;br /&gt; 最后一栏代表故事的优先级或等级，最大值位于等级1的高优先级，最小值是低优先级。 在此示例中，最高优先级的故事是故事6，最低优先级的故事是故事3和故事4。
+                          &lt;/p&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;vc_row wpb_row vc_row-fluid dt-default&quot;&gt;
+        &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+          &lt;div class=&quot;vc_column-inner&quot;&gt;
+            &lt;div class=&quot;wpb_wrapper&quot;&gt;
+              &lt;div id=&quot;ultimate-heading-81955e9145c1619b9&quot; class=&quot;uvc-heading ult-adjust-bottom-margin ultimate-heading-81955e9145c1619b9 uvc-9966 &quot; data-hspacer=&quot;no_spacer&quot; data-halign=&quot;left&quot;&gt;
+                &lt;div class=&quot;uvc-main-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-81955e9145c1619b9 h2&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:20px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+                  &lt;h2&gt;
+                    在优先级排序时Scrum团队成员的角色
+                  &lt;/h2&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;smile_icon_list_wrap ult_info_list_container ult-adjust-bottom-margin &quot;&gt;
+                        &lt;div class=&quot;icon_list_icon animated swing delay-03&quot; data-animation=&quot;swing&quot; data-animation-delay=&quot;03&quot;&gt;
+                           &lt;img class=&quot;alignnone size-large wp-image-980&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Product-owner.gif&quot; alt=&quot;&quot; width=&quot;75&quot; height=&quot;64&quot; /&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;div id=&quot;Info-list-wrap-7969&quot; class=&quot;icon_description&quot;&gt;
+                          &lt;h3 class=&quot;ult-responsive info-list-heading&quot; data-ultimate-target=&quot;#Info-list-wrap-7969 h3&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:16px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;desktop:24px;&amp;quot;}&quot;&gt;
+                            产品负责人
+                          &lt;/h3&gt;
+                          
+                          &lt;div class=&quot;icon_description_text ult-responsive&quot; data-ultimate-target=&quot;#Info-list-wrap-7969 .icon_description_text&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:13px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;desktop:18px;&amp;quot;}&quot;&gt;
+                            &lt;p&gt;
+                              产品负责人负责对产品待办事项进行优先级处理，并确保团队首先将最有价值的功能交付给客户。
+                            &lt;/p&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;div class=&quot;icon_list_icon animated swing delay-03&quot; data-animation=&quot;swing&quot; data-animation-delay=&quot;03&quot;&gt;
+                          &lt;img class=&quot;alignnone size-large wp-image-981&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Scrum-Master.gif&quot; alt=&quot;&quot; width=&quot;64&quot; height=&quot;64&quot; /&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;div id=&quot;Info-list-wrap-9577&quot; class=&quot;icon_description&quot;&gt;
+                          &lt;h3 class=&quot;ult-responsive info-list-heading&quot; data-ultimate-target=&quot;#Info-list-wrap-9577 h3&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:16px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;desktop:24px;&amp;quot;}&quot;&gt;
+                            Scrum Master
+                          &lt;/h3&gt;
+                          
+                          &lt;div class=&quot;icon_description_text ult-responsive&quot; data-ultimate-target=&quot;#Info-list-wrap-9577 .icon_description_text&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:13px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;desktop:18px;&amp;quot;}&quot;&gt;
+                            &lt;p&gt;
+                              Scrum Master通过与产品负责人密切合作来促进优先级排序，不能直接对待办事项进行优先级排序。
+                            &lt;/p&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;div class=&quot;icon_list_icon animated swing delay-03&quot; data-animation=&quot;swing&quot; data-animation-delay=&quot;03&quot;&gt;
+                          &lt;img class=&quot;alignnone size-full wp-image-979&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/development_team.gif&quot; alt=&quot;&quot; width=&quot;80&quot; height=&quot;64&quot; /&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;div id=&quot;Info-list-wrap-2025&quot; class=&quot;icon_description&quot;&gt;
+                          &lt;h3 class=&quot;ult-responsive info-list-heading&quot; data-ultimate-target=&quot;#Info-list-wrap-2025 h3&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:16px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;desktop:24px;&amp;quot;}&quot;&gt;
+                            开发团队
+                          &lt;/h3&gt;
+                          
+                          &lt;div class=&quot;icon_description_text ult-responsive&quot; data-ultimate-target=&quot;#Info-list-wrap-2025 .icon_description_text&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:13px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;desktop:18px;&amp;quot;}&quot;&gt;
+                            &lt;p&gt;
+                              开发团队成员通常会遵守流程，可以根据要求提供意见。
+                            &lt;/p&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;info-wrapper ult-adjust-bottom-margin&quot;&gt;
+                        &lt;div id=&quot;info-circle-wrapper-5e9145c162b0b&quot; class=&quot;info-circle-wrapper info-circle-responsive &quot; data-uniqid=&quot;5e9145c162b0b&quot; data-half-percentage=&quot;70&quot; data-circle-type=&quot;full-circle&quot;&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;vc_row wpb_row vc_row-fluid dt-default&quot;&gt;
+        &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+          &lt;div class=&quot;vc_column-inner&quot;&gt;
+            &lt;div class=&quot;wpb_wrapper&quot;&gt;
+              &lt;div id=&quot;ultimate-heading-97975e9145c1635d4&quot; class=&quot;uvc-heading ult-adjust-bottom-margin ultimate-heading-97975e9145c1635d4 uvc-1098 &quot; data-hspacer=&quot;no_spacer&quot; data-halign=&quot;left&quot;&gt;
+                &lt;div class=&quot;uvc-main-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-97975e9145c1635d4 h2&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:20px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+                  &lt;h2&gt;
+                    什么时候对待办事项中的故事进行优先级排序?
+                  &lt;/h2&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                  &lt;p&gt;
+                    建议至少每周做一次待办事项优先级排序练习。需要做优先级排序的候选待办事条目取决于该条目处于哪个阶段。&lt;br /&gt; 通常，在初始阶段的条目（待办事项）或处于梳理或定义阶段的待办事项是优先级排序的潜在候选对象。&lt;br /&gt; 那些已经提交给当前Sprint，正在进行中，已完成或被验收待办事项条目不需要进行优先级排序。 因为已经被确定了优先级或准备部署。&lt;br /&gt; 某些优先级排序技术需要大小或估计值来进行优先级排序，会把来自“已定义/已梳理”状态的待办事项进行优先级排序。
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div id=&quot;ultimate-heading-15475e9145c1637ed&quot; class=&quot;uvc-heading ult-adjust-bottom-margin ultimate-heading-15475e9145c1637ed uvc-3891 &quot; data-hspacer=&quot;no_spacer&quot; data-halign=&quot;center&quot;&gt;
+                &lt;div class=&quot;uvc-main-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-15475e9145c1637ed h2&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:16px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+                  &lt;h2&gt;
+                    对不同状态下的待办事项条目进行优先级排序
+                  &lt;/h2&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+                &lt;figure class=&quot;wpb_wrapper vc_figure&quot;&gt; 
+                
+                &lt;div class=&quot;vc_single_image-wrapper vc_box_border_grey&quot;&gt;
+                  &lt;img class=&quot;alignnone size-full wp-image-977&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Prioritization-Stage.gif&quot; alt=&quot;&quot; width=&quot;949&quot; height=&quot;250&quot; /&gt;
+                &lt;/div&gt;&lt;/figure&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;vc_row wpb_row vc_row-fluid dt-default&quot;&gt;
+        &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+          &lt;div class=&quot;vc_column-inner&quot;&gt;
+            &lt;div class=&quot;wpb_wrapper&quot;&gt;
+              &lt;div class=&quot;vc_empty_space&quot;&gt;
+              &lt;/div&gt;
+              
+              &lt;div id=&quot;ultimate-heading-38975e9145c16469e&quot; class=&quot;uvc-heading ult-adjust-bottom-margin ultimate-heading-38975e9145c16469e uvc-8788 &quot; data-hspacer=&quot;no_spacer&quot; data-halign=&quot;left&quot;&gt;
+                &lt;div class=&quot;uvc-main-heading ult-responsive&quot; data-ultimate-target=&quot;.uvc-heading.ultimate-heading-38975e9145c16469e h2&quot; data-responsive-json-new=&quot;{&amp;quot;font-size&amp;quot;:&amp;quot;desktop:20px;&amp;quot;,&amp;quot;line-height&amp;quot;:&amp;quot;&amp;quot;}&quot;&gt;
+                  &lt;h2&gt;
+                    用来对产品待办事项条目进行排序的技术
+                  &lt;/h2&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            有很多方法可以进行优先级排序。 常见的如下
+                          &lt;/p&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-3&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;h4 class=&quot;vc_custom_heading&quot;&gt;
+                        Affinity Analysis（亲和分析）
+                      &lt;/h4&gt;
+                    &lt;/div&gt;&lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;
+                    
+                    &lt;i&gt;&lt;/i&gt;&lt;/figure&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            &lt;img class=&quot;alignnone wp-image-971 size-medium&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Affinity2-300x223.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;223&quot; /&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            通过这种技术，我们将用户故事分类到不同的篮子中，例如：很高/高/中/低等，并选择待办事项的条目进行梳理，计划或构建。 这是将产品待办事项条目放入篮子中，以按组划分优先级的技术。
+                          &lt;/p&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-3&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;h4 class=&quot;vc_custom_heading&quot;&gt;
+                        Kano Analysis（卡诺模型）
+                      &lt;/h4&gt;
+                      
+                      &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+                        &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone wp-image-974 size-medium&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/KanoAnalysis-300x223.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;223&quot; /&gt;&lt;img class=&quot;alignnone wp-image-973 size-medium&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Kano-Analysis-e1586768334931-300x205.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;205&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Kano-Analysis-e1586768334931-300x205.gif 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Kano-Analysis-e1586768334931-768x525.gif 768w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/figure&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-9&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            借助这种技术，我们可以安排待办事项，请牢记客户满意度因素。 卡诺分析图具有不同的客户满意度区域，我们将待办项目条目放在这些区域上，并相应地确定优先级。 这些领域如下：
+                          &lt;/p&gt;
+                          
+                          &lt;ol&gt;
+                            &lt;li&gt;
+                              &lt;strong&gt;Must-be 必要功能&lt;/strong&gt;&lt;br /&gt; 客户通常将这些功能作为必备。也就是客户正好接受的底线，如果没有实现或实施得不好，则客户会非常不满意。
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                              &lt;strong&gt;One-Dimensional 线性功能&lt;/strong&gt;&lt;br /&gt; 如果实施了这些功能，客户就会满意；如果未实施这些功能将使客户不满意。这些功能通常在开发团队与业务/客户之间达成共识的情况下进行讨论。
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                              &lt;strong&gt;Attractive 魅力功能&lt;/strong&gt;&lt;br /&gt; 这些功能可以使客户满意（如果已实现），而不会使客户不满意（如果尚未实现）。客户通常不需要这些功能，但是拥有这些功能会使客户感到高兴。
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                              &lt;strong&gt;Performance &lt;/strong&gt;&lt;br /&gt; 这些功能的实现和满意度成正比。我们实施的越多，满意度就会越高。
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                              &lt;strong&gt;Indifferent 无差异功能&lt;/strong&gt;&lt;br /&gt; 这些功能既不重要，也不好或坏，强加于人或不执行它们并不能使客户满意或不满意。
+                            &lt;/li&gt;
+                          &lt;/ol&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-3&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;h4 class=&quot;vc_custom_heading&quot;&gt;
+                        MoSCoW Method（MoSCoW方法）
+                      &lt;/h4&gt;
+                      
+                      &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+                        &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone wp-image-975 size-medium&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Moscow-300x223.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;223&quot; /&gt;&lt;/figure&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-9&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            MoSCoW是在产品开发中确定工作项目优先级的另一种方法。 该首字母缩写词来自其4个优先级类别的首字母（必须拥有，应该拥有，可以拥有，想要拥有）。 这是通过将产品待办事项分类为四个类别来进行亲和分析的另一种方法。&lt;br /&gt; 作为每个类别的名称，团队优先考虑``必须具有功能''，其次是``应该具有''，``应该具有和想要具有''，以便更快地获得收益回报，减少因时间或预算限制而失去的重要功能 。
+                          &lt;/p&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid&quot;&gt;
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-3&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;h4 class=&quot;vc_custom_heading&quot;&gt;
+                        Ranking（排序）
+                      &lt;/h4&gt;
+                      
+                      &lt;div class=&quot;wpb_single_image wpb_content_element vc_align_center&quot;&gt;
+                        &lt;figure class=&quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&quot;&gt;&lt;img class=&quot;alignnone wp-image-978 size-medium&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Ranking-300x223.gif&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;223&quot; /&gt;&lt;/figure&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;wpb_column vc_column_container vc_col-sm-9&quot;&gt;
+                  &lt;div class=&quot;vc_column-inner&quot;&gt;
+                    &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                      &lt;div class=&quot;wpb_text_column wpb_content_element &quot;&gt;
+                        &lt;div class=&quot;wpb_wrapper&quot;&gt;
+                          &lt;p&gt;
+                            条目排序是对堆栈中的待办事项进行优先排序的另一种方法，即排序值（1,2,3,4,5 ...）。通过这种方法，我们将待办事项条目放在一个堆栈中，一个挨着一个。等级1被认为是比等级2高的优先级。我们首先选择最高的产品待办事项，以进行梳理，计划，构建等，其次是较低的等级。
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            —
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            END
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            希望能在评论区学习到大家的经验和想法~
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。
+                          &lt;/p&gt;
+                          
+                          &lt;p&gt;
+                            &lt;img class=&quot;alignnone size-full wp-image-642&quot; src=&quot;https://www.agilewalker.com/wp-content/uploads/2020/02/qrcode_for_gh_babbdd98b6f5_258-1.jpg&quot; sizes=&quot;(max-width: 258px) 100vw, 258px&quot; srcset=&quot;https://www.agilewalker.com/wp-content/uploads/2020/02/qrcode_for_gh_babbdd98b6f5_258-1.jpg 258w, https://www.agilewalker.com/wp-content/uploads/2020/02/qrcode_for_gh_babbdd98b6f5_258-1-150x150.jpg 150w, https://www.agilewalker.com/wp-content/uploads/2020/02/qrcode_for_gh_babbdd98b6f5_258-1-250x250.jpg 250w, https://www.agilewalker.com/wp-content/uploads/2020/02/qrcode_for_gh_babbdd98b6f5_258-1-80x80.jpg 80w&quot; alt=&quot;&quot; width=&quot;258&quot; height=&quot;258&quot; /&gt;
+                          &lt;/p&gt;
+                          
+                          &lt;div class=&quot;os-share-box&quot;&gt;
+                          &lt;/div&gt;
+                          
+                          &lt;div id=&quot;wp_rp_first&quot; class=&quot;wp_rp_wrap wp_rp_vertical_m&quot;&gt;
+                            &lt;div class=&quot;wp_rp_content&quot;&gt;
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/certified-scrum-mater/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Certified Scrum Mater</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/kano/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Kano</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/moscow/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">MoSCoW</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/scrum/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">scrum</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E4%BC%98%E5%85%88%E7%BA%A7/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">待办事项优先级</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A8/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">待办列表</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E4%BC%B0%E7%AE%97/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷估算</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷实践</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E8%A7%84%E5%88%92/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷规划</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷计划</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷评估</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">敏捷项目管理</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E7%B3%BB%E7%BB%9F%E4%B9%8B%E7%BE%8E/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">系统之美</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/%E7%B3%BB%E7%BB%9F%E6%80%9D%E7%BB%B4/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">系统思维</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/agile-coach-overview/">「视频」敏捷教练的工作是什么？让我们总览一下</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/burn-down-chart/">「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/understanding-scrum-metrics/">理解Scrum 度量和关键绩效指标</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/7-minutes-scrum/">「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/your-favorite-agile-certification/">选择合适自己的敏捷认证培训</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/what-is-agile-coach/">告诉你的CxO敏捷教练是什么</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-okr-kpi-metrics/">「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-and-kanban/">「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/how-to-develop-scrum-team/">「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-visualization/">简说敏捷转型可视化和可视化敏捷方法</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-coach-defines/">与大家分享一些“敏捷教练”的定义</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-apply-to-2020-ncov-dealing/">从敏捷价值观看中国速度应对2020新冠肺炎疫情COVID-19</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/scrum-is-not-agilesoftware-framework/">Scrum：我很好，我不是一个敏捷软件开发框架</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/agile-coach-competency-framework/">让你用3分钟简单说敏捷教练能力模型</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/whoami/">关于我们</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://leoyanlili.github.io/" >
+    &copy;  © Copyright 2023 捷伴行Agile 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="facebook ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Facebook link" aria-label="follow on Facebook——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanl" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="channel/UC5N_3n0NHOa3DFbKhiM1KTw" target="_blank" rel="noopener" class="youtube ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="YouTube link" aria-label="follow on YouTube——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M42.527,41.34c-0.278,0-0.478,0.078-0.6,0.244  c-0.121,0.156-0.18,0.424-0.18,0.796v0.896h1.543V42.38c0-0.372-0.062-0.64-0.185-0.796C42.989,41.418,42.792,41.34,42.527,41.34z   M36.509,41.309c0.234,0,0.417,0.076,0.544,0.23c0.123,0.155,0.185,0.383,0.185,0.682v4.584c0,0.286-0.053,0.487-0.153,0.611  c-0.1,0.127-0.256,0.189-0.47,0.189c-0.148,0-0.287-0.033-0.421-0.096c-0.135-0.062-0.274-0.171-0.415-0.313v-5.531  c0.119-0.122,0.239-0.213,0.36-0.271C36.26,41.335,36.383,41.309,36.509,41.309z M41.748,44.658v1.672  c0,0.468,0.057,0.792,0.17,0.974c0.118,0.181,0.313,0.269,0.592,0.269c0.289,0,0.491-0.076,0.606-0.229  c0.114-0.153,0.175-0.489,0.175-1.013v-0.405h1.795v0.456c0,0.911-0.217,1.596-0.657,2.059c-0.435,0.459-1.089,0.687-1.958,0.687  c-0.781,0-1.398-0.242-1.847-0.731c-0.448-0.486-0.676-1.157-0.676-2.014v-3.986c0-0.768,0.249-1.398,0.742-1.882  c0.493-0.484,1.128-0.727,1.911-0.727c0.799,0,1.413,0.225,1.843,0.674c0.429,0.448,0.642,1.093,0.642,1.935v2.264H41.748z   M38.623,48.495c-0.271,0.336-0.669,0.501-1.187,0.501c-0.343,0-0.646-0.062-0.912-0.192c-0.267-0.129-0.519-0.327-0.746-0.601  v0.681h-1.764V36.852h1.764v3.875c0.237-0.27,0.485-0.478,0.748-0.616c0.267-0.143,0.534-0.212,0.805-0.212  c0.554,0,0.975,0.189,1.265,0.565c0.294,0.379,0.438,0.933,0.438,1.66v4.926C39.034,47.678,38.897,48.159,38.623,48.495z   M30.958,48.884v-0.976c-0.325,0.361-0.658,0.636-1.009,0.822c-0.349,0.191-0.686,0.282-1.014,0.282  c-0.405,0-0.705-0.129-0.913-0.396c-0.201-0.266-0.305-0.658-0.305-1.189v-7.422h1.744v6.809c0,0.211,0.037,0.362,0.107,0.457  c0.077,0.095,0.196,0.141,0.358,0.141c0.128,0,0.292-0.062,0.488-0.188c0.197-0.125,0.375-0.283,0.542-0.475v-6.744h1.744v8.878  H30.958z M24.916,38.6v10.284h-1.968V38.6h-2.034v-1.748h6.036V38.6H24.916z M32.994,32.978c0-0.001,12.08,0.018,13.514,1.45  c1.439,1.435,1.455,8.514,1.455,8.555c0,0-0.012,7.117-1.455,8.556C45.074,52.969,32.994,53,32.994,53s-12.079-0.031-13.516-1.462  c-1.438-1.435-1.441-8.502-1.441-8.556c0-0.041,0.004-7.12,1.441-8.555C20.916,32.996,32.994,32.977,32.994,32.978z M42.52,29.255  h-1.966v-1.08c-0.358,0.397-0.736,0.703-1.13,0.909c-0.392,0.208-0.771,0.312-1.14,0.312c-0.458,0-0.797-0.146-1.027-0.437  c-0.229-0.291-0.345-0.727-0.345-1.311v-8.172h1.962v7.497c0,0.231,0.045,0.399,0.127,0.502c0.08,0.104,0.216,0.156,0.399,0.156  c0.143,0,0.327-0.069,0.548-0.206c0.22-0.137,0.423-0.312,0.605-0.527v-7.422h1.966V29.255z M31.847,27.588  c0.139,0.147,0.339,0.219,0.6,0.219c0.266,0,0.476-0.075,0.634-0.223c0.157-0.152,0.235-0.358,0.235-0.618v-5.327  c0-0.214-0.08-0.387-0.241-0.519c-0.16-0.131-0.37-0.196-0.628-0.196c-0.241,0-0.435,0.065-0.586,0.196  c-0.148,0.132-0.225,0.305-0.225,0.519v5.327C31.636,27.233,31.708,27.439,31.847,27.588z M30.408,19.903  c0.528-0.449,1.241-0.674,2.132-0.674c0.812,0,1.48,0.237,2.001,0.711c0.517,0.473,0.777,1.083,0.777,1.828v5.051  c0,0.836-0.255,1.491-0.762,1.968c-0.513,0.476-1.212,0.714-2.106,0.714c-0.858,0-1.547-0.246-2.064-0.736  c-0.513-0.492-0.772-1.152-0.772-1.983v-5.068C29.613,20.954,29.877,20.351,30.408,19.903z M24.262,16h-2.229l2.634,8.003v5.252  h2.213v-5.5L29.454,16h-2.25l-1.366,5.298h-0.139L24.262,16z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30  S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+    
+    <a href="leoyanlili/leoyanlili.github.io" target="_blank" rel="noopener" class="github ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="GitHub link" aria-label="follow on GitHub——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

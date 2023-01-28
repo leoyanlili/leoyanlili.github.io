@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youtube on 捷伴行Agile</title>
+    <link>https://leoyanlili.github.io/tags/youtube/</link>
+    <description>Recent content in youtube on 捷伴行Agile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2023 捷伴行Agile</copyright>
+    <lastBuildDate>Wed, 08 Apr 2020 04:09:53 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Youtube油管视频下载工具，MacOS客户端和网页端下载都有</title>
+      <link>https://leoyanlili.github.io/youtube-video-download-tools/</link>
+      <pubDate>Wed, 08 Apr 2020 04:09:53 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/youtube-video-download-tools/</guid>
+      <description>节省大家的宝贵时间，这里废话不多说，干货直接分享：
+一、能够下载Youtube视频的大前提是浏览器必须能够访问 www.youtube.com
+网上有很多专业的方法或是收费的服务，这里就不介绍了。
+二、可以用web网站或者客户端进行下载，下面就简单介绍两种方法
+访问 https://www.y2mate.com/ 在绿框中输入youtube上的视频URL地址，点&amp;quot;Start&amp;quot;就可以下载了。
+在MacOS上的下载的客户端 Downie 工具更方便，可以批量下，而且还可以下载其他渠道的视频 https://software.charliemonroe.net/downie/
+—
+END
+希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更及时的更新通知。</description>
+    </item>
+    
+    <item>
+      <title>MacOS中运行you_get或youtube_dl下载视频出现[SSL: CERTIFICATE_VERIFY_FAILED]</title>
+      <link>https://leoyanlili.github.io/youtube_dl/</link>
+      <pubDate>Wed, 15 Jan 2020 07:29:34 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/youtube_dl/</guid>
+      <description>如果我们在使用you_get或youtube_dl下载视频
+$ youtube-dl &amp;lsquo;https://youtu.be/10wVFaRInfs&#39;
+有时候会出现如下错误❌：
+&amp;lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)&amp;gt; (caused by URLError(SSLCertVerificationError(1, &#39;[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)&#39;)))
+这里是对普通用户的问题解决方法（如何在Python代码里解决这个问题，网上已经有很多资料，就不多说了）
+找到你电脑上的Python安装路径，运行如下命令：
+$ open &amp;ldquo;/Applications/Python 3.8/Install Certificates.command&amp;rdquo;
+再运行下刚才的命令：
+$ youtube-dl &amp;lsquo;https://youtu.be/10wVFaRInfs&#39;
+这样可以正常下载了，如下：
+Python的官方解释 https://bugs.python.org/issue29065#msg283984</description>
+    </item>
+    
+  </channel>
+</rss>

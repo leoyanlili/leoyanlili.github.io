@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on 捷伴行Agile</title>
+    <link>https://leoyanlili.github.io/tags/github/</link>
+    <description>Recent content in GitHub on 捷伴行Agile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2023 捷伴行Agile</copyright>
+    <lastBuildDate>Tue, 07 Jul 2020 10:23:26 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客生产线：WordPress(平台)&#43;Typora(编辑器)&#43;GitHub(图床)</title>
+      <link>https://leoyanlili.github.io/wordpress-typora-github/</link>
+      <pubDate>Tue, 07 Jul 2020 10:23:26 +0000</pubDate>
+      
+      <guid>https://leoyanlili.github.io/wordpress-typora-github/</guid>
+      <description>前言 写个人博客的方法和平台有很多，这里介绍的是用个人搭建的WordPress(平台) + Typora(编辑器) + GitHub(图床)的方法，用Markdown语法写文章。
+自从用了Markdown写博客，感觉还是挺方便的，现在很多平台都支持MD。这样保证了在各个平台上的兼容性，如果未来希望转移到其他基于GitHub的静态博客，如Hugo，也是个不错的准备。况且很多MD的编辑器非常棒，像Typora这么优秀的工具，不仅仅是个MD编辑器，Typora和图床工具及图床服务可组成一个博客生产的工具流水线，让写作者关注在一个编辑器里就可以。
+步骤 1. 在WordPress中使用markdown，准备写作平台 如果要在Wordpress中用Markdown语法写作，需要安装一个Markdown插件WP Githuber MD，可以很好的支持Markdown语法和所见即所得的功能。然后编辑器就成这样了
+2. 用Typora+PicGo+GitHub，准备编辑工具流水线 Typora是一个MD编辑器，还同时能支持多个图床的工具，其中就包括PicGo(需下载安装)。将PicGo中的图床链接配置指向GitHub上创建好的专门用来做图床的库的相关链接就可以。文章编辑过程中可以无缝将黏贴过来(或添加)的图片，保存到本地指定目录下，对图片右键鼠标可以直接上传到GitHub图床上，并且返回在图床上的图片链接，所见即所得，图片链接直接显示在编辑的文章中。
+![image-20200707175610196](/Volumes/Backup/oschina/agilewalker/agilewalker_blog/418 博客生产线：印象笔记Markdown+Typora+PicGo+GitHub图床/image-20200707175610196.png)
+3. 将文字复制到 wordpress博客，准备发布文章 可以把在Typora中写好的MD内容，完全复制到Wordpress新文章中，添加必要的关键字信息，即可发布。发布后，相关的图片也会很好的展现(因为已经在Typora编辑阶段上传了图片)，这里可能会有一些图片展现的速度延迟问题，毕竟是在GitHub上的免费图床。
+4. 当博客发布后，准备在印象笔记创建备份 印象笔记也是个比较友好的MD编辑器，虽说每篇文章都有本地存档，我也会定期提交GitHub，总还是需要第二个云端备份，就创建印象笔记Markdown文档和云同步功能。保留一个当时提交时候的版本。至少以后还能找回来99%的内容。
+5. 发布到其他平台 有很多不错的云端工具，可以将写过的文章同时发布到多个自媒体平台，微信公众号，简书，CSDN，掘金，今日头条，知乎。得益于主流平台对Markdown的支持。虽说公众号不支持MD，可以直接复制Typora的预览窗口内容到公众号文章编辑器。所见即所得吧。
+写在最后 写本文为了提供了一种从工具层面提高自媒体作者文章输出效率的思路和方法。结合自己的经历和身边朋友的困扰，希望写文章的过程中除了内容以外，尽量减少不必要的时间投入，专注在内容创作中。借此，抛砖引玉，如果你有更好的方案，欢迎在这里与大家分享。
+—
+END
+感谢你阅读本文，希望能在评论区学习到大家的经验和想法~
+如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
+    </item>
+    
+  </channel>
+</rss>
