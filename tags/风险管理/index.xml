@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>风险管理 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</link>
+    <link>https://www.agilewalker.com/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 风险管理 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 12:44:21 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Apr 2020 12:44:21 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://leoyanlili.github.io/sprint-burndown-chart/</link>
+      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-burndown-chart/</guid>
+      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
 &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&amp;lt;br /&amp;gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&amp;lt;br /&amp;gt; 因此，从所有这些信息中，开始绘制燃尽图 &amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total Days of the sprint = 10 days&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total committed &amp;amp; estimated task hours for the team = 110 Hours&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&amp;lt;br /&amp;gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&amp;lt;br /&amp;gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1003&amp;quot; src=&amp;quot;https://www.</description>
@@ -21,10 +21,10 @@
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</title>
-      <link>https://leoyanlili.github.io/sprint-burndown-chart-2/</link>
+      <link>https://www.agilewalker.com/sprint-burndown-chart-2/</link>
       <pubDate>Tue, 14 Apr 2020 12:06:05 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-burndown-chart-2/</guid>
+      <guid>https://www.agilewalker.com/sprint-burndown-chart-2/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（下篇为主题4-6）：
 （延续上篇主题1-3 敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇））

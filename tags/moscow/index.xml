@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MoSCoW on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/moscow/</link>
+    <link>https://www.agilewalker.com/tags/moscow/</link>
     <description>Recent content in MoSCoW on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 08:44:13 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/moscow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 08:44:13 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/moscow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://leoyanlili.github.io/product-backlog-prioritization/</link>
+      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/product-backlog-prioritization/</guid>
+      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么我们需要优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h2&amp;gt; 什么是产品待办事项优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;div class=&amp;quot;uvc-sub-heading ult-responsive&amp;quot; data-ultimate-target=&amp;quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &amp;quot; data-responsive-json-new=&amp;quot;{&amp;amp;quot;font-size&amp;amp;quot;:&amp;amp;quot;desktop:14px;&amp;amp;quot;,&amp;amp;quot;line-height&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}&amp;quot;&amp;gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&amp;lt;br /&amp;gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&amp;lt;br /&amp;gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;待办事项优先级排序的优势&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 商业利益&amp;lt;br /&amp;gt; -最快的投资回报&amp;lt;br /&amp;gt; -客户或业务满意度&amp;lt;br /&amp;gt; -更好地管理依赖项&amp;lt;br /&amp;gt; -最小化风险&amp;lt;br /&amp;gt; -关注价值驱动的开发 &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 对Scrum团队的优势&amp;lt;br /&amp;gt; -通过选择的故事进行有效的梳理&amp;lt;br /&amp;gt; -通过选择的故事进行有效的Sprint计划&amp;lt;br /&amp;gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&amp;lt;br /&amp;gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_empty_space&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;优先级排序中对待不同的待办事项条目&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;p&amp;gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-976&amp;quot; src=&amp;quot;https://www.</description>
     </item>
     

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>迭代评审 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E8%BF%AD%E4%BB%A3%E8%AF%84%E5%AE%A1/</link>
+    <link>https://www.agilewalker.com/tags/%E8%BF%AD%E4%BB%A3%E8%AF%84%E5%AE%A1/</link>
     <description>Recent content in 迭代评审 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 10:36:22 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E8%BF%AD%E4%BB%A3%E8%AF%84%E5%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 10:36:22 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E8%BF%AD%E4%BB%A3%E8%AF%84%E5%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>产品负责人的轻度思考，6个小策略，面对迭代Sprint评审会</title>
-      <link>https://leoyanlili.github.io/sprint-review-advice/</link>
+      <link>https://www.agilewalker.com/sprint-review-advice/</link>
       <pubDate>Sat, 16 Jan 2021 10:36:22 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-review-advice/</guid>
+      <guid>https://www.agilewalker.com/sprint-review-advice/</guid>
       <description>人类并不善于将事情做得十全十美，于是软件中充满Bug也就不足为奇了。
 Sprint评审会议可能是产品负责人最重要的活动，它可以帮助你收集反馈意见，做出正确的产品决策，从而增加创造成功产品的机会。产品负责人可能并不总是清楚谁应该参加会议，应该如何开展这个会议，以及如何收集相关反馈。本文将回答这些问题，并分享一些建议，以帮助你在Sprint评审会上得到更多收获。
 邀请正确的人参与 从正确的人那里收集反馈信息对于做出正确的产品决策至关重要：如果你邀请了不合适的人参与，或者关键人物未到场，那么你不太可能收到你所需要的反馈。因此，你应该确保你邀请合适的人参与。

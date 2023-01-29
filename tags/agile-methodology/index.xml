@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>agile methodology on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/agile-methodology/</link>
+    <link>https://www.agilewalker.com/tags/agile-methodology/</link>
     <description>Recent content in agile methodology on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 14:57:14 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/agile-methodology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 14:57:14 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/agile-methodology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>038.打造用户喜爱的产品，离不开需求助推器|影响地图Impact Mapping</title>
-      <link>https://leoyanlili.github.io/038-impact-mapping/</link>
+      <link>https://www.agilewalker.com/038-impact-mapping/</link>
       <pubDate>Sun, 20 Nov 2022 14:57:14 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/038-impact-mapping/</guid>
+      <guid>https://www.agilewalker.com/038-impact-mapping/</guid>
       <description>把重点放在客户在工作中期望的变化，而非仅仅是客户要完成什么工作。
 -Robert Brinkerhoff
 开篇 今天要为你解读的这本书是《影响地图》，副标题叫做“让软件产生真正的影响力”。简单地说，这是一本帮助大家通过有效方法提升产品规划能力，实现客户业务价值交付的书。《大规模Scrum》的作者之一Craig Larman建议了本方法的最终命名“影响地图”，敏捷宣言的共同发起人Tom Poppendieck在本书前言中说“影响地图可视化地呈现了我们所面对的问题的四个方面：为什么（WHY），谁（WHO），怎么（HOW）和什么（WHAT）。就像公路地图显示城镇以及连接它们的道路一样，影响地图展示了我们要构建的东西，以及它们与人们使用方案解决的问题之间的连接。”。
@@ -68,10 +68,10 @@
     
     <item>
       <title>团队是敏捷教练的镜子</title>
-      <link>https://leoyanlili.github.io/team-is-mirror-of-coach/</link>
+      <link>https://www.agilewalker.com/team-is-mirror-of-coach/</link>
       <pubDate>Wed, 27 Jan 2021 14:53:45 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/team-is-mirror-of-coach/</guid>
+      <guid>https://www.agilewalker.com/team-is-mirror-of-coach/</guid>
       <description>敏捷教练是团队的镜子，这是一个常识，我认为反之亦然。
 前言 在敏捷教练的工作过程中，经常告诉自己的一句的工作职责就是：要作为团队的镜子。作为团队的镜子，敏捷教练或Scrum Master参与团队和个人的工作过程，一个重要的任务是通过观察以及沟通寻找发挥自己职能的时机，帮助敏捷团队的看清自己行为本身有哪些可以继续保持或是可以做的更好，让团队能够发现改进机会。我们今天要说的是在这个过程中，教练也可以把团队作为镜子，发现自己的问题，思考如何让自己做得更好的，以符合团队的现状和目标期望。在敏捷中，传统项目管理的职责被 PO，开发团队和SM所共同分担，PO负责目标，团队负责交付，SM负责流程、团队和改进。作为敏捷领导团队的一员，我们经常自我反思：如何帮团队顶住压力，并给团队注入动力？
 在前一篇博客中，总结了个人理解的敏捷含义，本文就从这几个方面谈谈我们今天的话题：
@@ -91,10 +91,10 @@
     
     <item>
       <title>Scrum框架的局限性在哪里？</title>
-      <link>https://leoyanlili.github.io/where-scrum-limits/</link>
+      <link>https://www.agilewalker.com/where-scrum-limits/</link>
       <pubDate>Mon, 28 Sep 2020 13:26:15 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/where-scrum-limits/</guid>
+      <guid>https://www.agilewalker.com/where-scrum-limits/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;By Mark Levison&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -106,10 +106,10 @@
     
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <link>https://www.agilewalker.com/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <guid>https://www.agilewalker.com/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
 &amp;ndash;大卫.安德森
 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
@@ -137,10 +137,10 @@
     
     <item>
       <title>「视频」6分钟说如何设定一个好的OKR(搬砖推荐)</title>
-      <link>https://leoyanlili.github.io/v-how-to-set-okr/</link>
+      <link>https://www.agilewalker.com/v-how-to-set-okr/</link>
       <pubDate>Wed, 17 Jun 2020 02:30:43 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-how-to-set-okr/</guid>
+      <guid>https://www.agilewalker.com/v-how-to-set-okr/</guid>
       <description>「视频」6分钟说如何设定一个好的OKR(搬砖推荐) 在这里开视频
 —
 END
@@ -150,10 +150,10 @@ END
     
     <item>
       <title>有价值的产品=设计思维&#43;精益创业&#43;敏捷方法</title>
-      <link>https://leoyanlili.github.io/designthinking-leanstartup-agile/</link>
+      <link>https://www.agilewalker.com/designthinking-leanstartup-agile/</link>
       <pubDate>Sat, 16 May 2020 15:06:55 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/designthinking-leanstartup-agile/</guid>
+      <guid>https://www.agilewalker.com/designthinking-leanstartup-agile/</guid>
       <description>设计思维是一个反复的过程，在此过程中，我们要努力理解用户的痛苦，挑战性假设，重新定义问题，以便创建新的策略和解决方案。
 通常的设计思考阶段如下：
 “精益创业是一种用于开发业务和产品的方法，旨在缩短产品开发周期并迅速发现拟定的业务模型是否可行； 这是通过结合业务假设驱动的实验，迭代的产品发布和经过验证的学习来实现的。” —维基百科

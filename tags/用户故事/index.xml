@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>用户故事 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/</link>
+    <link>https://www.agilewalker.com/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/</link>
     <description>Recent content in 用户故事 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Thu, 03 Feb 2022 06:13:32 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 06:13:32 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷软件开发工作估算方法 – 故事点和工时</title>
-      <link>https://leoyanlili.github.io/storypoint-man-hour/</link>
+      <link>https://www.agilewalker.com/storypoint-man-hour/</link>
       <pubDate>Thu, 03 Feb 2022 06:13:32 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/storypoint-man-hour/</guid>
+      <guid>https://www.agilewalker.com/storypoint-man-hour/</guid>
       <description>你如果无法度量它，就无法管理它
 &amp;ndash; 彼得.德鲁克
 软件开发组织工作估算的思考 我们人类天生不善于估算，要不就是过于乐观，要不就是过于悲观，就是很少有现实主义。尤其是我们软件开发行业，有太多的未知数：技术一直在变；新需求不断涌现；任务之间或人与人之间错综复杂的依赖关系；还有外界环境存在的各种因素。工作量主要与三方面因素有关，任务的规模，任务的复杂度以及完成该任务的人员能力水平。
@@ -34,10 +34,10 @@ END
     
     <item>
       <title>初创的敏捷团队采用行为驱动开发共创用户故事</title>
-      <link>https://leoyanlili.github.io/how-bdd-user-story/</link>
+      <link>https://www.agilewalker.com/how-bdd-user-story/</link>
       <pubDate>Thu, 11 Feb 2021 04:36:00 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-bdd-user-story/</guid>
+      <guid>https://www.agilewalker.com/how-bdd-user-story/</guid>
       <description>如果说TDD是让我们正确地做事，那么BDD就是让我们做正确的事。
 在原本的计划中，2021年农历新年前发布另一篇文章，还是应了计划赶不上变化的这句老话，也算是体现了敏捷的价值观，希望本文对初创敏捷团队有一定的帮助。
 维基百科的解释 行为驱动开发（英语：Behavior-driven development，缩写BDD）是一种敏捷软件开发的技术，它鼓励软件项目中的产品负责人、开发者、QA和非技术人员或干系人之间的协作。BDD最初是由Dan North在2003年命名，它包括验收测试和客户测试驱动等的极限编程的实践，作为对测试驱动开发的回应。BDD介于业务领域和开发领域之间，如下图的位置。
@@ -70,10 +70,10 @@ END
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://leoyanlili.github.io/sprint-burndown-chart/</link>
+      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-burndown-chart/</guid>
+      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
 &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&amp;lt;br /&amp;gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&amp;lt;br /&amp;gt; 因此，从所有这些信息中，开始绘制燃尽图 &amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total Days of the sprint = 10 days&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total committed &amp;amp; estimated task hours for the team = 110 Hours&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&amp;lt;br /&amp;gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&amp;lt;br /&amp;gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1003&amp;quot; src=&amp;quot;https://www.</description>
@@ -81,10 +81,10 @@ END
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://leoyanlili.github.io/v-user-story-splitting/</link>
+      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-user-story-splitting/</guid>
+      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地
 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==]
 —
@@ -95,10 +95,10 @@ END
     
     <item>
       <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
-      <link>https://leoyanlili.github.io/v-understand-user-story/</link>
+      <link>https://www.agilewalker.com/v-understand-user-story/</link>
       <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-understand-user-story/</guid>
+      <guid>https://www.agilewalker.com/v-understand-user-story/</guid>
       <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器
 [https://player.youku.com/embed/XNDYwMjQyNTI2MA==]
 —
@@ -109,10 +109,10 @@ END
     
     <item>
       <title>XP里故事要INVEST和任务要SMART</title>
-      <link>https://leoyanlili.github.io/story-invest-smart/</link>
+      <link>https://www.agilewalker.com/story-invest-smart/</link>
       <pubDate>Sun, 16 Feb 2020 16:20:24 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/story-invest-smart/</guid>
+      <guid>https://www.agilewalker.com/story-invest-smart/</guid>
       <description> </description>
     </item>
     

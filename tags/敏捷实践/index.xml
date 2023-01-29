@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷实践 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/</link>
+    <link>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/</link>
     <description>Recent content in 敏捷实践 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 10:22:40 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 10:22:40 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrum敏捷开发培训后有感</title>
-      <link>https://leoyanlili.github.io/scrum-trainning/</link>
+      <link>https://www.agilewalker.com/scrum-trainning/</link>
       <pubDate>Thu, 01 Apr 2021 10:22:40 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-trainning/</guid>
+      <guid>https://www.agilewalker.com/scrum-trainning/</guid>
       <description>从⻓长远来看，你的组织可持续的竞争优势就是具有比对⼿更快的学习能⼒。
 —— 彼得.圣吉
 开端 2021年在即将辞旧岁和迎新年后，公司组织了两次Scrum敏捷开发企业级实训，2月初和3月初各一次。我有幸能参加第一次的培训，俗话说的好：输入只是学习的开始，输出是学习的检验和深化。在第二次培训结束后，感受到很多同事对敏捷开发方法还是有很大的意愿去尝试的。经过几天的思来想去，认为公司刚开始做敏捷转型，有必要做一个简单的文字记录，写下这次有意义的活动，同时也可供其他同事未来日常参考。本文简单小结了这次培训涉及的内容，以及结合了我自己工作中的一些思考，其中有部分文字是之前日常反思中记录下来的，此情此景，正好移花接木一下，希望大家原谅我的懒惰。
@@ -52,10 +52,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>有价值的产品=设计思维&#43;精益创业&#43;敏捷方法</title>
-      <link>https://leoyanlili.github.io/designthinking-leanstartup-agile/</link>
+      <link>https://www.agilewalker.com/designthinking-leanstartup-agile/</link>
       <pubDate>Sat, 16 May 2020 15:06:55 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/designthinking-leanstartup-agile/</guid>
+      <guid>https://www.agilewalker.com/designthinking-leanstartup-agile/</guid>
       <description>设计思维是一个反复的过程，在此过程中，我们要努力理解用户的痛苦，挑战性假设，重新定义问题，以便创建新的策略和解决方案。
 通常的设计思考阶段如下：
 “精益创业是一种用于开发业务和产品的方法，旨在缩短产品开发周期并迅速发现拟定的业务模型是否可行； 这是通过结合业务假设驱动的实验，迭代的产品发布和经过验证的学习来实现的。” —维基百科
@@ -71,10 +71,10 @@ END
     
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://leoyanlili.github.io/sprint-capactiy-planning/</link>
+      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-capactiy-planning/</guid>
+      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解关于产能规划的话题：
 &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 2. &amp;lt;strong&amp;gt;小时&amp;lt;/strong&amp;gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&amp;lt;br /&amp;gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&amp;lt;br /&amp;gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h4&amp;gt; &amp;lt;span class=&amp;quot;dt-highlight&amp;quot;&amp;gt;Step 1 – 计算Sprint持续时间&amp;lt;/span&amp;gt; &amp;lt;/h4&amp;gt; &amp;lt;p&amp;gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&amp;lt;br /&amp;gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&amp;lt;br /&amp;gt; 黄色=上一个Sprint&amp;lt;br /&amp;gt; 绿色=当前的Sprint&amp;lt;br /&amp;gt; 蓝色=未来Sprint &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-large wp-image-1049&amp;quot; src=&amp;quot;https://www.</description>
@@ -82,10 +82,10 @@ END
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</title>
-      <link>https://leoyanlili.github.io/sprint-burndown-chart-2/</link>
+      <link>https://www.agilewalker.com/sprint-burndown-chart-2/</link>
       <pubDate>Tue, 14 Apr 2020 12:06:05 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-burndown-chart-2/</guid>
+      <guid>https://www.agilewalker.com/sprint-burndown-chart-2/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（下篇为主题4-6）：
 （延续上篇主题1-3 敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇））
@@ -94,10 +94,10 @@ END
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://leoyanlili.github.io/v-user-story-splitting/</link>
+      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-user-story-splitting/</guid>
+      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地
 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==]
 —
@@ -108,10 +108,10 @@ END
     
     <item>
       <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
-      <link>https://leoyanlili.github.io/v-understand-user-story/</link>
+      <link>https://www.agilewalker.com/v-understand-user-story/</link>
       <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-understand-user-story/</guid>
+      <guid>https://www.agilewalker.com/v-understand-user-story/</guid>
       <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器
 [https://player.youku.com/embed/XNDYwMjQyNTI2MA==]
 —
@@ -122,19 +122,19 @@ END
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://leoyanlili.github.io/product-backlog-prioritization/</link>
+      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/product-backlog-prioritization/</guid>
+      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么我们需要优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h2&amp;gt; 什么是产品待办事项优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;div class=&amp;quot;uvc-sub-heading ult-responsive&amp;quot; data-ultimate-target=&amp;quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &amp;quot; data-responsive-json-new=&amp;quot;{&amp;amp;quot;font-size&amp;amp;quot;:&amp;amp;quot;desktop:14px;&amp;amp;quot;,&amp;amp;quot;line-height&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}&amp;quot;&amp;gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&amp;lt;br /&amp;gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&amp;lt;br /&amp;gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;待办事项优先级排序的优势&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 商业利益&amp;lt;br /&amp;gt; -最快的投资回报&amp;lt;br /&amp;gt; -客户或业务满意度&amp;lt;br /&amp;gt; -更好地管理依赖项&amp;lt;br /&amp;gt; -最小化风险&amp;lt;br /&amp;gt; -关注价值驱动的开发 &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 对Scrum团队的优势&amp;lt;br /&amp;gt; -通过选择的故事进行有效的梳理&amp;lt;br /&amp;gt; -通过选择的故事进行有效的Sprint计划&amp;lt;br /&amp;gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&amp;lt;br /&amp;gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_empty_space&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;优先级排序中对待不同的待办事项条目&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;p&amp;gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-976&amp;quot; src=&amp;quot;https://www.</description>
     </item>
     
     <item>
       <title>「视频」敏捷教练的工作是什么？让我们总览一下</title>
-      <link>https://leoyanlili.github.io/agile-coach-overview/</link>
+      <link>https://www.agilewalker.com/agile-coach-overview/</link>
       <pubDate>Sun, 12 Apr 2020 10:58:07 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-overview/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-overview/</guid>
       <description>敏捷教练的工作是什么？让我们总览一下
 [https://player.youku.com/embed/XNDYyOTE3OTMyNA==]
 —
@@ -145,10 +145,10 @@ END
     
     <item>
       <title>「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</title>
-      <link>https://leoyanlili.github.io/burn-down-chart/</link>
+      <link>https://www.agilewalker.com/burn-down-chart/</link>
       <pubDate>Sun, 12 Apr 2020 10:46:36 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/burn-down-chart/</guid>
+      <guid>https://www.agilewalker.com/burn-down-chart/</guid>
       <description>值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决
 [https://player.youku.com/embed/XNDYxMDk2Mjk0OA==]
 —
@@ -159,10 +159,10 @@ END
     
     <item>
       <title>简说敏捷转型可视化和可视化敏捷方法</title>
-      <link>https://leoyanlili.github.io/agile-visualization/</link>
+      <link>https://www.agilewalker.com/agile-visualization/</link>
       <pubDate>Thu, 19 Mar 2020 04:41:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-visualization/</guid>
+      <guid>https://www.agilewalker.com/agile-visualization/</guid>
       <description>在服务企业研发团队的过程中，我们发现不少团队碰到了类似的问题：
 你经常在思考究竟哪些工作是最重要的？如何避免被无穷无尽的项目与工作淹没？
 团队成员声称完成了自己的大部分任务，但团队实际交付的需求却寥寥无几？
@@ -176,10 +176,10 @@ END
     
     <item>
       <title>告诉你的CxO敏捷教练是什么</title>
-      <link>https://leoyanlili.github.io/what-is-agile-coach/</link>
+      <link>https://www.agilewalker.com/what-is-agile-coach/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:47 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/what-is-agile-coach/</guid>
+      <guid>https://www.agilewalker.com/what-is-agile-coach/</guid>
       <description>—
 END
 希望能在评论区学习到大家的经验和想法~
@@ -188,10 +188,10 @@ END
     
     <item>
       <title>与大家分享一些“敏捷教练”的定义</title>
-      <link>https://leoyanlili.github.io/agile-coach-defines/</link>
+      <link>https://www.agilewalker.com/agile-coach-defines/</link>
       <pubDate>Wed, 04 Mar 2020 02:44:04 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-defines/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-defines/</guid>
       <description>引用来自网络的关于与敏捷教练定义，大家应该会有个基本一致的感受：
 参考：
 让你用3分钟简单说敏捷教练能力模型
@@ -204,19 +204,19 @@ END
     
     <item>
       <title>从敏捷价值观看中国速度应对2020新冠肺炎疫情COVID-19</title>
-      <link>https://leoyanlili.github.io/agile-apply-to-2020-ncov-dealing/</link>
+      <link>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</link>
       <pubDate>Sat, 29 Feb 2020 08:48:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-apply-to-2020-ncov-dealing/</guid>
+      <guid>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</guid>
       <description>「2020-新冠病毒疫情最新情报速递」</description>
     </item>
     
     <item>
       <title>让你用3分钟简单说敏捷教练能力模型</title>
-      <link>https://leoyanlili.github.io/agile-coach-competency-framework/</link>
+      <link>https://www.agilewalker.com/agile-coach-competency-framework/</link>
       <pubDate>Sat, 22 Feb 2020 10:30:04 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-competency-framework/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-competency-framework/</guid>
       <description>1) 保持中立的态度：敏捷教练在引导团队会议，提供专业指导以及培训的时候，需要保持不偏不倚的心境，不受来自高层或自己个人喜好的牵制和影响。
 2) 服务客户的立场：敏捷教练的客户包括个人、团队、组织。客户更理解自己所处的环境，所以教练除了给出必要的指导和协助更要尊重客户自己的选择和决定。
 3) 鼓励客户自实践：企业投资敏捷教练的目的是为了最终将敏捷思想，技能、实践转移给企业组织内部，成为一个自我管理，自我成长，高效能和可持续性的敏捷型组织。

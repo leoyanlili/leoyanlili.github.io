@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷框架 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/</link>
+    <link>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/</link>
     <description>Recent content in 敏捷框架 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 10:22:40 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 10:22:40 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrum敏捷开发培训后有感</title>
-      <link>https://leoyanlili.github.io/scrum-trainning/</link>
+      <link>https://www.agilewalker.com/scrum-trainning/</link>
       <pubDate>Thu, 01 Apr 2021 10:22:40 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-trainning/</guid>
+      <guid>https://www.agilewalker.com/scrum-trainning/</guid>
       <description>从⻓长远来看，你的组织可持续的竞争优势就是具有比对⼿更快的学习能⼒。
 —— 彼得.圣吉
 开端 2021年在即将辞旧岁和迎新年后，公司组织了两次Scrum敏捷开发企业级实训，2月初和3月初各一次。我有幸能参加第一次的培训，俗话说的好：输入只是学习的开始，输出是学习的检验和深化。在第二次培训结束后，感受到很多同事对敏捷开发方法还是有很大的意愿去尝试的。经过几天的思来想去，认为公司刚开始做敏捷转型，有必要做一个简单的文字记录，写下这次有意义的活动，同时也可供其他同事未来日常参考。本文简单小结了这次培训涉及的内容，以及结合了我自己工作中的一些思考，其中有部分文字是之前日常反思中记录下来的，此情此景，正好移花接木一下，希望大家原谅我的懒惰。
@@ -52,10 +52,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <link>https://www.agilewalker.com/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <guid>https://www.agilewalker.com/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
 &amp;ndash;大卫.安德森
 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
@@ -83,10 +83,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>「视频」规模化敏捷Spotify模型的工程文化</title>
-      <link>https://leoyanlili.github.io/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</link>
+      <link>https://www.agilewalker.com/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</link>
       <pubDate>Wed, 24 Jun 2020 02:04:10 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</guid>
+      <guid>https://www.agilewalker.com/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</guid>
       <description>「视频」规模化敏捷Spotify模型的工程文化 在这里开视频
 —
 END
@@ -96,10 +96,10 @@ END
     
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://leoyanlili.github.io/sprint-capactiy-planning/</link>
+      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-capactiy-planning/</guid>
+      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解关于产能规划的话题：
 &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 2. &amp;lt;strong&amp;gt;小时&amp;lt;/strong&amp;gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&amp;lt;br /&amp;gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&amp;lt;br /&amp;gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h4&amp;gt; &amp;lt;span class=&amp;quot;dt-highlight&amp;quot;&amp;gt;Step 1 – 计算Sprint持续时间&amp;lt;/span&amp;gt; &amp;lt;/h4&amp;gt; &amp;lt;p&amp;gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&amp;lt;br /&amp;gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&amp;lt;br /&amp;gt; 黄色=上一个Sprint&amp;lt;br /&amp;gt; 绿色=当前的Sprint&amp;lt;br /&amp;gt; 蓝色=未来Sprint &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-large wp-image-1049&amp;quot; src=&amp;quot;https://www.</description>
@@ -107,10 +107,10 @@ END
     
     <item>
       <title>「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</title>
-      <link>https://leoyanlili.github.io/scrum-crash-course/</link>
+      <link>https://www.agilewalker.com/scrum-crash-course/</link>
       <pubDate>Thu, 16 Apr 2020 03:36:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-crash-course/</guid>
+      <guid>https://www.agilewalker.com/scrum-crash-course/</guid>
       <description>[本视频长度1.5小时] 敏捷文化中的Scrum是什么？ - 速成班带你深度了解
 [https://player.youku.com/embed/XNDYxMDk2NjgwMA==]
 —

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷365天 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/categories/%E6%95%8F%E6%8D%B7365%E5%A4%A9/</link>
+    <link>https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7365%E5%A4%A9/</link>
     <description>Recent content in 敏捷365天 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 02 Apr 2022 02:54:46 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/categories/%E6%95%8F%E6%8D%B7365%E5%A4%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Apr 2022 02:54:46 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7365%E5%A4%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「视频」敏捷开发基础，质量内建，帮助组织启动敏捷转型</title>
-      <link>https://leoyanlili.github.io/agile-foundation-transformation/</link>
+      <link>https://www.agilewalker.com/agile-foundation-transformation/</link>
       <pubDate>Sat, 02 Apr 2022 02:54:46 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-foundation-transformation/</guid>
+      <guid>https://www.agilewalker.com/agile-foundation-transformation/</guid>
       <description>[https://player.youku.com/embed/XNTg1Njc1NzE4NA]</description>
     </item>
     
     <item>
       <title>敏捷软件开发工作估算方法 – 故事点和工时</title>
-      <link>https://leoyanlili.github.io/storypoint-man-hour/</link>
+      <link>https://www.agilewalker.com/storypoint-man-hour/</link>
       <pubDate>Thu, 03 Feb 2022 06:13:32 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/storypoint-man-hour/</guid>
+      <guid>https://www.agilewalker.com/storypoint-man-hour/</guid>
       <description>你如果无法度量它，就无法管理它
 &amp;ndash; 彼得.德鲁克
 软件开发组织工作估算的思考 我们人类天生不善于估算，要不就是过于乐观，要不就是过于悲观，就是很少有现实主义。尤其是我们软件开发行业，有太多的未知数：技术一直在变；新需求不断涌现；任务之间或人与人之间错综复杂的依赖关系；还有外界环境存在的各种因素。工作量主要与三方面因素有关，任务的规模，任务的复杂度以及完成该任务的人员能力水平。
@@ -43,10 +43,10 @@ END
     
     <item>
       <title>谈我们的研发运维一体化交付模式</title>
-      <link>https://leoyanlili.github.io/about-devops-delivery/</link>
+      <link>https://www.agilewalker.com/about-devops-delivery/</link>
       <pubDate>Mon, 27 Dec 2021 14:36:34 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/about-devops-delivery/</guid>
+      <guid>https://www.agilewalker.com/about-devops-delivery/</guid>
       <description>物有本末，事有始终，知所先后，则近道矣。
 &amp;ndash; 《大学》
 [TOC]
@@ -59,10 +59,10 @@ END
     
     <item>
       <title>我们的DevOps如何让客户生产环境从“0”到完全恢复</title>
-      <link>https://leoyanlili.github.io/devops-from-0-to-done/</link>
+      <link>https://www.agilewalker.com/devops-from-0-to-done/</link>
       <pubDate>Sun, 14 Nov 2021 09:17:17 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/devops-from-0-to-done/</guid>
+      <guid>https://www.agilewalker.com/devops-from-0-to-done/</guid>
       <description>人能弘道，非道弘人
 &amp;ndash; 论语.卫灵公
 危与机的开始 最近工作有些吃力，11月4日当天特意请了两小时假，提前下班，吃完晚饭刚坐下来，打算简单看个电影，然后好好睡一觉恢复下体力。不想发生了一次突发事件。
@@ -97,10 +97,10 @@ END
     
     <item>
       <title>如何用伪领导力搞垮一个敏捷团队</title>
-      <link>https://leoyanlili.github.io/how-to-destroy-a-team/</link>
+      <link>https://www.agilewalker.com/how-to-destroy-a-team/</link>
       <pubDate>Sun, 25 Jul 2021 06:45:07 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-to-destroy-a-team/</guid>
+      <guid>https://www.agilewalker.com/how-to-destroy-a-team/</guid>
       <description>《易经》乃诸经之首，中华民族的哲学思想的源泉。
 做了多年的基层伪领导，自认做的不是很好，格局不高，事实也说明基层管理更适合本人的思维深度，大家看到这里，至少能判断出我的自省做得很好。本文总结了一些伪领导力，还请大家赐教。
 不知“外圆内方” 说的是领导的根本法则，领导者有更加圆通的行为方式，同时要有较为公正的管理原则。
@@ -126,10 +126,10 @@ END
     
     <item>
       <title>我们这样实践Scrum敏捷每日站会</title>
-      <link>https://leoyanlili.github.io/how-we-daily-scrum/</link>
+      <link>https://www.agilewalker.com/how-we-daily-scrum/</link>
       <pubDate>Sun, 06 Jun 2021 06:59:19 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-we-daily-scrum/</guid>
+      <guid>https://www.agilewalker.com/how-we-daily-scrum/</guid>
       <description>孔子说 性相近，习相远。我们人类性情都差不多，而每个人的习惯千差万别。我不认为敏捷能改变任何人，而是一群有共同积极价值观的人走到一起，在实施敏捷后，可以把各自的潜能激发出来。
 众所周知，每日站会的真正价值在于确保团队能持续地为当前的迭代的“承诺”而努力。每日站会并不是状态汇报，而是信息分享和调整协作。一个成熟的团队可以用不同的方式和关注点来开站会，与此同时团队也继续在改进中使用敏捷。
 我和一个由9位成员的团队一起工作，我们在一起工作至今已经近8个月了。在我加入团队之前，大部分成员对于敏捷是完全不熟悉的。我们可以在15分钟的框架内完成每日站会，这样也更高效。在过去这段时间，我们在每日站会中尝试了不同的方法，目的在于在个人和团队磨合成长的同时，为我们的日常工作建立一个积极的氛围。我们认为真正重要的是：文化和人。
@@ -175,10 +175,10 @@ Redmine(购买了敏捷插件)上，更新电子敏捷看板，其信息与物�
     
     <item>
       <title>Scrum敏捷开发培训后有感</title>
-      <link>https://leoyanlili.github.io/scrum-trainning/</link>
+      <link>https://www.agilewalker.com/scrum-trainning/</link>
       <pubDate>Thu, 01 Apr 2021 10:22:40 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-trainning/</guid>
+      <guid>https://www.agilewalker.com/scrum-trainning/</guid>
       <description>从⻓长远来看，你的组织可持续的竞争优势就是具有比对⼿更快的学习能⼒。
 —— 彼得.圣吉
 开端 2021年在即将辞旧岁和迎新年后，公司组织了两次Scrum敏捷开发企业级实训，2月初和3月初各一次。我有幸能参加第一次的培训，俗话说的好：输入只是学习的开始，输出是学习的检验和深化。在第二次培训结束后，感受到很多同事对敏捷开发方法还是有很大的意愿去尝试的。经过几天的思来想去，认为公司刚开始做敏捷转型，有必要做一个简单的文字记录，写下这次有意义的活动，同时也可供其他同事未来日常参考。本文简单小结了这次培训涉及的内容，以及结合了我自己工作中的一些思考，其中有部分文字是之前日常反思中记录下来的，此情此景，正好移花接木一下，希望大家原谅我的懒惰。
@@ -217,10 +217,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>初创的敏捷团队采用行为驱动开发共创用户故事</title>
-      <link>https://leoyanlili.github.io/how-bdd-user-story/</link>
+      <link>https://www.agilewalker.com/how-bdd-user-story/</link>
       <pubDate>Thu, 11 Feb 2021 04:36:00 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-bdd-user-story/</guid>
+      <guid>https://www.agilewalker.com/how-bdd-user-story/</guid>
       <description>如果说TDD是让我们正确地做事，那么BDD就是让我们做正确的事。
 在原本的计划中，2021年农历新年前发布另一篇文章，还是应了计划赶不上变化的这句老话，也算是体现了敏捷的价值观，希望本文对初创敏捷团队有一定的帮助。
 维基百科的解释 行为驱动开发（英语：Behavior-driven development，缩写BDD）是一种敏捷软件开发的技术，它鼓励软件项目中的产品负责人、开发者、QA和非技术人员或干系人之间的协作。BDD最初是由Dan North在2003年命名，它包括验收测试和客户测试驱动等的极限编程的实践，作为对测试驱动开发的回应。BDD介于业务领域和开发领域之间，如下图的位置。
@@ -253,10 +253,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>团队是敏捷教练的镜子</title>
-      <link>https://leoyanlili.github.io/team-is-mirror-of-coach/</link>
+      <link>https://www.agilewalker.com/team-is-mirror-of-coach/</link>
       <pubDate>Wed, 27 Jan 2021 14:53:45 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/team-is-mirror-of-coach/</guid>
+      <guid>https://www.agilewalker.com/team-is-mirror-of-coach/</guid>
       <description>敏捷教练是团队的镜子，这是一个常识，我认为反之亦然。
 前言 在敏捷教练的工作过程中，经常告诉自己的一句的工作职责就是：要作为团队的镜子。作为团队的镜子，敏捷教练或Scrum Master参与团队和个人的工作过程，一个重要的任务是通过观察以及沟通寻找发挥自己职能的时机，帮助敏捷团队的看清自己行为本身有哪些可以继续保持或是可以做的更好，让团队能够发现改进机会。我们今天要说的是在这个过程中，教练也可以把团队作为镜子，发现自己的问题，思考如何让自己做得更好的，以符合团队的现状和目标期望。在敏捷中，传统项目管理的职责被 PO，开发团队和SM所共同分担，PO负责目标，团队负责交付，SM负责流程、团队和改进。作为敏捷领导团队的一员，我们经常自我反思：如何帮团队顶住压力，并给团队注入动力？
 在前一篇博客中，总结了个人理解的敏捷含义，本文就从这几个方面谈谈我们今天的话题：
@@ -276,10 +276,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>每个人都知道敏捷是什么</title>
-      <link>https://leoyanlili.github.io/what-is-agile/</link>
+      <link>https://www.agilewalker.com/what-is-agile/</link>
       <pubDate>Sat, 23 Jan 2021 01:28:02 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/what-is-agile/</guid>
+      <guid>https://www.agilewalker.com/what-is-agile/</guid>
       <description>唯一不变的是变化
 很多时候后被问到：敏捷是什么？以下是我的简单理解（不想给大家太大的阅读压力，自己也写不出太多文字）：
 1. 敏捷是流程： 我们有敏捷框架如Scrum来规范流程，更有条理，更有节奏，像心跳一样，且更有愿景感。
@@ -295,10 +295,10 @@ END
     
     <item>
       <title>产品负责人的轻度思考，6个小策略，面对迭代Sprint评审会</title>
-      <link>https://leoyanlili.github.io/sprint-review-advice/</link>
+      <link>https://www.agilewalker.com/sprint-review-advice/</link>
       <pubDate>Sat, 16 Jan 2021 10:36:22 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-review-advice/</guid>
+      <guid>https://www.agilewalker.com/sprint-review-advice/</guid>
       <description>人类并不善于将事情做得十全十美，于是软件中充满Bug也就不足为奇了。
 Sprint评审会议可能是产品负责人最重要的活动，它可以帮助你收集反馈意见，做出正确的产品决策，从而增加创造成功产品的机会。产品负责人可能并不总是清楚谁应该参加会议，应该如何开展这个会议，以及如何收集相关反馈。本文将回答这些问题，并分享一些建议，以帮助你在Sprint评审会上得到更多收获。
 邀请正确的人参与 从正确的人那里收集反馈信息对于做出正确的产品决策至关重要：如果你邀请了不合适的人参与，或者关键人物未到场，那么你不太可能收到你所需要的反馈。因此，你应该确保你邀请合适的人参与。
@@ -329,10 +329,10 @@ Sprint评审会是一个很好的机会，因为你现在应该知道哪些条�
     
     <item>
       <title>未来领导者的敏捷品质</title>
-      <link>https://leoyanlili.github.io/leadership-agile-qulity/</link>
+      <link>https://www.agilewalker.com/leadership-agile-qulity/</link>
       <pubDate>Sun, 27 Dec 2020 13:56:52 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/leadership-agile-qulity/</guid>
+      <guid>https://www.agilewalker.com/leadership-agile-qulity/</guid>
       <description>未来的领导者需要拥有清晰的价值观和愿景，需要真实和敏捷、内在一致并且目的明确。
 &amp;ndash; 佚名
 传统管理到现代领导 纯粹指挥协调型的管理者，会很快退出历史舞台。如果你是一位还有10年以上才能退休的管理者，一定要成为一个落地干实事的领导者，保持激情，在工作中与大家一起奋战。除非，你真的不在意。
@@ -377,10 +377,10 @@ END
     
     <item>
       <title>责任模型 – The Responsibility Process</title>
-      <link>https://leoyanlili.github.io/the-responsibility-process/</link>
+      <link>https://www.agilewalker.com/the-responsibility-process/</link>
       <pubDate>Sun, 20 Dec 2020 02:41:05 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/the-responsibility-process/</guid>
+      <guid>https://www.agilewalker.com/the-responsibility-process/</guid>
       <description>虽然每个人都在谈论责任,但是在各种情况下,我们都不负责任。
 前言 敏捷团队重视责任，敏捷思维和 Scrum文化中最关键的一个部分是责任。 Christopher Avery创建了一个非常好的责任模型，解释了责任如何发挥作用。在长期的进化过程中，人们的大脑得到了训练，能够迅速做出决策。每当出现一个小问题时,大脑将提供如何处理这个问题的选项。
 责任流程选项 第一个可能的解决方案：否认，这是人类的大脑的第一反应，通常是：“我已经编码了，我的代码没有问题。” 第二个可能的解决方案：指责，在Scrum环境中，指责可能会指向任何一个人，通常是：“我的代码是正确的，运行不了是他的错。” 第三个可能的解决方案：辩解，人们在没有得到预期结果时，经常使用借口。通常是：“在软件开发中，我们经常碰到技术难题，对吧？事情就是这样。” 第四个可能的解决方案：羞愧，团队遇到问题可能会表示沮丧，通常是：“对于这个产品，我们没有足够的经验，太难了。”。 第五个可能的解决方案：义务，有人告诉他们应该这样做，因此，他们不用理解就这样做了。通常是：“由于Scrum，我们开站会是必需的。” 第六个可能的解决方案：放弃，人们任何时候都可以决定放弃。通常是：“我不会去解决它，这对我来说并不重要。” 第七个可能的解决方案：责任，发生在决定承担责任时，这是责任模型的最终层次。通常是：“下一次，我们可以采用什么方法，这样以后就不会发生同样的事情了？” 写在最后 只有第七个措施才是真正的负责任。
@@ -392,10 +392,10 @@ END
     
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <link>https://www.agilewalker.com/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <guid>https://www.agilewalker.com/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
 &amp;ndash;大卫.安德森
 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
@@ -423,10 +423,10 @@ END
     
     <item>
       <title>「视频」规模化敏捷Spotify模型的工程文化</title>
-      <link>https://leoyanlili.github.io/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</link>
+      <link>https://www.agilewalker.com/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</link>
       <pubDate>Wed, 24 Jun 2020 02:04:10 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</guid>
+      <guid>https://www.agilewalker.com/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</guid>
       <description>「视频」规模化敏捷Spotify模型的工程文化 在这里开视频
 —
 END
@@ -436,10 +436,10 @@ END
     
     <item>
       <title>「视频」让产品的业务更清晰，在敏捷文化中，影响地图的艺术</title>
-      <link>https://leoyanlili.github.io/v-impact-mapping/</link>
+      <link>https://www.agilewalker.com/v-impact-mapping/</link>
       <pubDate>Tue, 21 Apr 2020 11:59:12 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-impact-mapping/</guid>
+      <guid>https://www.agilewalker.com/v-impact-mapping/</guid>
       <description>让产品的业务更清晰，在敏捷文化中，影响地图的艺术。另一个很棒的视频在这里。
 [https://player.youku.com/embed/XNDY0MjU0MTg0NA==]
 —
@@ -450,10 +450,10 @@ END
     
     <item>
       <title>「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</title>
-      <link>https://leoyanlili.github.io/agile-product-ownership/</link>
+      <link>https://www.agilewalker.com/agile-product-ownership/</link>
       <pubDate>Sat, 18 Apr 2020 08:53:26 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-product-ownership/</guid>
+      <guid>https://www.agilewalker.com/agile-product-ownership/</guid>
       <description>15分钟，用产品负责人的视角看Scrum敏捷软件开发
 [https://player.youku.com/embed/XNDYzNzY5NTc0MA==]
 —
@@ -464,10 +464,10 @@ END
     
     <item>
       <title>「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</title>
-      <link>https://leoyanlili.github.io/scrum-crash-course/</link>
+      <link>https://www.agilewalker.com/scrum-crash-course/</link>
       <pubDate>Thu, 16 Apr 2020 03:36:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-crash-course/</guid>
+      <guid>https://www.agilewalker.com/scrum-crash-course/</guid>
       <description>[本视频长度1.5小时] 敏捷文化中的Scrum是什么？ - 速成班带你深度了解
 [https://player.youku.com/embed/XNDYxMDk2NjgwMA==]
 —
@@ -478,10 +478,10 @@ END
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://leoyanlili.github.io/v-user-story-splitting/</link>
+      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-user-story-splitting/</guid>
+      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地
 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==]
 —
@@ -492,10 +492,10 @@ END
     
     <item>
       <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
-      <link>https://leoyanlili.github.io/v-understand-user-story/</link>
+      <link>https://www.agilewalker.com/v-understand-user-story/</link>
       <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-understand-user-story/</guid>
+      <guid>https://www.agilewalker.com/v-understand-user-story/</guid>
       <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器
 [https://player.youku.com/embed/XNDYwMjQyNTI2MA==]
 —
@@ -506,19 +506,19 @@ END
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://leoyanlili.github.io/product-backlog-prioritization/</link>
+      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/product-backlog-prioritization/</guid>
+      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么我们需要优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h2&amp;gt; 什么是产品待办事项优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;div class=&amp;quot;uvc-sub-heading ult-responsive&amp;quot; data-ultimate-target=&amp;quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &amp;quot; data-responsive-json-new=&amp;quot;{&amp;amp;quot;font-size&amp;amp;quot;:&amp;amp;quot;desktop:14px;&amp;amp;quot;,&amp;amp;quot;line-height&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}&amp;quot;&amp;gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&amp;lt;br /&amp;gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&amp;lt;br /&amp;gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;待办事项优先级排序的优势&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 商业利益&amp;lt;br /&amp;gt; -最快的投资回报&amp;lt;br /&amp;gt; -客户或业务满意度&amp;lt;br /&amp;gt; -更好地管理依赖项&amp;lt;br /&amp;gt; -最小化风险&amp;lt;br /&amp;gt; -关注价值驱动的开发 &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 对Scrum团队的优势&amp;lt;br /&amp;gt; -通过选择的故事进行有效的梳理&amp;lt;br /&amp;gt; -通过选择的故事进行有效的Sprint计划&amp;lt;br /&amp;gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&amp;lt;br /&amp;gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_empty_space&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;优先级排序中对待不同的待办事项条目&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;p&amp;gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-976&amp;quot; src=&amp;quot;https://www.</description>
     </item>
     
     <item>
       <title>「视频」敏捷教练的工作是什么？让我们总览一下</title>
-      <link>https://leoyanlili.github.io/agile-coach-overview/</link>
+      <link>https://www.agilewalker.com/agile-coach-overview/</link>
       <pubDate>Sun, 12 Apr 2020 10:58:07 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-overview/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-overview/</guid>
       <description>敏捷教练的工作是什么？让我们总览一下
 [https://player.youku.com/embed/XNDYyOTE3OTMyNA==]
 —
@@ -529,10 +529,10 @@ END
     
     <item>
       <title>「视频」12分钟，立即就懂，敏捷教练工作的职业发展路径</title>
-      <link>https://leoyanlili.github.io/agile-coach-development-path/</link>
+      <link>https://www.agilewalker.com/agile-coach-development-path/</link>
       <pubDate>Sun, 12 Apr 2020 10:51:50 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-development-path/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-development-path/</guid>
       <description>12分钟，立即就懂，敏捷教练工作的职业发展路径
 [https://player.youku.com/embed/XNDYyOTE3NDA2MA==]
 —
@@ -543,10 +543,10 @@ END
     
     <item>
       <title>「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</title>
-      <link>https://leoyanlili.github.io/burn-down-chart/</link>
+      <link>https://www.agilewalker.com/burn-down-chart/</link>
       <pubDate>Sun, 12 Apr 2020 10:46:36 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/burn-down-chart/</guid>
+      <guid>https://www.agilewalker.com/burn-down-chart/</guid>
       <description>值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决
 [https://player.youku.com/embed/XNDYxMDk2Mjk0OA==]
 —
@@ -557,10 +557,10 @@ END
     
     <item>
       <title>理解Scrum 度量和关键绩效指标</title>
-      <link>https://leoyanlili.github.io/understanding-scrum-metrics/</link>
+      <link>https://www.agilewalker.com/understanding-scrum-metrics/</link>
       <pubDate>Tue, 07 Apr 2020 09:37:16 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understanding-scrum-metrics/</guid>
+      <guid>https://www.agilewalker.com/understanding-scrum-metrics/</guid>
       <description>—
 END
 希望能在评论区学习到大家的经验和想法~
@@ -569,55 +569,55 @@ END
     
     <item>
       <title>「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</title>
-      <link>https://leoyanlili.github.io/scrum-okr-kpi-metrics/</link>
+      <link>https://www.agilewalker.com/scrum-okr-kpi-metrics/</link>
       <pubDate>Mon, 30 Mar 2020 04:06:56 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-okr-kpi-metrics/</guid>
+      <guid>https://www.agilewalker.com/scrum-okr-kpi-metrics/</guid>
       <description>[https://player.youku.com/embed/XNDYxMDk3Mzg4MA==]</description>
     </item>
     
     <item>
       <title>「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</title>
-      <link>https://leoyanlili.github.io/scrum-and-kanban/</link>
+      <link>https://www.agilewalker.com/scrum-and-kanban/</link>
       <pubDate>Mon, 30 Mar 2020 04:00:37 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-and-kanban/</guid>
+      <guid>https://www.agilewalker.com/scrum-and-kanban/</guid>
       <description>[https://player.youku.com/embed/XNDYwMjg2OTgzMg==]</description>
     </item>
     
     <item>
       <title>「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</title>
-      <link>https://leoyanlili.github.io/how-to-develop-scrum-team/</link>
+      <link>https://www.agilewalker.com/how-to-develop-scrum-team/</link>
       <pubDate>Fri, 27 Mar 2020 10:46:38 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-to-develop-scrum-team/</guid>
+      <guid>https://www.agilewalker.com/how-to-develop-scrum-team/</guid>
       <description>[https://player.youku.com/embed/XNDYwMTM1Nzg4MA==]</description>
     </item>
     
     <item>
       <title>「视频」敏捷不仅仅是一个方法论！</title>
-      <link>https://leoyanlili.github.io/agile-is-not-a-methodology/</link>
+      <link>https://www.agilewalker.com/agile-is-not-a-methodology/</link>
       <pubDate>Sat, 21 Mar 2020 10:42:27 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-is-not-a-methodology/</guid>
+      <guid>https://www.agilewalker.com/agile-is-not-a-methodology/</guid>
       <description>[https://player.youku.com/embed/XNDU5Nzg4OTI0MA==]</description>
     </item>
     
     <item>
       <title>新冠疫情期间，简单介绍几款用于敏捷开发的协作工具</title>
-      <link>https://leoyanlili.github.io/agile-collaberation-tools/</link>
+      <link>https://www.agilewalker.com/agile-collaberation-tools/</link>
       <pubDate>Thu, 19 Mar 2020 05:30:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-collaberation-tools/</guid>
+      <guid>https://www.agilewalker.com/agile-collaberation-tools/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>简说敏捷转型可视化和可视化敏捷方法</title>
-      <link>https://leoyanlili.github.io/agile-visualization/</link>
+      <link>https://www.agilewalker.com/agile-visualization/</link>
       <pubDate>Thu, 19 Mar 2020 04:41:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-visualization/</guid>
+      <guid>https://www.agilewalker.com/agile-visualization/</guid>
       <description>在服务企业研发团队的过程中，我们发现不少团队碰到了类似的问题：
 你经常在思考究竟哪些工作是最重要的？如何避免被无穷无尽的项目与工作淹没？
 团队成员声称完成了自己的大部分任务，但团队实际交付的需求却寥寥无几？
@@ -631,19 +631,19 @@ END
     
     <item>
       <title>从敏捷价值观看中国速度应对2020新冠肺炎疫情COVID-19</title>
-      <link>https://leoyanlili.github.io/agile-apply-to-2020-ncov-dealing/</link>
+      <link>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</link>
       <pubDate>Sat, 29 Feb 2020 08:48:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-apply-to-2020-ncov-dealing/</guid>
+      <guid>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</guid>
       <description>「2020-新冠病毒疫情最新情报速递」</description>
     </item>
     
     <item>
       <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
-      <link>https://leoyanlili.github.io/scrum-is-not-agilesoftware-framework/</link>
+      <link>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</link>
       <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-is-not-agilesoftware-framework/</guid>
+      <guid>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</guid>
       <description>2019-新冠病毒疫情最新情报速递
 Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。
 许多Scrum专家说：Scrum是一个产品开发框架。
@@ -654,37 +654,37 @@ END
     
     <item>
       <title>聘请Agile Coach前，建议可以先问5个问题</title>
-      <link>https://leoyanlili.github.io/5-questions-before-hiring-agile-coach/</link>
+      <link>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</link>
       <pubDate>Fri, 21 Feb 2020 13:13:23 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/5-questions-before-hiring-agile-coach/</guid>
+      <guid>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>XP里故事要INVEST和任务要SMART</title>
-      <link>https://leoyanlili.github.io/story-invest-smart/</link>
+      <link>https://www.agilewalker.com/story-invest-smart/</link>
       <pubDate>Sun, 16 Feb 2020 16:20:24 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/story-invest-smart/</guid>
+      <guid>https://www.agilewalker.com/story-invest-smart/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>敏捷教练日常工作中的检查列表</title>
-      <link>https://leoyanlili.github.io/agilecoachchecklist/</link>
+      <link>https://www.agilewalker.com/agilecoachchecklist/</link>
       <pubDate>Wed, 12 Feb 2020 15:38:32 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agilecoachchecklist/</guid>
+      <guid>https://www.agilewalker.com/agilecoachchecklist/</guid>
       <description>印象中当教练的都是上面这样👆 敏捷教练有这些日常工作需要检查：</description>
     </item>
     
     <item>
       <title>敏捷方法在家庭教育中让孩子自觉学习</title>
-      <link>https://leoyanlili.github.io/agilehomework/</link>
+      <link>https://www.agilewalker.com/agilehomework/</link>
       <pubDate>Sun, 09 Feb 2020 02:27:59 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agilehomework/</guid>
+      <guid>https://www.agilewalker.com/agilehomework/</guid>
       <description>作业完成前的看板
 作业完成后的看板</description>
     </item>

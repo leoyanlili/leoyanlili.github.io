@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷评估 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/</link>
+    <link>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/</link>
     <description>Recent content in 敏捷评估 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Thu, 03 Feb 2022 06:13:32 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 06:13:32 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷软件开发工作估算方法 – 故事点和工时</title>
-      <link>https://leoyanlili.github.io/storypoint-man-hour/</link>
+      <link>https://www.agilewalker.com/storypoint-man-hour/</link>
       <pubDate>Thu, 03 Feb 2022 06:13:32 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/storypoint-man-hour/</guid>
+      <guid>https://www.agilewalker.com/storypoint-man-hour/</guid>
       <description>你如果无法度量它，就无法管理它
 &amp;ndash; 彼得.德鲁克
 软件开发组织工作估算的思考 我们人类天生不善于估算，要不就是过于乐观，要不就是过于悲观，就是很少有现实主义。尤其是我们软件开发行业，有太多的未知数：技术一直在变；新需求不断涌现；任务之间或人与人之间错综复杂的依赖关系；还有外界环境存在的各种因素。工作量主要与三方面因素有关，任务的规模，任务的复杂度以及完成该任务的人员能力水平。
@@ -34,10 +34,10 @@ END
     
     <item>
       <title>「视频」10分钟的敏捷估算教学，全面实用，理解深刻了</title>
-      <link>https://leoyanlili.github.io/10-minute-agile-estimation/</link>
+      <link>https://www.agilewalker.com/10-minute-agile-estimation/</link>
       <pubDate>Wed, 29 Apr 2020 04:47:52 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/10-minute-agile-estimation/</guid>
+      <guid>https://www.agilewalker.com/10-minute-agile-estimation/</guid>
       <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。
 访问以下链接
 「视频」10分钟的敏捷估算教学，全面实用，理解深刻了
@@ -49,10 +49,10 @@ END
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://leoyanlili.github.io/sprint-burndown-chart/</link>
+      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-burndown-chart/</guid>
+      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）：
 &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任务，这些任务的估计时间是小时，并且每个任务都分配给了胜任的团队成员。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果总计工作时间，则大约为110小时。假设团队的能力为130小时。&amp;lt;br /&amp;gt; 让我们看一下sprint的另一个重要方面，有一个sprint起始日期为12月10日，它的结束日期为12月21日，这意味着是两个星期的sprint，并且sprint的持续时间为10天。&amp;lt;br /&amp;gt; 因此，从所有这些信息中，开始绘制燃尽图 &amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total Days of the sprint = 10 days&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;Total committed &amp;amp; estimated task hours for the team = 110 Hours&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; 如果将总小时数除以总天数平均值（110/10）= 11小时。&amp;lt;br /&amp;gt; 也就是说，如果团队每天完成11个小时的工作，那么在冲刺的最后一天结束时，团队将能够完成他们已经完成的所有工作。&amp;lt;br /&amp;gt; 请参考下面的图片，然后按照说明进行操作以更好地理解它。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1003&amp;quot; src=&amp;quot;https://www.</description>
@@ -60,10 +60,10 @@ END
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://leoyanlili.github.io/product-backlog-prioritization/</link>
+      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/product-backlog-prioritization/</guid>
+      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么我们需要优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在日常生活中我们都会进行优先级排序，因为我们用有限时间去执行每组工作任务，这就是为什么我们选择最重要的先执行然后再执行次重要的原因。同样，我们在软件开发中对功能或任务进行优先级排序，因为有总有些功能比其他功能更重要。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h2&amp;gt; 什么是产品待办事项优先级排序？ &amp;lt;/h2&amp;gt; &amp;lt;div class=&amp;quot;uvc-sub-heading ult-responsive&amp;quot; data-ultimate-target=&amp;quot;.uvc-heading.ultimate-heading-17775e9145c15b93f .uvc-sub-heading &amp;quot; data-responsive-json-new=&amp;quot;{&amp;amp;quot;font-size&amp;amp;quot;:&amp;amp;quot;desktop:14px;&amp;amp;quot;,&amp;amp;quot;line-height&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}&amp;quot;&amp;gt; 产品待办事项优先级排序是敏捷软件开发中最重要的工作之一。 如果利益相关者，客户或企业尽早获得最有价值的功能，那么任何项目都是成功的。 可以通过有效地对需求进行优先级处理（用户故事）来实现。&amp;lt;br /&amp;gt; 待办事项优先级排序被用来组织产品待办事项条目（用户故事/缺陷/探针等），以制定其开发和部署的顺序。&amp;lt;br /&amp;gt; Scrum团队遵循此顺序以在梳理或冲刺计划期间选择产品待办事项条目。 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;待办事项优先级排序的优势&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 商业利益&amp;lt;br /&amp;gt; -最快的投资回报&amp;lt;br /&amp;gt; -客户或业务满意度&amp;lt;br /&amp;gt; -更好地管理依赖项&amp;lt;br /&amp;gt; -最小化风险&amp;lt;br /&amp;gt; -关注价值驱动的开发 &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;dt-fancy-title&amp;quot;&amp;gt; 对Scrum团队的优势&amp;lt;br /&amp;gt; -通过选择的故事进行有效的梳理&amp;lt;br /&amp;gt; -通过选择的故事进行有效的Sprint计划&amp;lt;br /&amp;gt; -如果有富余产能，更容易看出增加哪些故事到当前冲刺更合适&amp;lt;br /&amp;gt; -如果由于团队成员缺席，紧急生产修复等导致产能下降，更容易看出从当前冲刺需要减少哪些故事 &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_empty_space&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h5&amp;gt; &amp;lt;strong&amp;gt;优先级排序中对待不同的待办事项条目&amp;lt;/strong&amp;gt; &amp;lt;/h5&amp;gt; &amp;lt;p&amp;gt; 在优先级排序期间，产品事项中的所有条目都得到同等对待，包括缺陷或错误，新功能，增强功能，探针。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-976&amp;quot; src=&amp;quot;https://www.</description>
     </item>
     

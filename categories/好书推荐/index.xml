@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>好书推荐 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</link>
+    <link>https://www.agilewalker.com/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</link>
     <description>Recent content in 好书推荐 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 14:57:14 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 14:57:14 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>038.打造用户喜爱的产品，离不开需求助推器|影响地图Impact Mapping</title>
-      <link>https://leoyanlili.github.io/038-impact-mapping/</link>
+      <link>https://www.agilewalker.com/038-impact-mapping/</link>
       <pubDate>Sun, 20 Nov 2022 14:57:14 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/038-impact-mapping/</guid>
+      <guid>https://www.agilewalker.com/038-impact-mapping/</guid>
       <description>把重点放在客户在工作中期望的变化，而非仅仅是客户要完成什么工作。
 -Robert Brinkerhoff
 开篇 今天要为你解读的这本书是《影响地图》，副标题叫做“让软件产生真正的影响力”。简单地说，这是一本帮助大家通过有效方法提升产品规划能力，实现客户业务价值交付的书。《大规模Scrum》的作者之一Craig Larman建议了本方法的最终命名“影响地图”，敏捷宣言的共同发起人Tom Poppendieck在本书前言中说“影响地图可视化地呈现了我们所面对的问题的四个方面：为什么（WHY），谁（WHO），怎么（HOW）和什么（WHAT）。就像公路地图显示城镇以及连接它们的道路一样，影响地图展示了我们要构建的东西，以及它们与人们使用方案解决的问题之间的连接。”。

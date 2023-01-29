@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>agile project managememt on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/agile-project-managememt/</link>
+    <link>https://www.agilewalker.com/tags/agile-project-managememt/</link>
     <description>Recent content in agile project managememt on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 03:45:18 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/agile-project-managememt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2020 03:45:18 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/agile-project-managememt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <link>https://www.agilewalker.com/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <guid>https://www.agilewalker.com/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
 &amp;ndash;大卫.安德森
 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
@@ -41,10 +41,10 @@
     
     <item>
       <title>「视频」敏捷开发Scrum事件：产品待办事项梳理</title>
-      <link>https://leoyanlili.github.io/v-product-backlog-refinement/</link>
+      <link>https://www.agilewalker.com/v-product-backlog-refinement/</link>
       <pubDate>Wed, 13 May 2020 15:47:37 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-product-backlog-refinement/</guid>
+      <guid>https://www.agilewalker.com/v-product-backlog-refinement/</guid>
       <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。
 访问以下链接
 「视频」敏捷开发Scrum事件：产品待办事项梳理
@@ -56,29 +56,29 @@ END
     
     <item>
       <title>敏捷开发Scrum七大事件之3：产品待办事项梳理</title>
-      <link>https://leoyanlili.github.io/product-backlog-refinement/</link>
+      <link>https://www.agilewalker.com/product-backlog-refinement/</link>
       <pubDate>Wed, 13 May 2020 14:57:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/product-backlog-refinement/</guid>
+      <guid>https://www.agilewalker.com/product-backlog-refinement/</guid>
       <description>前言，在本文中，我们将从以下几点了解关于产能规划的话题：
 &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产品待办事项梳理有很多优点，下面列出了其中的几个。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;standard-arrow list-divider bullet-top&amp;quot;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpFirst&amp;quot;&amp;gt; 通过消除用户故事的不确定性和未知事实来提高效率。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 提前识别依赖性（在团队和跨职能部门内）和风险，以制定相应的计划。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好的估算并避免返工（开发，测试和实施）。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 使开发人员和测试人员了解其要求，从而节省了开发团队在sprint周期中进行进一步讨论的时间。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 确保故事遵循INVEST原则，提供更易于理解的成熟的用户故事 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 有效的Sprint计划：如果在进行Sprint计划前，故事已经进行了梳理和优先处理，PO和开发团队不需要花费大量时间梳理或估算故事。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 强调最高优先级以挑选故事进行梳理，计划等。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 给产品负责人提供多次机会，根据实际需要提供更多信息来细化需求。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 在梳理过程中，如果开发团队遇到一些疑问或问题，并且需要更多时间与PO进行协作，则团队可以将梳理会议中的故事搁置下来，以便PO可以获得更多的信息来补充给故事，并将故事包含在后续梳理会议中。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好地管理产品目标，Sprint目标和里程碑会议。 &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-full wp-image-1179&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/05/productgroom2_.gif&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;1024&amp;quot; height=&amp;quot;577&amp;quot; /&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_row-fluid dt-default&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid vc_custom_1493919898038 vc_row-has-fill&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-12&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h2&amp;gt; &amp;lt;i class=&amp;quot;fa fa-hand-o-right&amp;quot;&amp;gt;谁对待办事项梳理负责?</description>
     </item>
     
     <item>
       <title>今天是五一劳动节，我不能忘了劳动，牢记我们的敏捷原则。最后一张图推荐做手机墙纸</title>
-      <link>https://leoyanlili.github.io/2020-5-1-labor-day/</link>
+      <link>https://www.agilewalker.com/2020-5-1-labor-day/</link>
       <pubDate>Fri, 01 May 2020 13:09:49 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/2020-5-1-labor-day/</guid>
+      <guid>https://www.agilewalker.com/2020-5-1-labor-day/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>「视频」10分钟的敏捷估算教学，全面实用，理解深刻了</title>
-      <link>https://leoyanlili.github.io/10-minute-agile-estimation/</link>
+      <link>https://www.agilewalker.com/10-minute-agile-estimation/</link>
       <pubDate>Wed, 29 Apr 2020 04:47:52 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/10-minute-agile-estimation/</guid>
+      <guid>https://www.agilewalker.com/10-minute-agile-estimation/</guid>
       <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。
 访问以下链接
 「视频」10分钟的敏捷估算教学，全面实用，理解深刻了
@@ -90,10 +90,10 @@ END
     
     <item>
       <title>运用GROW模型，提问的艺术，敏捷教练基本功</title>
-      <link>https://leoyanlili.github.io/how-to-use-grow-model/</link>
+      <link>https://www.agilewalker.com/how-to-use-grow-model/</link>
       <pubDate>Tue, 28 Apr 2020 14:13:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-to-use-grow-model/</guid>
+      <guid>https://www.agilewalker.com/how-to-use-grow-model/</guid>
       <description>GROW模型是教练过程中提问的方式，代表有目的决策的四个组成部分。 用首字母缩写，GROW代表：
 公众号原文：运用GROW模型，提问的艺术，敏捷教练基本功
 —
@@ -104,10 +104,10 @@ END
     
     <item>
       <title>「视频」让产品的业务更清晰，在敏捷文化中，影响地图的艺术</title>
-      <link>https://leoyanlili.github.io/v-impact-mapping/</link>
+      <link>https://www.agilewalker.com/v-impact-mapping/</link>
       <pubDate>Tue, 21 Apr 2020 11:59:12 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-impact-mapping/</guid>
+      <guid>https://www.agilewalker.com/v-impact-mapping/</guid>
       <description>让产品的业务更清晰，在敏捷文化中，影响地图的艺术。另一个很棒的视频在这里。
 [https://player.youku.com/embed/XNDY0MjU0MTg0NA==]
 —
@@ -118,10 +118,10 @@ END
     
     <item>
       <title>「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</title>
-      <link>https://leoyanlili.github.io/agile-product-ownership/</link>
+      <link>https://www.agilewalker.com/agile-product-ownership/</link>
       <pubDate>Sat, 18 Apr 2020 08:53:26 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-product-ownership/</guid>
+      <guid>https://www.agilewalker.com/agile-product-ownership/</guid>
       <description>15分钟，用产品负责人的视角看Scrum敏捷软件开发
 [https://player.youku.com/embed/XNDYzNzY5NTc0MA==]
 —
@@ -132,10 +132,10 @@ END
     
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://leoyanlili.github.io/sprint-capactiy-planning/</link>
+      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-capactiy-planning/</guid>
+      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
       <description>《系统之美》
 前言，在本文中，我们将从以下几点了解关于产能规划的话题：
 &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）。 并针对下一个Sprint提交与速度匹配的用户故事。我个人建议另一种方法，用小时数进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 2. &amp;lt;strong&amp;gt;小时&amp;lt;/strong&amp;gt;，我个人建议按小时进行产能规划。 在本文中，只以这种方式进行产能规划。 它提供了更好的可见性和准确性。 还有许多其他好处，将在本文后面讨论。&amp;lt;br /&amp;gt; 这里我们通过计算下个Sprint的可用时间。计算敏捷团队的可投入的生产力（PO和SM除外）。&amp;lt;br /&amp;gt; 将详细讨论谁来计算它，在本文中考虑哪些因素。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 这种技术非常容易计算和规划团队产能。 下面逐步说明，可以通过维护Excel来进行产能规划。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_column vc_column_container vc_col-sm-6&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;vc_column-inner&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;h4&amp;gt; &amp;lt;span class=&amp;quot;dt-highlight&amp;quot;&amp;gt;Step 1 – 计算Sprint持续时间&amp;lt;/span&amp;gt; &amp;lt;/h4&amp;gt; &amp;lt;p&amp;gt; 以天为单位计算Sprint持续时间，确定Sprint的开始日期和结束日期。 为了说明这一点，进行了为期2周的Sprint，从星期三开始，到星期二结束。 正在为Sprint 2进行产能规划。&amp;lt;br /&amp;gt; 下图代表10天的2周Sprint –日历。 分散在三个物理日历周中。 在本文的其余部分中，将用这个颜色说明来解释，其中&amp;lt;br /&amp;gt; 黄色=上一个Sprint&amp;lt;br /&amp;gt; 绿色=当前的Sprint&amp;lt;br /&amp;gt; 蓝色=未来Sprint &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;img class=&amp;quot;alignnone size-large wp-image-1049&amp;quot; src=&amp;quot;https://www.</description>
@@ -143,10 +143,10 @@ END
     
     <item>
       <title>关于我们</title>
-      <link>https://leoyanlili.github.io/whoami/</link>
+      <link>https://www.agilewalker.com/whoami/</link>
       <pubDate>Thu, 09 Jan 2020 04:37:11 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/whoami/</guid>
+      <guid>https://www.agilewalker.com/whoami/</guid>
       <description>我是老彦，居住在中国上海，一位终身学习的研发效能改进实践者。程序员出身，目前是IT咨询公司的敏捷教练，工作涉及敏捷软件开发实践和DevOps落地，项目管理，组织敏捷转型和研发效能改进，是中国敏捷社区的参与者。 希望能和大家一起促进敏捷文化在软件开发领域的传播，并能在更多的领域获得有趣创新。 这里有干货，也有鸡汤，更有蟹羹。大家关心的就是我要努力关注的，让我们一起向上生长！ “不断学习和实践会让人的成长来的更踏实。” Scrum Alliance认证 | CSP-SM PMI认证 | PMI-ACP PMI认证 | PMI-PMP —
 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>

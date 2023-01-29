@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>agile software development on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/agile-software-development/</link>
+    <link>https://www.agilewalker.com/tags/agile-software-development/</link>
     <description>Recent content in agile software development on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Mon, 27 Dec 2021 14:36:34 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/agile-software-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 14:36:34 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/agile-software-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>谈我们的研发运维一体化交付模式</title>
-      <link>https://leoyanlili.github.io/about-devops-delivery/</link>
+      <link>https://www.agilewalker.com/about-devops-delivery/</link>
       <pubDate>Mon, 27 Dec 2021 14:36:34 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/about-devops-delivery/</guid>
+      <guid>https://www.agilewalker.com/about-devops-delivery/</guid>
       <description>物有本末，事有始终，知所先后，则近道矣。
 &amp;ndash; 《大学》
 [TOC]
@@ -26,10 +26,10 @@
     
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <link>https://www.agilewalker.com/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <guid>https://www.agilewalker.com/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
 &amp;ndash;大卫.安德森
 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
@@ -57,10 +57,10 @@
     
     <item>
       <title>Scrum入门系列PPT之-Scrum介绍</title>
-      <link>https://leoyanlili.github.io/scrum-beginner-ppt-intro/</link>
+      <link>https://www.agilewalker.com/scrum-beginner-ppt-intro/</link>
       <pubDate>Wed, 03 Jun 2020 07:07:25 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-beginner-ppt-intro/</guid>
+      <guid>https://www.agilewalker.com/scrum-beginner-ppt-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这不是结束，甚至不是结束的开始，但这毕竟是开始的结束。&lt;/p&gt;
 &lt;p&gt;-&amp;ndash; 温斯顿.丘吉尔&lt;/p&gt;
@@ -69,37 +69,37 @@
     
     <item>
       <title>「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</title>
-      <link>https://leoyanlili.github.io/7-minutes-scrum/</link>
+      <link>https://www.agilewalker.com/7-minutes-scrum/</link>
       <pubDate>Fri, 03 Apr 2020 09:23:12 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/7-minutes-scrum/</guid>
+      <guid>https://www.agilewalker.com/7-minutes-scrum/</guid>
       <description>[https://player.youku.com/embed/XNDYxNzcyMjYwMA==]</description>
     </item>
     
     <item>
       <title>「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</title>
-      <link>https://leoyanlili.github.io/scrum-okr-kpi-metrics/</link>
+      <link>https://www.agilewalker.com/scrum-okr-kpi-metrics/</link>
       <pubDate>Mon, 30 Mar 2020 04:06:56 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-okr-kpi-metrics/</guid>
+      <guid>https://www.agilewalker.com/scrum-okr-kpi-metrics/</guid>
       <description>[https://player.youku.com/embed/XNDYxMDk3Mzg4MA==]</description>
     </item>
     
     <item>
       <title>「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</title>
-      <link>https://leoyanlili.github.io/scrum-and-kanban/</link>
+      <link>https://www.agilewalker.com/scrum-and-kanban/</link>
       <pubDate>Mon, 30 Mar 2020 04:00:37 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-and-kanban/</guid>
+      <guid>https://www.agilewalker.com/scrum-and-kanban/</guid>
       <description>[https://player.youku.com/embed/XNDYwMjg2OTgzMg==]</description>
     </item>
     
     <item>
       <title>选择合适自己的敏捷认证培训</title>
-      <link>https://leoyanlili.github.io/your-favorite-agile-certification/</link>
+      <link>https://www.agilewalker.com/your-favorite-agile-certification/</link>
       <pubDate>Sun, 29 Mar 2020 15:04:52 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/your-favorite-agile-certification/</guid>
+      <guid>https://www.agilewalker.com/your-favorite-agile-certification/</guid>
       <description>考试和证书：考试有专门考点，监考严格，纸质考试。考试包含120个选择题，其中100道为打分题，20道不计分（根据当次考试情况选取），考试后6-7周在线出成绩。证书更新周期是每三年，可以通过获得PDU或支付费用来刷新。
 考试和证书：考试包含50个选择题，答对37个合格，培训结束当天就可以考试，马上在线出成绩。证书更新周期是每三年，可以通过获得SDU或支付费用来刷新，认证还给PDU的哦。
 考试和证书：包含80个选择问题，答对68题通过。证书永久有效。
@@ -112,37 +112,37 @@ END
     
     <item>
       <title>「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</title>
-      <link>https://leoyanlili.github.io/how-to-develop-scrum-team/</link>
+      <link>https://www.agilewalker.com/how-to-develop-scrum-team/</link>
       <pubDate>Fri, 27 Mar 2020 10:46:38 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-to-develop-scrum-team/</guid>
+      <guid>https://www.agilewalker.com/how-to-develop-scrum-team/</guid>
       <description>[https://player.youku.com/embed/XNDYwMTM1Nzg4MA==]</description>
     </item>
     
     <item>
       <title>「视频」敏捷不仅仅是一个方法论！</title>
-      <link>https://leoyanlili.github.io/agile-is-not-a-methodology/</link>
+      <link>https://www.agilewalker.com/agile-is-not-a-methodology/</link>
       <pubDate>Sat, 21 Mar 2020 10:42:27 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-is-not-a-methodology/</guid>
+      <guid>https://www.agilewalker.com/agile-is-not-a-methodology/</guid>
       <description>[https://player.youku.com/embed/XNDU5Nzg4OTI0MA==]</description>
     </item>
     
     <item>
       <title>新冠疫情期间，简单介绍几款用于敏捷开发的协作工具</title>
-      <link>https://leoyanlili.github.io/agile-collaberation-tools/</link>
+      <link>https://www.agilewalker.com/agile-collaberation-tools/</link>
       <pubDate>Thu, 19 Mar 2020 05:30:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-collaberation-tools/</guid>
+      <guid>https://www.agilewalker.com/agile-collaberation-tools/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>简说敏捷转型可视化和可视化敏捷方法</title>
-      <link>https://leoyanlili.github.io/agile-visualization/</link>
+      <link>https://www.agilewalker.com/agile-visualization/</link>
       <pubDate>Thu, 19 Mar 2020 04:41:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-visualization/</guid>
+      <guid>https://www.agilewalker.com/agile-visualization/</guid>
       <description>在服务企业研发团队的过程中，我们发现不少团队碰到了类似的问题：
 你经常在思考究竟哪些工作是最重要的？如何避免被无穷无尽的项目与工作淹没？
 团队成员声称完成了自己的大部分任务，但团队实际交付的需求却寥寥无几？
@@ -156,10 +156,10 @@ END
     
     <item>
       <title>敏捷教练的软硬技能树</title>
-      <link>https://leoyanlili.github.io/agile-coach-skills-tree/</link>
+      <link>https://www.agilewalker.com/agile-coach-skills-tree/</link>
       <pubDate>Sun, 15 Mar 2020 10:32:36 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-skills-tree/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-skills-tree/</guid>
       <description>最近想整理一个敏捷教练技能树，如今抗疫在家，就完成我的这个PBI吧，不论内容是否全面，经常总结，多学习总是人间正道。
 —
 END
@@ -169,10 +169,10 @@ END
     
     <item>
       <title>敏捷教练的26项修炼「转载」</title>
-      <link>https://leoyanlili.github.io/agile-coach-a-z/</link>
+      <link>https://www.agilewalker.com/agile-coach-a-z/</link>
       <pubDate>Wed, 04 Mar 2020 07:57:42 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-a-z/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-a-z/</guid>
       <description>敏捷方法学带来了新的角色——“敏捷教练”，它不常见于传统方法学中，甚或不曾为之提及。已驾轻就熟的实践者，可能会视之为浑然天成，羚羊挂角、无迹可寻；而初窥门径的新手则会心生疑云：“敏捷教练为何如此重要？‘部门经理’、‘团队领导’、‘技术领导’，他们的问题何在？Monster.com为此提供54个职位，又是何故？”奇文共欣赏，疑义相与析，当是吾等本色。且与笔者同游于本文中，或可领会敏捷教练之所思、所行，更要知其意义所在。
 A 即 Advice（建议）：“我曾见别人做过。我觉得你们这样做效果更好。”
 注：建议和引导，而不是命令和强迫，教练的作用就是引导，而不是简单的指手画脚。
@@ -215,10 +215,10 @@ M 即 Mentor（导师） : 让自己成为多余的人</description>
     
     <item>
       <title>告诉你的CxO敏捷教练是什么</title>
-      <link>https://leoyanlili.github.io/what-is-agile-coach/</link>
+      <link>https://www.agilewalker.com/what-is-agile-coach/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:47 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/what-is-agile-coach/</guid>
+      <guid>https://www.agilewalker.com/what-is-agile-coach/</guid>
       <description>—
 END
 希望能在评论区学习到大家的经验和想法~
@@ -227,10 +227,10 @@ END
     
     <item>
       <title>与大家分享一些“敏捷教练”的定义</title>
-      <link>https://leoyanlili.github.io/agile-coach-defines/</link>
+      <link>https://www.agilewalker.com/agile-coach-defines/</link>
       <pubDate>Wed, 04 Mar 2020 02:44:04 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-defines/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-defines/</guid>
       <description>引用来自网络的关于与敏捷教练定义，大家应该会有个基本一致的感受：
 参考：
 让你用3分钟简单说敏捷教练能力模型
@@ -243,19 +243,19 @@ END
     
     <item>
       <title>从敏捷价值观看中国速度应对2020新冠肺炎疫情COVID-19</title>
-      <link>https://leoyanlili.github.io/agile-apply-to-2020-ncov-dealing/</link>
+      <link>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</link>
       <pubDate>Sat, 29 Feb 2020 08:48:58 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-apply-to-2020-ncov-dealing/</guid>
+      <guid>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</guid>
       <description>「2020-新冠病毒疫情最新情报速递」</description>
     </item>
     
     <item>
       <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
-      <link>https://leoyanlili.github.io/scrum-is-not-agilesoftware-framework/</link>
+      <link>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</link>
       <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-is-not-agilesoftware-framework/</guid>
+      <guid>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</guid>
       <description>2019-新冠病毒疫情最新情报速递
 Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。
 许多Scrum专家说：Scrum是一个产品开发框架。
@@ -266,10 +266,10 @@ END
     
     <item>
       <title>让你用3分钟简单说敏捷教练能力模型</title>
-      <link>https://leoyanlili.github.io/agile-coach-competency-framework/</link>
+      <link>https://www.agilewalker.com/agile-coach-competency-framework/</link>
       <pubDate>Sat, 22 Feb 2020 10:30:04 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-coach-competency-framework/</guid>
+      <guid>https://www.agilewalker.com/agile-coach-competency-framework/</guid>
       <description>1) 保持中立的态度：敏捷教练在引导团队会议，提供专业指导以及培训的时候，需要保持不偏不倚的心境，不受来自高层或自己个人喜好的牵制和影响。
 2) 服务客户的立场：敏捷教练的客户包括个人、团队、组织。客户更理解自己所处的环境，所以教练除了给出必要的指导和协助更要尊重客户自己的选择和决定。
 3) 鼓励客户自实践：企业投资敏捷教练的目的是为了最终将敏捷思想，技能、实践转移给企业组织内部，成为一个自我管理，自我成长，高效能和可持续性的敏捷型组织。
@@ -282,19 +282,19 @@ END
     
     <item>
       <title>聘请Agile Coach前，建议可以先问5个问题</title>
-      <link>https://leoyanlili.github.io/5-questions-before-hiring-agile-coach/</link>
+      <link>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</link>
       <pubDate>Fri, 21 Feb 2020 13:13:23 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/5-questions-before-hiring-agile-coach/</guid>
+      <guid>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>关于我们</title>
-      <link>https://leoyanlili.github.io/whoami/</link>
+      <link>https://www.agilewalker.com/whoami/</link>
       <pubDate>Thu, 09 Jan 2020 04:37:11 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/whoami/</guid>
+      <guid>https://www.agilewalker.com/whoami/</guid>
       <description>我是老彦，居住在中国上海，一位终身学习的研发效能改进实践者。程序员出身，目前是IT咨询公司的敏捷教练，工作涉及敏捷软件开发实践和DevOps落地，项目管理，组织敏捷转型和研发效能改进，是中国敏捷社区的参与者。 希望能和大家一起促进敏捷文化在软件开发领域的传播，并能在更多的领域获得有趣创新。 这里有干货，也有鸡汤，更有蟹羹。大家关心的就是我要努力关注的，让我们一起向上生长！ “不断学习和实践会让人的成长来的更踏实。” Scrum Alliance认证 | CSP-SM PMI认证 | PMI-ACP PMI认证 | PMI-PMP —
 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>

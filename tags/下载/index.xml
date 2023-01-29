@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>下载 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E4%B8%8B%E8%BD%BD/</link>
+    <link>https://www.agilewalker.com/tags/%E4%B8%8B%E8%BD%BD/</link>
     <description>Recent content in 下载 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Wed, 08 Apr 2020 04:09:53 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2020 04:09:53 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Youtube油管视频下载工具，MacOS客户端和网页端下载都有</title>
-      <link>https://leoyanlili.github.io/youtube-video-download-tools/</link>
+      <link>https://www.agilewalker.com/youtube-video-download-tools/</link>
       <pubDate>Wed, 08 Apr 2020 04:09:53 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/youtube-video-download-tools/</guid>
+      <guid>https://www.agilewalker.com/youtube-video-download-tools/</guid>
       <description>节省大家的宝贵时间，这里废话不多说，干货直接分享：
 一、能够下载Youtube视频的大前提是浏览器必须能够访问 www.youtube.com
 网上有很多专业的方法或是收费的服务，这里就不介绍了。
@@ -28,10 +28,10 @@ END
     
     <item>
       <title>MacOS中运行you_get或youtube_dl下载视频出现[SSL: CERTIFICATE_VERIFY_FAILED]</title>
-      <link>https://leoyanlili.github.io/youtube_dl/</link>
+      <link>https://www.agilewalker.com/youtube_dl/</link>
       <pubDate>Wed, 15 Jan 2020 07:29:34 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/youtube_dl/</guid>
+      <guid>https://www.agilewalker.com/youtube_dl/</guid>
       <description>如果我们在使用you_get或youtube_dl下载视频
 $ youtube-dl &amp;lsquo;https://youtu.be/10wVFaRInfs&#39;
 有时候会出现如下错误❌：

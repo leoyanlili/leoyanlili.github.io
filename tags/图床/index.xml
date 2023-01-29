@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>图床 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E5%9B%BE%E5%BA%8A/</link>
+    <link>https://www.agilewalker.com/tags/%E5%9B%BE%E5%BA%8A/</link>
     <description>Recent content in 图床 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 10:23:26 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E5%9B%BE%E5%BA%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2020 10:23:26 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E5%9B%BE%E5%BA%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>博客生产线：WordPress(平台)&#43;Typora(编辑器)&#43;GitHub(图床)</title>
-      <link>https://leoyanlili.github.io/wordpress-typora-github/</link>
+      <link>https://www.agilewalker.com/wordpress-typora-github/</link>
       <pubDate>Tue, 07 Jul 2020 10:23:26 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/wordpress-typora-github/</guid>
+      <guid>https://www.agilewalker.com/wordpress-typora-github/</guid>
       <description>前言 写个人博客的方法和平台有很多，这里介绍的是用个人搭建的WordPress(平台) + Typora(编辑器) + GitHub(图床)的方法，用Markdown语法写文章。
 自从用了Markdown写博客，感觉还是挺方便的，现在很多平台都支持MD。这样保证了在各个平台上的兼容性，如果未来希望转移到其他基于GitHub的静态博客，如Hugo，也是个不错的准备。况且很多MD的编辑器非常棒，像Typora这么优秀的工具，不仅仅是个MD编辑器，Typora和图床工具及图床服务可组成一个博客生产的工具流水线，让写作者关注在一个编辑器里就可以。
 步骤 1. 在WordPress中使用markdown，准备写作平台 如果要在Wordpress中用Markdown语法写作，需要安装一个Markdown插件WP Githuber MD，可以很好的支持Markdown语法和所见即所得的功能。然后编辑器就成这样了

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷技术 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/categories/%E6%95%8F%E6%8D%B7%E6%8A%80%E6%9C%AF/</link>
+    <link>https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7%E6%8A%80%E6%9C%AF/</link>
     <description>Recent content in 敏捷技术 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/categories/%E6%95%8F%E6%8D%B7%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「视频」运维自动化之Ansible入门</title>
-      <link>https://leoyanlili.github.io/video_ansible_entry/</link>
+      <link>https://www.agilewalker.com/video_ansible_entry/</link>
       <pubDate>Sat, 23 Apr 2022 12:10:41 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/video_ansible_entry/</guid>
+      <guid>https://www.agilewalker.com/video_ansible_entry/</guid>
       <description>[https://player.youku.com/embed/XNTg2NzEzNjYyNA==]
 视频链接</description>
     </item>
     
     <item>
       <title>敏捷软件开发工作估算方法 – 故事点和工时</title>
-      <link>https://leoyanlili.github.io/storypoint-man-hour/</link>
+      <link>https://www.agilewalker.com/storypoint-man-hour/</link>
       <pubDate>Thu, 03 Feb 2022 06:13:32 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/storypoint-man-hour/</guid>
+      <guid>https://www.agilewalker.com/storypoint-man-hour/</guid>
       <description>你如果无法度量它，就无法管理它
 &amp;ndash; 彼得.德鲁克
 软件开发组织工作估算的思考 我们人类天生不善于估算，要不就是过于乐观，要不就是过于悲观，就是很少有现实主义。尤其是我们软件开发行业，有太多的未知数：技术一直在变；新需求不断涌现；任务之间或人与人之间错综复杂的依赖关系；还有外界环境存在的各种因素。工作量主要与三方面因素有关，任务的规模，任务的复杂度以及完成该任务的人员能力水平。
@@ -44,10 +44,10 @@ END
     
     <item>
       <title>谈我们的研发运维一体化交付模式</title>
-      <link>https://leoyanlili.github.io/about-devops-delivery/</link>
+      <link>https://www.agilewalker.com/about-devops-delivery/</link>
       <pubDate>Mon, 27 Dec 2021 14:36:34 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/about-devops-delivery/</guid>
+      <guid>https://www.agilewalker.com/about-devops-delivery/</guid>
       <description>物有本末，事有始终，知所先后，则近道矣。
 &amp;ndash; 《大学》
 [TOC]
@@ -60,10 +60,10 @@ END
     
     <item>
       <title>我们的DevOps如何让客户生产环境从“0”到完全恢复</title>
-      <link>https://leoyanlili.github.io/devops-from-0-to-done/</link>
+      <link>https://www.agilewalker.com/devops-from-0-to-done/</link>
       <pubDate>Sun, 14 Nov 2021 09:17:17 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/devops-from-0-to-done/</guid>
+      <guid>https://www.agilewalker.com/devops-from-0-to-done/</guid>
       <description>人能弘道，非道弘人
 &amp;ndash; 论语.卫灵公
 危与机的开始 最近工作有些吃力，11月4日当天特意请了两小时假，提前下班，吃完晚饭刚坐下来，打算简单看个电影，然后好好睡一觉恢复下体力。不想发生了一次突发事件。
@@ -98,10 +98,10 @@ END
     
     <item>
       <title>我们这样实践Scrum敏捷每日站会</title>
-      <link>https://leoyanlili.github.io/how-we-daily-scrum/</link>
+      <link>https://www.agilewalker.com/how-we-daily-scrum/</link>
       <pubDate>Sun, 06 Jun 2021 06:59:19 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-we-daily-scrum/</guid>
+      <guid>https://www.agilewalker.com/how-we-daily-scrum/</guid>
       <description>孔子说 性相近，习相远。我们人类性情都差不多，而每个人的习惯千差万别。我不认为敏捷能改变任何人，而是一群有共同积极价值观的人走到一起，在实施敏捷后，可以把各自的潜能激发出来。
 众所周知，每日站会的真正价值在于确保团队能持续地为当前的迭代的“承诺”而努力。每日站会并不是状态汇报，而是信息分享和调整协作。一个成熟的团队可以用不同的方式和关注点来开站会，与此同时团队也继续在改进中使用敏捷。
 我和一个由9位成员的团队一起工作，我们在一起工作至今已经近8个月了。在我加入团队之前，大部分成员对于敏捷是完全不熟悉的。我们可以在15分钟的框架内完成每日站会，这样也更高效。在过去这段时间，我们在每日站会中尝试了不同的方法，目的在于在个人和团队磨合成长的同时，为我们的日常工作建立一个积极的氛围。我们认为真正重要的是：文化和人。
@@ -147,10 +147,10 @@ Redmine(购买了敏捷插件)上，更新电子敏捷看板，其信息与物�
     
     <item>
       <title>Scrum敏捷开发培训后有感</title>
-      <link>https://leoyanlili.github.io/scrum-trainning/</link>
+      <link>https://www.agilewalker.com/scrum-trainning/</link>
       <pubDate>Thu, 01 Apr 2021 10:22:40 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-trainning/</guid>
+      <guid>https://www.agilewalker.com/scrum-trainning/</guid>
       <description>从⻓长远来看，你的组织可持续的竞争优势就是具有比对⼿更快的学习能⼒。
 —— 彼得.圣吉
 开端 2021年在即将辞旧岁和迎新年后，公司组织了两次Scrum敏捷开发企业级实训，2月初和3月初各一次。我有幸能参加第一次的培训，俗话说的好：输入只是学习的开始，输出是学习的检验和深化。在第二次培训结束后，感受到很多同事对敏捷开发方法还是有很大的意愿去尝试的。经过几天的思来想去，认为公司刚开始做敏捷转型，有必要做一个简单的文字记录，写下这次有意义的活动，同时也可供其他同事未来日常参考。本文简单小结了这次培训涉及的内容，以及结合了我自己工作中的一些思考，其中有部分文字是之前日常反思中记录下来的，此情此景，正好移花接木一下，希望大家原谅我的懒惰。
@@ -189,10 +189,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>初创的敏捷团队采用行为驱动开发共创用户故事</title>
-      <link>https://leoyanlili.github.io/how-bdd-user-story/</link>
+      <link>https://www.agilewalker.com/how-bdd-user-story/</link>
       <pubDate>Thu, 11 Feb 2021 04:36:00 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/how-bdd-user-story/</guid>
+      <guid>https://www.agilewalker.com/how-bdd-user-story/</guid>
       <description>如果说TDD是让我们正确地做事，那么BDD就是让我们做正确的事。
 在原本的计划中，2021年农历新年前发布另一篇文章，还是应了计划赶不上变化的这句老话，也算是体现了敏捷的价值观，希望本文对初创敏捷团队有一定的帮助。
 维基百科的解释 行为驱动开发（英语：Behavior-driven development，缩写BDD）是一种敏捷软件开发的技术，它鼓励软件项目中的产品负责人、开发者、QA和非技术人员或干系人之间的协作。BDD最初是由Dan North在2003年命名，它包括验收测试和客户测试驱动等的极限编程的实践，作为对测试驱动开发的回应。BDD介于业务领域和开发领域之间，如下图的位置。
@@ -225,10 +225,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>团队是敏捷教练的镜子</title>
-      <link>https://leoyanlili.github.io/team-is-mirror-of-coach/</link>
+      <link>https://www.agilewalker.com/team-is-mirror-of-coach/</link>
       <pubDate>Wed, 27 Jan 2021 14:53:45 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/team-is-mirror-of-coach/</guid>
+      <guid>https://www.agilewalker.com/team-is-mirror-of-coach/</guid>
       <description>敏捷教练是团队的镜子，这是一个常识，我认为反之亦然。
 前言 在敏捷教练的工作过程中，经常告诉自己的一句的工作职责就是：要作为团队的镜子。作为团队的镜子，敏捷教练或Scrum Master参与团队和个人的工作过程，一个重要的任务是通过观察以及沟通寻找发挥自己职能的时机，帮助敏捷团队的看清自己行为本身有哪些可以继续保持或是可以做的更好，让团队能够发现改进机会。我们今天要说的是在这个过程中，教练也可以把团队作为镜子，发现自己的问题，思考如何让自己做得更好的，以符合团队的现状和目标期望。在敏捷中，传统项目管理的职责被 PO，开发团队和SM所共同分担，PO负责目标，团队负责交付，SM负责流程、团队和改进。作为敏捷领导团队的一员，我们经常自我反思：如何帮团队顶住压力，并给团队注入动力？
 在前一篇博客中，总结了个人理解的敏捷含义，本文就从这几个方面谈谈我们今天的话题：
@@ -248,10 +248,10 @@ Estimated 经过估算的</description>
     
     <item>
       <title>产品负责人的轻度思考，6个小策略，面对迭代Sprint评审会</title>
-      <link>https://leoyanlili.github.io/sprint-review-advice/</link>
+      <link>https://www.agilewalker.com/sprint-review-advice/</link>
       <pubDate>Sat, 16 Jan 2021 10:36:22 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/sprint-review-advice/</guid>
+      <guid>https://www.agilewalker.com/sprint-review-advice/</guid>
       <description>人类并不善于将事情做得十全十美，于是软件中充满Bug也就不足为奇了。
 Sprint评审会议可能是产品负责人最重要的活动，它可以帮助你收集反馈意见，做出正确的产品决策，从而增加创造成功产品的机会。产品负责人可能并不总是清楚谁应该参加会议，应该如何开展这个会议，以及如何收集相关反馈。本文将回答这些问题，并分享一些建议，以帮助你在Sprint评审会上得到更多收获。
 邀请正确的人参与 从正确的人那里收集反馈信息对于做出正确的产品决策至关重要：如果你邀请了不合适的人参与，或者关键人物未到场，那么你不太可能收到你所需要的反馈。因此，你应该确保你邀请合适的人参与。
@@ -282,10 +282,10 @@ Sprint评审会是一个很好的机会，因为你现在应该知道哪些条�
     
     <item>
       <title>未来领导者的敏捷品质</title>
-      <link>https://leoyanlili.github.io/leadership-agile-qulity/</link>
+      <link>https://www.agilewalker.com/leadership-agile-qulity/</link>
       <pubDate>Sun, 27 Dec 2020 13:56:52 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/leadership-agile-qulity/</guid>
+      <guid>https://www.agilewalker.com/leadership-agile-qulity/</guid>
       <description>未来的领导者需要拥有清晰的价值观和愿景，需要真实和敏捷、内在一致并且目的明确。
 &amp;ndash; 佚名
 传统管理到现代领导 纯粹指挥协调型的管理者，会很快退出历史舞台。如果你是一位还有10年以上才能退休的管理者，一定要成为一个落地干实事的领导者，保持激情，在工作中与大家一起奋战。除非，你真的不在意。
@@ -330,10 +330,10 @@ END
     
     <item>
       <title>责任模型 – The Responsibility Process</title>
-      <link>https://leoyanlili.github.io/the-responsibility-process/</link>
+      <link>https://www.agilewalker.com/the-responsibility-process/</link>
       <pubDate>Sun, 20 Dec 2020 02:41:05 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/the-responsibility-process/</guid>
+      <guid>https://www.agilewalker.com/the-responsibility-process/</guid>
       <description>虽然每个人都在谈论责任,但是在各种情况下,我们都不负责任。
 前言 敏捷团队重视责任，敏捷思维和 Scrum文化中最关键的一个部分是责任。 Christopher Avery创建了一个非常好的责任模型，解释了责任如何发挥作用。在长期的进化过程中，人们的大脑得到了训练，能够迅速做出决策。每当出现一个小问题时,大脑将提供如何处理这个问题的选项。
 责任流程选项 第一个可能的解决方案：否认，这是人类的大脑的第一反应，通常是：“我已经编码了，我的代码没有问题。” 第二个可能的解决方案：指责，在Scrum环境中，指责可能会指向任何一个人，通常是：“我的代码是正确的，运行不了是他的错。” 第三个可能的解决方案：辩解，人们在没有得到预期结果时，经常使用借口。通常是：“在软件开发中，我们经常碰到技术难题，对吧？事情就是这样。” 第四个可能的解决方案：羞愧，团队遇到问题可能会表示沮丧，通常是：“对于这个产品，我们没有足够的经验，太难了。”。 第五个可能的解决方案：义务，有人告诉他们应该这样做，因此，他们不用理解就这样做了。通常是：“由于Scrum，我们开站会是必需的。” 第六个可能的解决方案：放弃，人们任何时候都可以决定放弃。通常是：“我不会去解决它，这对我来说并不重要。” 第七个可能的解决方案：责任，发生在决定承担责任时，这是责任模型的最终层次。通常是：“下一次，我们可以采用什么方法，这样以后就不会发生同样的事情了？” 写在最后 只有第七个措施才是真正的负责任。
@@ -345,10 +345,10 @@ END
     
     <item>
       <title>产品发布计划</title>
-      <link>https://leoyanlili.github.io/product-release-plan/</link>
+      <link>https://www.agilewalker.com/product-release-plan/</link>
       <pubDate>Sat, 28 Nov 2020 08:48:42 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/product-release-plan/</guid>
+      <guid>https://www.agilewalker.com/product-release-plan/</guid>
       <description>&amp;ldquo;不谋万世者，不足谋一时；不谋全局者，不足谋一域。&amp;rdquo;
 -陈澹然[清]
 序言：
@@ -379,10 +379,10 @@ END
     
     <item>
       <title>「视频」6分钟说如何设定一个好的OKR(搬砖推荐)</title>
-      <link>https://leoyanlili.github.io/v-how-to-set-okr/</link>
+      <link>https://www.agilewalker.com/v-how-to-set-okr/</link>
       <pubDate>Wed, 17 Jun 2020 02:30:43 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/v-how-to-set-okr/</guid>
+      <guid>https://www.agilewalker.com/v-how-to-set-okr/</guid>
       <description>「视频」6分钟说如何设定一个好的OKR(搬砖推荐) 在这里开视频
 —
 END

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>看板 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E7%9C%8B%E6%9D%BF/</link>
+    <link>https://www.agilewalker.com/tags/%E7%9C%8B%E6%9D%BF/</link>
     <description>Recent content in 看板 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 03:45:18 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E7%9C%8B%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2020 03:45:18 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E7%9C%8B%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://leoyanlili.github.io/understand-kanban/</link>
+      <link>https://www.agilewalker.com/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/understand-kanban/</guid>
+      <guid>https://www.agilewalker.com/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。
 &amp;ndash;大卫.安德森
 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。
@@ -41,19 +41,19 @@
     
     <item>
       <title>「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</title>
-      <link>https://leoyanlili.github.io/scrum-and-kanban/</link>
+      <link>https://www.agilewalker.com/scrum-and-kanban/</link>
       <pubDate>Mon, 30 Mar 2020 04:00:37 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/scrum-and-kanban/</guid>
+      <guid>https://www.agilewalker.com/scrum-and-kanban/</guid>
       <description>[https://player.youku.com/embed/XNDYwMjg2OTgzMg==]</description>
     </item>
     
     <item>
       <title>简说敏捷转型可视化和可视化敏捷方法</title>
-      <link>https://leoyanlili.github.io/agile-visualization/</link>
+      <link>https://www.agilewalker.com/agile-visualization/</link>
       <pubDate>Thu, 19 Mar 2020 04:41:39 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/agile-visualization/</guid>
+      <guid>https://www.agilewalker.com/agile-visualization/</guid>
       <description>在服务企业研发团队的过程中，我们发现不少团队碰到了类似的问题：
 你经常在思考究竟哪些工作是最重要的？如何避免被无穷无尽的项目与工作淹没？
 团队成员声称完成了自己的大部分任务，但团队实际交付的需求却寥寥无几？

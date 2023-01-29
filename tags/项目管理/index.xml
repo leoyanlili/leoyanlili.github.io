@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目管理 on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
+    <link>https://www.agilewalker.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 项目管理 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Mon, 30 Dec 2019 03:25:23 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2019 03:25:23 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>项目经理在成为PMO负责人过程中需要作出的改变</title>
-      <link>https://leoyanlili.github.io/howtopmo/</link>
+      <link>https://www.agilewalker.com/howtopmo/</link>
       <pubDate>Mon, 30 Dec 2019 03:25:23 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/howtopmo/</guid>
+      <guid>https://www.agilewalker.com/howtopmo/</guid>
       <description>Less Tactical As a former US Army soldier, being less tactical was never a goal. The more tactics you had, the better you could execute on the overall military strategy. But becoming the PMO Director is more like becoming a Division Commander. You will be an integral part of the strategic portion of the battle. In order to become a PMO Leader, you need to think and communicate more strategically. You need to get out of the weeds, and out of the project plans, and into the business strategy that all of the projects are supporting.</description>
     </item>
     
     <item>
       <title>挣值管理</title>
-      <link>https://leoyanlili.github.io/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</link>
+      <link>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sat, 23 Nov 2019 06:24:40 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</guid>
+      <guid>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</guid>
       <description>挣值管理（Earned Value Management, EVM）是项目管理里面成本管理部分较为重点的知识点，但是也可以用来综合考察项目范围和进度绩效，经常需要做相关计算。本文试图来整理一下关于挣值管理的一些概念和知识点。
 一、 基本概念PV，EV，AC和BAC 首先是四个基本概念：
 计划价值（Planned Value, PV），截止到某时间点计划要完成工作量的价值，也就是计划要做多少事；
@@ -52,10 +52,10 @@
     
     <item>
       <title>NPV和IRR</title>
-      <link>https://leoyanlili.github.io/35-2/</link>
+      <link>https://www.agilewalker.com/35-2/</link>
       <pubDate>Sat, 23 Nov 2019 06:10:55 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/35-2/</guid>
+      <guid>https://www.agilewalker.com/35-2/</guid>
       <description>净现值（Net Present Value, NPV）：说的是把未来期望收入的钱换算成现在的钱（跟算利息类似，不过是反向运算，例如明年你会赚110元，假设贴现率是10%，那么换算成现在的钱也就是110/(1+10%)=100元，也就是说你明年赚到的110元就相当于现在100元的购买率，反过来就是你现在100元，利息10%，明年你就变成了110元，往后的年份一样算法），然后累加再减去投资成本得到累计净现值。累计净现值越大越好，理论上净现&amp;gt;0项目就可行，表示有赚头。
 举例：假设两个项目A和B，都是投资10万元，贴现率10%，预期收入和净现值如下。（假设项目周期都只有5年，单位：万）
 从上面的例子可以看出，项目B的净现值更高更值得投资，原因是虽然A和B的5年总收入如果不考虑货币时间价值加起来是相等的都是18.52万，但是由于项目B的收入来得比较提前，所以算出来项目B的净现值高，更值得投资。从这儿可以看到净现值主要算的是刨去货币贬值影响最后还能赚多少钱。
