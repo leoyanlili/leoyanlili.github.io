@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrum on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/scrum/</link>
+    <link>/tags/scrum/</link>
     <description>Recent content in Scrum on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 13:26:15 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Sep 2020 13:26:15 +0000</lastBuildDate><atom:link href="/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrum框架的局限性在哪里？</title>
-      <link>https://www.agilewalker.com/where-scrum-limits/</link>
+      <link>/where-scrum-limits/</link>
       <pubDate>Mon, 28 Sep 2020 13:26:15 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/where-scrum-limits/</guid>
+      <guid>/where-scrum-limits/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;By Mark Levison&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -25,19 +25,19 @@
     
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://www.agilewalker.com/understand-kanban/</link>
+      <link>/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/understand-kanban/</guid>
+      <guid>/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。 &amp;ndash;大卫.安德森 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。 临时请求(按需的任务) 计划外工作 生</description>
     </item>
     
     <item>
       <title>Scrum入门系列PPT之-Scrum介绍</title>
-      <link>https://www.agilewalker.com/scrum-beginner-ppt-intro/</link>
+      <link>/scrum-beginner-ppt-intro/</link>
       <pubDate>Wed, 03 Jun 2020 07:07:25 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-beginner-ppt-intro/</guid>
+      <guid>/scrum-beginner-ppt-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这不是结束，甚至不是结束的开始，但这毕竟是开始的结束。&lt;/p&gt;
 &lt;p&gt;-&amp;ndash; 温斯顿.丘吉尔&lt;/p&gt;
@@ -46,145 +46,145 @@
     
     <item>
       <title>翻译敏捷行业专业外文，不只是谷歌翻译</title>
-      <link>https://www.agilewalker.com/translation-beyond-google/</link>
+      <link>/translation-beyond-google/</link>
       <pubDate>Thu, 21 May 2020 11:36:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/translation-beyond-google/</guid>
+      <guid>/translation-beyond-google/</guid>
       <description>流行但愚蠢的态度是，一个好的经理在任何地方都可以成为一个好经理，而不需要对他所管理的生产过程有特别的了解 —爱德华.戴明 前言 孔子说：一日而三省吾身。应该说是体现了敏捷思维在个人哲学意识迭代中的最早的实践应用。但真的要做到，确实有点难。改成三日一省如何？至少三天才能对一件事情有比较客观的初步认知。每次反思就像Scrum框架里的一个Sprint，总要有个时间盒子，结束后能看到增量价值交付。这里就不接着谈</description>
     </item>
     
     <item>
       <title>运用GROW模型，提问的艺术，敏捷教练基本功</title>
-      <link>https://www.agilewalker.com/how-to-use-grow-model/</link>
+      <link>/how-to-use-grow-model/</link>
       <pubDate>Tue, 28 Apr 2020 14:13:58 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-use-grow-model/</guid>
+      <guid>/how-to-use-grow-model/</guid>
       <description>GROW模型是教练过程中提问的方式，代表有目的决策的四个组成部分。 用首字母缩写，GROW代表： 公众号原文：运用GROW模型，提问的艺术，敏捷教练基本功 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</title>
-      <link>https://www.agilewalker.com/agile-product-ownership/</link>
+      <link>/agile-product-ownership/</link>
       <pubDate>Sat, 18 Apr 2020 08:53:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-product-ownership/</guid>
+      <guid>/agile-product-ownership/</guid>
       <description>15分钟，用产品负责人的视角看Scrum敏捷软件开发 [https://player.youku.com/embed/XNDYzNzY5NTc0MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
+      <link>/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
+      <guid>/sprint-capactiy-planning/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）</description>
     </item>
     
     <item>
       <title>「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</title>
-      <link>https://www.agilewalker.com/scrum-crash-course/</link>
+      <link>/scrum-crash-course/</link>
       <pubDate>Thu, 16 Apr 2020 03:36:39 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-crash-course/</guid>
+      <guid>/scrum-crash-course/</guid>
       <description>[本视频长度1.5小时] 敏捷文化中的Scrum是什么？ - 速成班带你深度了解 [https://player.youku.com/embed/XNDYxMDk2NjgwMA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
+      <link>/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
+      <guid>/sprint-burndown-chart/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）： &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任</description>
     </item>
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
+      <link>/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
+      <guid>/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
-      <link>https://www.agilewalker.com/v-understand-user-story/</link>
+      <link>/v-understand-user-story/</link>
       <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-understand-user-story/</guid>
+      <guid>/v-understand-user-story/</guid>
       <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器 [https://player.youku.com/embed/XNDYwMjQyNTI2MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
+      <link>/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
+      <guid>/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么</description>
     </item>
     
     <item>
       <title>理解Scrum 度量和关键绩效指标</title>
-      <link>https://www.agilewalker.com/understanding-scrum-metrics/</link>
+      <link>/understanding-scrum-metrics/</link>
       <pubDate>Tue, 07 Apr 2020 09:37:16 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/understanding-scrum-metrics/</guid>
+      <guid>/understanding-scrum-metrics/</guid>
       <description>— END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更及时的更新通知。</description>
     </item>
     
     <item>
       <title>「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</title>
-      <link>https://www.agilewalker.com/7-minutes-scrum/</link>
+      <link>/7-minutes-scrum/</link>
       <pubDate>Fri, 03 Apr 2020 09:23:12 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/7-minutes-scrum/</guid>
+      <guid>/7-minutes-scrum/</guid>
       <description>[https://player.youku.com/embed/XNDYxNzcyMjYwMA==]</description>
     </item>
     
     <item>
       <title>「视频」总结的真好，敏捷Scrum成果度量方法？锻炼英语，居然都看完了</title>
-      <link>https://www.agilewalker.com/scrum-okr-kpi-metrics/</link>
+      <link>/scrum-okr-kpi-metrics/</link>
       <pubDate>Mon, 30 Mar 2020 04:06:56 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-okr-kpi-metrics/</guid>
+      <guid>/scrum-okr-kpi-metrics/</guid>
       <description>[https://player.youku.com/embed/XNDYxMDk3Mzg4MA==]</description>
     </item>
     
     <item>
       <title>「视频」Scrum和Kanban，有什么区别？哪个更适合你的团队？</title>
-      <link>https://www.agilewalker.com/scrum-and-kanban/</link>
+      <link>/scrum-and-kanban/</link>
       <pubDate>Mon, 30 Mar 2020 04:00:37 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-and-kanban/</guid>
+      <guid>/scrum-and-kanban/</guid>
       <description>[https://player.youku.com/embed/XNDYwMjg2OTgzMg==]</description>
     </item>
     
     <item>
       <title>选择合适自己的敏捷认证培训</title>
-      <link>https://www.agilewalker.com/your-favorite-agile-certification/</link>
+      <link>/your-favorite-agile-certification/</link>
       <pubDate>Sun, 29 Mar 2020 15:04:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/your-favorite-agile-certification/</guid>
+      <guid>/your-favorite-agile-certification/</guid>
       <description>考试和证书：考试有专门考点，监考严格，纸质考试。考试包含120个选择题，其中100道为打分题，20道不计分（根据当次考试情况选取），考试后6-7周在线出成绩。证书更新周期是每三年，可以通过获得PDU或支付费用来刷新。 考试和证书：考试包含50个选择题，答对37个合格，培训结束当天就可以考试，马上在线出成绩。证书更新周期是每三年，可以通过获得SDU或支付费用来刷新，认证还给PDU的哦。 考试和证书：包含</description>
     </item>
     
     <item>
       <title>「视频」7分钟，ScrumMaster告诉你 – 如何打造一支敏捷团队</title>
-      <link>https://www.agilewalker.com/how-to-develop-scrum-team/</link>
+      <link>/how-to-develop-scrum-team/</link>
       <pubDate>Fri, 27 Mar 2020 10:46:38 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-develop-scrum-team/</guid>
+      <guid>/how-to-develop-scrum-team/</guid>
       <description>[https://player.youku.com/embed/XNDYwMTM1Nzg4MA==]</description>
     </item>
     
     <item>
       <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
-      <link>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</link>
+      <link>/scrum-is-not-agilesoftware-framework/</link>
       <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</guid>
+      <guid>/scrum-is-not-agilesoftware-framework/</guid>
       <description>2019-新冠病毒疫情最新情报速递 Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。 许多Scrum专家说：Scrum是一个产品开发框架。 END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     

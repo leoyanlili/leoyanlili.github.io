@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目管理 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
+    <link>/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 项目管理 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Mon, 30 Dec 2019 03:25:23 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2019 03:25:23 +0000</lastBuildDate><atom:link href="/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>项目经理在成为PMO负责人过程中需要作出的改变</title>
-      <link>https://www.agilewalker.com/howtopmo/</link>
+      <link>/howtopmo/</link>
       <pubDate>Mon, 30 Dec 2019 03:25:23 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/howtopmo/</guid>
+      <guid>/howtopmo/</guid>
       <description>Less Tactical As a former US Army soldier, being less tactical was never a goal. The more tactics you had, the better you could execute on the overall military strategy. But becoming the PMO Director is more like becoming a Division Commander. You will be an integral part of the strategic portion of the battle. In order to become a PMO Leader, you need to think and communicate more strategically. You need to get out of the weeds, and out of the project plans, and into the business strategy that all of the projects are supporting. There could be several strategies for which hundreds of projects could be supporting. Yes – supporting. A project is the tactical portion of a strategy. It is the “how” you get things done. As an example, if the strategy is to have a completely safe, supported, and flexible environment for your SAS product, then the first level of HOW might be a program of projects to move your SAS product to a globally supported cloud platform. The second level of HOW would be a series of tactical projects to (1) do a data consolidation and migration, (2) restructure the architecture,</description>
     </item>
     
     <item>
       <title>挣值管理</title>
-      <link>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</link>
+      <link>/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sat, 23 Nov 2019 06:24:40 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</guid>
+      <guid>/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</guid>
       <description>挣值管理（Earned Value Management, EVM）是项目管理里面成本管理部分较为重点的知识点，但是也可以用来综合考察项目范围和进度绩效，经常需要做相关计算。本文试图来整理一下关于挣值管理的一些概念和知识点。 一、 基本概念PV，EV，AC和BAC 首先是四个基本概念： 计划价值（Planned Value, PV），截止到某时间点计划要完成工作量的价值，也就是计划要做多少事； 挣值（Earned Value, EV），截止到某时间点实际已经完成工作量</description>
     </item>
     
     <item>
       <title>NPV和IRR</title>
-      <link>https://www.agilewalker.com/35-2/</link>
+      <link>/35-2/</link>
       <pubDate>Sat, 23 Nov 2019 06:10:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/35-2/</guid>
+      <guid>/35-2/</guid>
       <description>净现值（Net Present Value, NPV）：说的是把未来期望收入的钱换算成现在的钱（跟算利息类似，不过是反向运算，例如明年你会赚110元，假设贴现率是10%，那么换算成现在的钱也就是110/(1+10%)=100元，也就是说你明年赚到的110元就相当于现在100元的购买率，反过来就是你现在100元，利息10%，明年你就变成了110元，往后的年份一样算法），然后累加再减去投资成本得到累计净现值。累计净现值越大越好，</description>
     </item>
     

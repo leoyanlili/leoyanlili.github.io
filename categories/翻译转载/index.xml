@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>翻译转载 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/%E7%BF%BB%E8%AF%91%E8%BD%AC%E8%BD%BD/</link>
+    <link>/categories/%E7%BF%BB%E8%AF%91%E8%BD%AC%E8%BD%BD/</link>
     <description>Recent content in 翻译转载 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 10:36:22 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E7%BF%BB%E8%AF%91%E8%BD%AC%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 10:36:22 +0000</lastBuildDate><atom:link href="/categories/%E7%BF%BB%E8%AF%91%E8%BD%AC%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>产品负责人的轻度思考，6个小策略，面对迭代Sprint评审会</title>
-      <link>https://www.agilewalker.com/sprint-review-advice/</link>
+      <link>/sprint-review-advice/</link>
       <pubDate>Sat, 16 Jan 2021 10:36:22 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-review-advice/</guid>
+      <guid>/sprint-review-advice/</guid>
       <description>人类并不善于将事情做得十全十美，于是软件中充满Bug也就不足为奇了。 Sprint评审会议可能是产品负责人最重要的活动，它可以帮助你收集反馈意见，做出正确的产品决策，从而增加创造成功产品的机会。产品负责人可能并不总是清楚谁应该参加会议，应该如何开展这个会议，以及如何收集相关反馈。本文将回答这些问题，并分享一些建议，以帮助你在Sprint评审会上得到更多收获。 邀请正确的人参与 从正确的人那里收集反馈信息</description>
     </item>
     
     <item>
       <title>产品发布计划</title>
-      <link>https://www.agilewalker.com/product-release-plan/</link>
+      <link>/product-release-plan/</link>
       <pubDate>Sat, 28 Nov 2020 08:48:42 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-release-plan/</guid>
+      <guid>/product-release-plan/</guid>
       <description>&amp;ldquo;不谋万世者，不足谋一时；不谋全局者，不足谋一域。&amp;rdquo; -陈澹然[清] 序言： 这篇文章，让我想到了全局观，应该是作为产品负责人具备的基本素养，不仅给产品以愿景，给团队以方向，同时也能帮助产品负责人与干系人很好的进行沟通。而发布计划应该是这种素养的可视化的表述之一。发布计划向上衔接面向管理层的产品愿景和路线图，向下衔接面向团队的Sprint计划，对产品某次发布有个明确的规划，连接愿</description>
     </item>
     
     <item>
       <title>Scrum框架的局限性在哪里？</title>
-      <link>https://www.agilewalker.com/where-scrum-limits/</link>
+      <link>/where-scrum-limits/</link>
       <pubDate>Mon, 28 Sep 2020 13:26:15 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/where-scrum-limits/</guid>
+      <guid>/where-scrum-limits/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;By Mark Levison&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -43,145 +43,145 @@
     
     <item>
       <title>翻译敏捷行业专业外文，不只是谷歌翻译</title>
-      <link>https://www.agilewalker.com/translation-beyond-google/</link>
+      <link>/translation-beyond-google/</link>
       <pubDate>Thu, 21 May 2020 11:36:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/translation-beyond-google/</guid>
+      <guid>/translation-beyond-google/</guid>
       <description>流行但愚蠢的态度是，一个好的经理在任何地方都可以成为一个好经理，而不需要对他所管理的生产过程有特别的了解 —爱德华.戴明 前言 孔子说：一日而三省吾身。应该说是体现了敏捷思维在个人哲学意识迭代中的最早的实践应用。但真的要做到，确实有点难。改成三日一省如何？至少三天才能对一件事情有比较客观的初步认知。每次反思就像Scrum框架里的一个Sprint，总要有个时间盒子，结束后能看到增量价值交付。这里就不接着谈</description>
     </item>
     
     <item>
       <title>运用GROW模型，提问的艺术，敏捷教练基本功</title>
-      <link>https://www.agilewalker.com/how-to-use-grow-model/</link>
+      <link>/how-to-use-grow-model/</link>
       <pubDate>Tue, 28 Apr 2020 14:13:58 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-use-grow-model/</guid>
+      <guid>/how-to-use-grow-model/</guid>
       <description>GROW模型是教练过程中提问的方式，代表有目的决策的四个组成部分。 用首字母缩写，GROW代表： 公众号原文：运用GROW模型，提问的艺术，敏捷教练基本功 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」让产品的业务更清晰，在敏捷文化中，影响地图的艺术</title>
-      <link>https://www.agilewalker.com/v-impact-mapping/</link>
+      <link>/v-impact-mapping/</link>
       <pubDate>Tue, 21 Apr 2020 11:59:12 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-impact-mapping/</guid>
+      <guid>/v-impact-mapping/</guid>
       <description>让产品的业务更清晰，在敏捷文化中，影响地图的艺术。另一个很棒的视频在这里。 [https://player.youku.com/embed/XNDY0MjU0MTg0NA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</title>
-      <link>https://www.agilewalker.com/agile-product-ownership/</link>
+      <link>/agile-product-ownership/</link>
       <pubDate>Sat, 18 Apr 2020 08:53:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-product-ownership/</guid>
+      <guid>/agile-product-ownership/</guid>
       <description>15分钟，用产品负责人的视角看Scrum敏捷软件开发 [https://player.youku.com/embed/XNDYzNzY5NTc0MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
+      <link>/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
+      <guid>/sprint-capactiy-planning/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）</description>
     </item>
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
+      <link>/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
+      <guid>/sprint-burndown-chart/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）： &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任</description>
     </item>
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart-2/</link>
+      <link>/sprint-burndown-chart-2/</link>
       <pubDate>Tue, 14 Apr 2020 12:06:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart-2/</guid>
+      <guid>/sprint-burndown-chart-2/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（下篇为主题4-6）： （延续上篇主题1-3 敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）） &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在这种情景下，团队需要查看当前的燃尽图和实际线。 截至特定日期，它们还有多少富余的工作时间。 可能有3种选项： &amp;lt;/p&amp;gt; &amp;lt;ol start=&amp;quot;1&amp;quot;&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;团队可以直接同意将故事添加到当前的sprint中&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt;</description>
     </item>
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
+      <link>/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
+      <guid>/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
+      <link>/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
+      <guid>/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么</description>
     </item>
     
     <item>
       <title>「视频」敏捷教练的工作是什么？让我们总览一下</title>
-      <link>https://www.agilewalker.com/agile-coach-overview/</link>
+      <link>/agile-coach-overview/</link>
       <pubDate>Sun, 12 Apr 2020 10:58:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-overview/</guid>
+      <guid>/agile-coach-overview/</guid>
       <description>敏捷教练的工作是什么？让我们总览一下 [https://player.youku.com/embed/XNDYyOTE3OTMyNA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>「视频」12分钟，立即就懂，敏捷教练工作的职业发展路径</title>
-      <link>https://www.agilewalker.com/agile-coach-development-path/</link>
+      <link>/agile-coach-development-path/</link>
       <pubDate>Sun, 12 Apr 2020 10:51:50 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-development-path/</guid>
+      <guid>/agile-coach-development-path/</guid>
       <description>12分钟，立即就懂，敏捷教练工作的职业发展路径 [https://player.youku.com/embed/XNDYyOTE3NDA2MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</title>
-      <link>https://www.agilewalker.com/burn-down-chart/</link>
+      <link>/burn-down-chart/</link>
       <pubDate>Sun, 12 Apr 2020 10:46:36 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/burn-down-chart/</guid>
+      <guid>/burn-down-chart/</guid>
       <description>值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决 [https://player.youku.com/embed/XNDYxMDk2Mjk0OA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>与大家分享一些“敏捷教练”的定义</title>
-      <link>https://www.agilewalker.com/agile-coach-defines/</link>
+      <link>/agile-coach-defines/</link>
       <pubDate>Wed, 04 Mar 2020 02:44:04 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-defines/</guid>
+      <guid>/agile-coach-defines/</guid>
       <description>引用来自网络的关于与敏捷教练定义，大家应该会有个基本一致的感受： 参考： 让你用3分钟简单说敏捷教练能力模型 敏捷教练日常工作中的检查列表 -&amp;ndash; END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>项目经理在成为PMO负责人过程中需要作出的改变</title>
-      <link>https://www.agilewalker.com/howtopmo/</link>
+      <link>/howtopmo/</link>
       <pubDate>Mon, 30 Dec 2019 03:25:23 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/howtopmo/</guid>
+      <guid>/howtopmo/</guid>
       <description>Less Tactical As a former US Army soldier, being less tactical was never a goal. The more tactics you had, the better you could execute on the overall military strategy. But becoming the PMO Director is more like becoming a Division Commander. You will be an integral part of the strategic portion of the battle. In order to become a PMO Leader, you need to think and communicate more strategically. You need to get out of the weeds, and out of the project plans, and into the business strategy that all of the projects are supporting. There could be several strategies for which hundreds of projects could be supporting. Yes – supporting. A project is the tactical portion of a strategy. It is the “how” you get things done. As an example, if the strategy is to have a completely safe, supported, and flexible environment for your SAS product, then the first level of HOW might be a program of projects to move your SAS product to a globally supported cloud platform. The second level of HOW would be a series of tactical projects to (1) do a data consolidation and migration, (2) restructure the architecture,</description>
     </item>
     
     <item>
       <title>挣值管理</title>
-      <link>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</link>
+      <link>/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sat, 23 Nov 2019 06:24:40 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</guid>
+      <guid>/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</guid>
       <description>挣值管理（Earned Value Management, EVM）是项目管理里面成本管理部分较为重点的知识点，但是也可以用来综合考察项目范围和进度绩效，经常需要做相关计算。本文试图来整理一下关于挣值管理的一些概念和知识点。 一、 基本概念PV，EV，AC和BAC 首先是四个基本概念： 计划价值（Planned Value, PV），截止到某时间点计划要完成工作量的价值，也就是计划要做多少事； 挣值（Earned Value, EV），截止到某时间点实际已经完成工作量</description>
     </item>
     
     <item>
       <title>NPV和IRR</title>
-      <link>https://www.agilewalker.com/35-2/</link>
+      <link>/35-2/</link>
       <pubDate>Sat, 23 Nov 2019 06:10:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/35-2/</guid>
+      <guid>/35-2/</guid>
       <description>净现值（Net Present Value, NPV）：说的是把未来期望收入的钱换算成现在的钱（跟算利息类似，不过是反向运算，例如明年你会赚110元，假设贴现率是10%，那么换算成现在的钱也就是110/(1+10%)=100元，也就是说你明年赚到的110元就相当于现在100元的购买率，反过来就是你现在100元，利息10%，明年你就变成了110元，往后的年份一样算法），然后累加再减去投资成本得到累计净现值。累计净现值越大越好，</description>
     </item>
     

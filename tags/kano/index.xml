@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kano on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/kano/</link>
+    <link>/tags/kano/</link>
     <description>Recent content in Kano on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 08:44:13 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/kano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 08:44:13 +0000</lastBuildDate><atom:link href="/tags/kano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
+      <link>/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
+      <guid>/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么</description>
     </item>
     

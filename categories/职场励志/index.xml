@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>职场励志 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/%E8%81%8C%E5%9C%BA%E5%8A%B1%E5%BF%97/</link>
+    <link>/categories/%E8%81%8C%E5%9C%BA%E5%8A%B1%E5%BF%97/</link>
     <description>Recent content in 职场励志 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E8%81%8C%E5%9C%BA%E5%8A%B1%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="/categories/%E8%81%8C%E5%9C%BA%E5%8A%B1%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「视频」运维自动化之Ansible入门</title>
-      <link>https://www.agilewalker.com/video_ansible_entry/</link>
+      <link>/video_ansible_entry/</link>
       <pubDate>Sat, 23 Apr 2022 12:10:41 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/video_ansible_entry/</guid>
+      <guid>/video_ansible_entry/</guid>
       <description>[https://player.youku.com/embed/XNTg2NzEzNjYyNA==] 视频链接</description>
     </item>
     
     <item>
       <title>如何用伪领导力搞垮一个敏捷团队</title>
-      <link>https://www.agilewalker.com/how-to-destroy-a-team/</link>
+      <link>/how-to-destroy-a-team/</link>
       <pubDate>Sun, 25 Jul 2021 06:45:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-destroy-a-team/</guid>
+      <guid>/how-to-destroy-a-team/</guid>
       <description>《易经》乃诸经之首，中华民族的哲学思想的源泉。 做了多年的基层伪领导，自认做的不是很好，格局不高，事实也说明基层管理更适合本人的思维深度，大家看到这里，至少能判断出我的自省做得很好。本文总结了一些伪领导力，还请大家赐教。 不知“外圆内方” 说的是领导的根本法则，领导者有更加圆通的行为方式，同时要有较为公正的管理原则。 有些领导说的头头是道，正确无误；做的相差甚远。可称之为：外方内圆。举个栗子，中国人讲究亲</description>
     </item>
     
     <item>
       <title>团队是敏捷教练的镜子</title>
-      <link>https://www.agilewalker.com/team-is-mirror-of-coach/</link>
+      <link>/team-is-mirror-of-coach/</link>
       <pubDate>Wed, 27 Jan 2021 14:53:45 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/team-is-mirror-of-coach/</guid>
+      <guid>/team-is-mirror-of-coach/</guid>
       <description>敏捷教练是团队的镜子，这是一个常识，我认为反之亦然。 前言 在敏捷教练的工作过程中，经常告诉自己的一句的工作职责就是：要作为团队的镜子。作为团队的镜子，敏捷教练或Scrum Master参与团队和个人的工作过程，一个重要的任务是通过观察以及沟通寻找发挥自己职能的时机，帮助敏捷团队的看清自己行为本身有哪些可以继续保持或是可以做的更好，让团队能够发现改进机会。我们今天要说的是在这个过程中，教练也可以把团队作</description>
     </item>
     
     <item>
       <title>博客生产线：WordPress(平台)&#43;Typora(编辑器)&#43;GitHub(图床)</title>
-      <link>https://www.agilewalker.com/wordpress-typora-github/</link>
+      <link>/wordpress-typora-github/</link>
       <pubDate>Tue, 07 Jul 2020 10:23:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/wordpress-typora-github/</guid>
+      <guid>/wordpress-typora-github/</guid>
       <description>前言 写个人博客的方法和平台有很多，这里介绍的是用个人搭建的WordPress(平台) + Typora(编辑器) + GitHub(图床)的方法，用Markdown语法写文章。 自从用了Markdown写博客，感觉还是挺方便的，现在很多平台都支持MD。这样保证了在各个平台上的兼容性，如果未来希望转移到其他基于GitHub的静态博客，如Hugo，也是个不错的准备。况且很多MD的编辑器非常棒，像Typora这么</description>
     </item>
     
     <item>
       <title>Scrum入门系列PPT之-Scrum介绍</title>
-      <link>https://www.agilewalker.com/scrum-beginner-ppt-intro/</link>
+      <link>/scrum-beginner-ppt-intro/</link>
       <pubDate>Wed, 03 Jun 2020 07:07:25 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-beginner-ppt-intro/</guid>
+      <guid>/scrum-beginner-ppt-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这不是结束，甚至不是结束的开始，但这毕竟是开始的结束。&lt;/p&gt;
 &lt;p&gt;-&amp;ndash; 温斯顿.丘吉尔&lt;/p&gt;
@@ -58,118 +58,118 @@
     
     <item>
       <title>翻译敏捷行业专业外文，不只是谷歌翻译</title>
-      <link>https://www.agilewalker.com/translation-beyond-google/</link>
+      <link>/translation-beyond-google/</link>
       <pubDate>Thu, 21 May 2020 11:36:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/translation-beyond-google/</guid>
+      <guid>/translation-beyond-google/</guid>
       <description>流行但愚蠢的态度是，一个好的经理在任何地方都可以成为一个好经理，而不需要对他所管理的生产过程有特别的了解 —爱德华.戴明 前言 孔子说：一日而三省吾身。应该说是体现了敏捷思维在个人哲学意识迭代中的最早的实践应用。但真的要做到，确实有点难。改成三日一省如何？至少三天才能对一件事情有比较客观的初步认知。每次反思就像Scrum框架里的一个Sprint，总要有个时间盒子，结束后能看到增量价值交付。这里就不接着谈</description>
     </item>
     
     <item>
       <title>有价值的产品=设计思维&#43;精益创业&#43;敏捷方法</title>
-      <link>https://www.agilewalker.com/designthinking-leanstartup-agile/</link>
+      <link>/designthinking-leanstartup-agile/</link>
       <pubDate>Sat, 16 May 2020 15:06:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/designthinking-leanstartup-agile/</guid>
+      <guid>/designthinking-leanstartup-agile/</guid>
       <description>设计思维是一个反复的过程，在此过程中，我们要努力理解用户的痛苦，挑战性假设，重新定义问题，以便创建新的策略和解决方案。 通常的设计思考阶段如下： “精益创业是一种用于开发业务和产品的方法，旨在缩短产品开发周期并迅速发现拟定的业务模型是否可行； 这是通过结合业务假设驱动的实验，迭代的产品发布和经过验证的学习来实现的。” —维基百科 用埃里克·里斯（Eric Ries）的话说：“精益创业公司提供了一种科学的方法来</description>
     </item>
     
     <item>
       <title>「视频」敏捷教练的工作是什么？让我们总览一下</title>
-      <link>https://www.agilewalker.com/agile-coach-overview/</link>
+      <link>/agile-coach-overview/</link>
       <pubDate>Sun, 12 Apr 2020 10:58:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-overview/</guid>
+      <guid>/agile-coach-overview/</guid>
       <description>敏捷教练的工作是什么？让我们总览一下 [https://player.youku.com/embed/XNDYyOTE3OTMyNA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>「视频」12分钟，立即就懂，敏捷教练工作的职业发展路径</title>
-      <link>https://www.agilewalker.com/agile-coach-development-path/</link>
+      <link>/agile-coach-development-path/</link>
       <pubDate>Sun, 12 Apr 2020 10:51:50 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-development-path/</guid>
+      <guid>/agile-coach-development-path/</guid>
       <description>12分钟，立即就懂，敏捷教练工作的职业发展路径 [https://player.youku.com/embed/XNDYyOTE3NDA2MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>选择合适自己的敏捷认证培训</title>
-      <link>https://www.agilewalker.com/your-favorite-agile-certification/</link>
+      <link>/your-favorite-agile-certification/</link>
       <pubDate>Sun, 29 Mar 2020 15:04:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/your-favorite-agile-certification/</guid>
+      <guid>/your-favorite-agile-certification/</guid>
       <description>考试和证书：考试有专门考点，监考严格，纸质考试。考试包含120个选择题，其中100道为打分题，20道不计分（根据当次考试情况选取），考试后6-7周在线出成绩。证书更新周期是每三年，可以通过获得PDU或支付费用来刷新。 考试和证书：考试包含50个选择题，答对37个合格，培训结束当天就可以考试，马上在线出成绩。证书更新周期是每三年，可以通过获得SDU或支付费用来刷新，认证还给PDU的哦。 考试和证书：包含</description>
     </item>
     
     <item>
       <title>「转载」头条官方报告披露2020年自媒体发展7个趋势 为创作者指出方向</title>
-      <link>https://www.agilewalker.com/2020-media-7-trends/</link>
+      <link>/2020-media-7-trends/</link>
       <pubDate>Tue, 24 Mar 2020 11:40:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/2020-media-7-trends/</guid>
+      <guid>/2020-media-7-trends/</guid>
       <description>头条官方报告给创作者引路 近期，今日头条旗下巨量引擎发布《2019-2020今日头条营销通案》，主题为“资讯新生态，头部影响力”。这份报告虽然主旨是为B端企业提供的，但其中的内容、数据，对个人创作者和MCN机构摸准明年头条系各平台的发力方向，也有非常大的指导价值。 从创作者到“记者”，你准备好了吗？ 对，你没看错。你不一定要做一名职业记者，但未来做头条，创作者要有“记者”的气质和价值，这是真的。这份报告</description>
     </item>
     
     <item>
       <title>新冠疫情期间，简单介绍几款用于敏捷开发的协作工具</title>
-      <link>https://www.agilewalker.com/agile-collaberation-tools/</link>
+      <link>/agile-collaberation-tools/</link>
       <pubDate>Thu, 19 Mar 2020 05:30:39 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-collaberation-tools/</guid>
+      <guid>/agile-collaberation-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>简说敏捷转型可视化和可视化敏捷方法</title>
-      <link>https://www.agilewalker.com/agile-visualization/</link>
+      <link>/agile-visualization/</link>
       <pubDate>Thu, 19 Mar 2020 04:41:39 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-visualization/</guid>
+      <guid>/agile-visualization/</guid>
       <description>在服务企业研发团队的过程中，我们发现不少团队碰到了类似的问题： 你经常在思考究竟哪些工作是最重要的？如何避免被无穷无尽的项目与工作淹没？ 团队成员声称完成了自己的大部分任务，但团队实际交付的需求却寥寥无几？ 由于某些问题导致工序一直处于等待状态，怎么识别和处理这些延迟？ 成员之间不知道互相都在干什么？各自鸵鸟式地进行着工作。 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：</description>
     </item>
     
     <item>
       <title>敏捷教练的软硬技能树</title>
-      <link>https://www.agilewalker.com/agile-coach-skills-tree/</link>
+      <link>/agile-coach-skills-tree/</link>
       <pubDate>Sun, 15 Mar 2020 10:32:36 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-skills-tree/</guid>
+      <guid>/agile-coach-skills-tree/</guid>
       <description>最近想整理一个敏捷教练技能树，如今抗疫在家，就完成我的这个PBI吧，不论内容是否全面，经常总结，多学习总是人间正道。 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>告诉你的CxO敏捷教练是什么</title>
-      <link>https://www.agilewalker.com/what-is-agile-coach/</link>
+      <link>/what-is-agile-coach/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:47 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/what-is-agile-coach/</guid>
+      <guid>/what-is-agile-coach/</guid>
       <description>— END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>让你用3分钟简单说敏捷教练能力模型</title>
-      <link>https://www.agilewalker.com/agile-coach-competency-framework/</link>
+      <link>/agile-coach-competency-framework/</link>
       <pubDate>Sat, 22 Feb 2020 10:30:04 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-competency-framework/</guid>
+      <guid>/agile-coach-competency-framework/</guid>
       <description>1) 保持中立的态度：敏捷教练在引导团队会议，提供专业指导以及培训的时候，需要保持不偏不倚的心境，不受来自高层或自己个人喜好的牵制和影响。 2) 服务客户的立场：敏捷教练的客户包括个人、团队、组织。客户更理解自己所处的环境，所以教练除了给出必要的指导和协助更要尊重客户自己的选择和决定。 3) 鼓励客户自实践：企业投资敏捷教练的目的是为了最终将敏捷思想，技能、实践转移给企业组织内部，成为一个自我管理，自我成长，高效</description>
     </item>
     
     <item>
       <title>聘请Agile Coach前，建议可以先问5个问题</title>
-      <link>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</link>
+      <link>/5-questions-before-hiring-agile-coach/</link>
       <pubDate>Fri, 21 Feb 2020 13:13:23 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</guid>
+      <guid>/5-questions-before-hiring-agile-coach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>16天备考PMI-ACP认证通过无悬念—考试不易，自学定能水到渠成</title>
-      <link>https://www.agilewalker.com/hello-world-2/</link>
+      <link>/hello-world-2/</link>
       <pubDate>Wed, 30 Oct 2019 11:59:11 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/hello-world-2/</guid>
+      <guid>/hello-world-2/</guid>
       <description>01清晨的消息 几天前的一个早上，屋外斑鸠的叫声刚开始没多久，我那浅浅的睡眠进程被经典的消息提示音中断，一个朋友发来消息，宣布通过了PMI-ACP认证考试。说起我考ACP认证是将近2年前的事情，记得是当时项目上比较紧张，也许自己确实慵懒而没有写点什么与备考的同行们分享。学而不思则罔，思而不学则殆，想来想去还是现在补上，也希望能通过这种方式，与同行学习交流，于是我就问朋友要了几张截图，看起来他成绩不错</description>
     </item>
     

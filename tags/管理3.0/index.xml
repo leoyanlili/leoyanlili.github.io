@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>管理3.0 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E7%AE%A1%E7%90%863.0/</link>
+    <link>/tags/%E7%AE%A1%E7%90%863.0/</link>
     <description>Recent content in 管理3.0 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sun, 20 Dec 2020 02:41:05 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E7%AE%A1%E7%90%863.0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 02:41:05 +0000</lastBuildDate><atom:link href="/tags/%E7%AE%A1%E7%90%863.0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>责任模型 – The Responsibility Process</title>
-      <link>https://www.agilewalker.com/the-responsibility-process/</link>
+      <link>/the-responsibility-process/</link>
       <pubDate>Sun, 20 Dec 2020 02:41:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/the-responsibility-process/</guid>
+      <guid>/the-responsibility-process/</guid>
       <description>虽然每个人都在谈论责任,但是在各种情况下,我们都不负责任。 前言 敏捷团队重视责任，敏捷思维和 Scrum文化中最关键的一个部分是责任。 Christopher Avery创建了一个非常好的责任模型，解释了责任如何发挥作用。在长期的进化过程中，人们的大脑得到了训练，能够迅速做出决策。每当出现一个小问题时,大脑将提供如何处理这个问题的选项。 责任流程选项 第一个可能的解决方案：否认，这是人类的大脑的第一反应，通常是：“我已经编码了，</description>
     </item>
     

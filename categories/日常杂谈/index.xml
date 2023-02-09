@@ -2,216 +2,216 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日常杂谈 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/%E6%97%A5%E5%B8%B8%E6%9D%82%E8%B0%88/</link>
+    <link>/categories/%E6%97%A5%E5%B8%B8%E6%9D%82%E8%B0%88/</link>
     <description>Recent content in 日常杂谈 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sun, 25 Jul 2021 06:45:07 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E6%97%A5%E5%B8%B8%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 06:45:07 +0000</lastBuildDate><atom:link href="/categories/%E6%97%A5%E5%B8%B8%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何用伪领导力搞垮一个敏捷团队</title>
-      <link>https://www.agilewalker.com/how-to-destroy-a-team/</link>
+      <link>/how-to-destroy-a-team/</link>
       <pubDate>Sun, 25 Jul 2021 06:45:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-destroy-a-team/</guid>
+      <guid>/how-to-destroy-a-team/</guid>
       <description>《易经》乃诸经之首，中华民族的哲学思想的源泉。 做了多年的基层伪领导，自认做的不是很好，格局不高，事实也说明基层管理更适合本人的思维深度，大家看到这里，至少能判断出我的自省做得很好。本文总结了一些伪领导力，还请大家赐教。 不知“外圆内方” 说的是领导的根本法则，领导者有更加圆通的行为方式，同时要有较为公正的管理原则。 有些领导说的头头是道，正确无误；做的相差甚远。可称之为：外方内圆。举个栗子，中国人讲究亲</description>
     </item>
     
     <item>
       <title>博客生产线：WordPress(平台)&#43;Typora(编辑器)&#43;GitHub(图床)</title>
-      <link>https://www.agilewalker.com/wordpress-typora-github/</link>
+      <link>/wordpress-typora-github/</link>
       <pubDate>Tue, 07 Jul 2020 10:23:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/wordpress-typora-github/</guid>
+      <guid>/wordpress-typora-github/</guid>
       <description>前言 写个人博客的方法和平台有很多，这里介绍的是用个人搭建的WordPress(平台) + Typora(编辑器) + GitHub(图床)的方法，用Markdown语法写文章。 自从用了Markdown写博客，感觉还是挺方便的，现在很多平台都支持MD。这样保证了在各个平台上的兼容性，如果未来希望转移到其他基于GitHub的静态博客，如Hugo，也是个不错的准备。况且很多MD的编辑器非常棒，像Typora这么</description>
     </item>
     
     <item>
       <title>翻译敏捷行业专业外文，不只是谷歌翻译</title>
-      <link>https://www.agilewalker.com/translation-beyond-google/</link>
+      <link>/translation-beyond-google/</link>
       <pubDate>Thu, 21 May 2020 11:36:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/translation-beyond-google/</guid>
+      <guid>/translation-beyond-google/</guid>
       <description>流行但愚蠢的态度是，一个好的经理在任何地方都可以成为一个好经理，而不需要对他所管理的生产过程有特别的了解 —爱德华.戴明 前言 孔子说：一日而三省吾身。应该说是体现了敏捷思维在个人哲学意识迭代中的最早的实践应用。但真的要做到，确实有点难。改成三日一省如何？至少三天才能对一件事情有比较客观的初步认知。每次反思就像Scrum框架里的一个Sprint，总要有个时间盒子，结束后能看到增量价值交付。这里就不接着谈</description>
     </item>
     
     <item>
       <title>「视频」敏捷开发Scrum事件：产品待办事项梳理</title>
-      <link>https://www.agilewalker.com/v-product-backlog-refinement/</link>
+      <link>/v-product-backlog-refinement/</link>
       <pubDate>Wed, 13 May 2020 15:47:37 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-product-backlog-refinement/</guid>
+      <guid>/v-product-backlog-refinement/</guid>
       <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。 访问以下链接 「视频」敏捷开发Scrum事件：产品待办事项梳理 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷开发Scrum七大事件之3：产品待办事项梳理</title>
-      <link>https://www.agilewalker.com/product-backlog-refinement/</link>
+      <link>/product-backlog-refinement/</link>
       <pubDate>Wed, 13 May 2020 14:57:18 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-refinement/</guid>
+      <guid>/product-backlog-refinement/</guid>
       <description>前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产品待办事项梳理有很多优点，下面列出了其中的几个。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;standard-arrow list-divider bullet-top&amp;quot;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpFirst&amp;quot;&amp;gt; 通过消除用户故事的不确定性和未知事实来提高效率。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 提前识别依赖性（在团队和跨职能部门内）和风险，以制定相应的计划。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好的估算并避免返工（开发，测试和实施）。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 使开发人员和测试人员了解其要求，从而节省了开发团队在sprint周期中进行进一步讨论</description>
     </item>
     
     <item>
       <title>在线获取Scrum Alliance的A-CSM认证证书，上海和北京培训后必备攻略</title>
-      <link>https://www.agilewalker.com/how-to-get-a-csm-paper-after-training/</link>
+      <link>/how-to-get-a-csm-paper-after-training/</link>
       <pubDate>Tue, 21 Apr 2020 10:44:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-get-a-csm-paper-after-training/</guid>
+      <guid>/how-to-get-a-csm-paper-after-training/</guid>
       <description>今天要说的是关于如何在完成敏捷联盟(Scrum Alliance)的A-CSM培训后，在线获得证书的故事： 完成A-CSM培训 填写Scrum工作经验 接受CST签发的证书 提交你的账号下SEUs 分享你的徽章 一、完成A-CSM培训 敏捷联盟要求必须参加授权的CST培训，才能申请获得该认证。所以如果你已经完成了A-CSM的培训课程，就可以开始准备申请这个认证了。 先吃点东西庆祝下你已经完成了这次学习😝 二、填写Sc</description>
     </item>
     
     <item>
       <title>Youtube油管视频下载工具，MacOS客户端和网页端下载都有</title>
-      <link>https://www.agilewalker.com/youtube-video-download-tools/</link>
+      <link>/youtube-video-download-tools/</link>
       <pubDate>Wed, 08 Apr 2020 04:09:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/youtube-video-download-tools/</guid>
+      <guid>/youtube-video-download-tools/</guid>
       <description>节省大家的宝贵时间，这里废话不多说，干货直接分享： 一、能够下载Youtube视频的大前提是浏览器必须能够访问 www.youtube.com 网上有很多专业的方法或是收费的服务，这里就不介绍了。 二、可以用web网站或者客户端进行下载，下面就简单介绍两种方法 访问 https://www.y2mate.com/ 在绿框中输入youtube上的视频URL地址，点&amp;quot;Start&amp;quot;就可以下载了。 在MacOS上的下载的客户端 Downie 工具更方便，可以批量下，而且还可以下载其他渠</description>
     </item>
     
     <item>
       <title>「视频」7分钟学习Scrum，最流行的敏捷框架入门，软件开发团队不可错过</title>
-      <link>https://www.agilewalker.com/7-minutes-scrum/</link>
+      <link>/7-minutes-scrum/</link>
       <pubDate>Fri, 03 Apr 2020 09:23:12 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/7-minutes-scrum/</guid>
+      <guid>/7-minutes-scrum/</guid>
       <description>[https://player.youku.com/embed/XNDYxNzcyMjYwMA==]</description>
     </item>
     
     <item>
       <title>选择合适自己的敏捷认证培训</title>
-      <link>https://www.agilewalker.com/your-favorite-agile-certification/</link>
+      <link>/your-favorite-agile-certification/</link>
       <pubDate>Sun, 29 Mar 2020 15:04:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/your-favorite-agile-certification/</guid>
+      <guid>/your-favorite-agile-certification/</guid>
       <description>考试和证书：考试有专门考点，监考严格，纸质考试。考试包含120个选择题，其中100道为打分题，20道不计分（根据当次考试情况选取），考试后6-7周在线出成绩。证书更新周期是每三年，可以通过获得PDU或支付费用来刷新。 考试和证书：考试包含50个选择题，答对37个合格，培训结束当天就可以考试，马上在线出成绩。证书更新周期是每三年，可以通过获得SDU或支付费用来刷新，认证还给PDU的哦。 考试和证书：包含</description>
     </item>
     
     <item>
       <title>简说敏捷转型可视化和可视化敏捷方法</title>
-      <link>https://www.agilewalker.com/agile-visualization/</link>
+      <link>/agile-visualization/</link>
       <pubDate>Thu, 19 Mar 2020 04:41:39 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-visualization/</guid>
+      <guid>/agile-visualization/</guid>
       <description>在服务企业研发团队的过程中，我们发现不少团队碰到了类似的问题： 你经常在思考究竟哪些工作是最重要的？如何避免被无穷无尽的项目与工作淹没？ 团队成员声称完成了自己的大部分任务，但团队实际交付的需求却寥寥无几？ 由于某些问题导致工序一直处于等待状态，怎么识别和处理这些延迟？ 成员之间不知道互相都在干什么？各自鸵鸟式地进行着工作。 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：</description>
     </item>
     
     <item>
       <title>敏捷教练的软硬技能树</title>
-      <link>https://www.agilewalker.com/agile-coach-skills-tree/</link>
+      <link>/agile-coach-skills-tree/</link>
       <pubDate>Sun, 15 Mar 2020 10:32:36 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-skills-tree/</guid>
+      <guid>/agile-coach-skills-tree/</guid>
       <description>最近想整理一个敏捷教练技能树，如今抗疫在家，就完成我的这个PBI吧，不论内容是否全面，经常总结，多学习总是人间正道。 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>告诉你的CxO敏捷教练是什么</title>
-      <link>https://www.agilewalker.com/what-is-agile-coach/</link>
+      <link>/what-is-agile-coach/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:47 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/what-is-agile-coach/</guid>
+      <guid>/what-is-agile-coach/</guid>
       <description>— END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>与大家分享一些“敏捷教练”的定义</title>
-      <link>https://www.agilewalker.com/agile-coach-defines/</link>
+      <link>/agile-coach-defines/</link>
       <pubDate>Wed, 04 Mar 2020 02:44:04 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-defines/</guid>
+      <guid>/agile-coach-defines/</guid>
       <description>引用来自网络的关于与敏捷教练定义，大家应该会有个基本一致的感受： 参考： 让你用3分钟简单说敏捷教练能力模型 敏捷教练日常工作中的检查列表 -&amp;ndash; END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>从敏捷价值观看中国速度应对2020新冠肺炎疫情COVID-19</title>
-      <link>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</link>
+      <link>/agile-apply-to-2020-ncov-dealing/</link>
       <pubDate>Sat, 29 Feb 2020 08:48:58 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</guid>
+      <guid>/agile-apply-to-2020-ncov-dealing/</guid>
       <description>「2020-新冠病毒疫情最新情报速递」</description>
     </item>
     
     <item>
       <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
-      <link>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</link>
+      <link>/scrum-is-not-agilesoftware-framework/</link>
       <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</guid>
+      <guid>/scrum-is-not-agilesoftware-framework/</guid>
       <description>2019-新冠病毒疫情最新情报速递 Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。 许多Scrum专家说：Scrum是一个产品开发框架。 END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>2020-新冠肺炎疫情下天天敏捷的生活和工作</title>
-      <link>https://www.agilewalker.com/2020-ncov-lean-agile-life/</link>
+      <link>/2020-ncov-lean-agile-life/</link>
       <pubDate>Mon, 24 Feb 2020 05:55:14 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/2020-ncov-lean-agile-life/</guid>
+      <guid>/2020-ncov-lean-agile-life/</guid>
       <description>「2020-新冠肺炎疫情最新情报速递」</description>
     </item>
     
     <item>
       <title>2020-新冠肺炎疫情最新情报速递</title>
-      <link>https://www.agilewalker.com/2019-ncron-virus-update/</link>
+      <link>/2019-ncron-virus-update/</link>
       <pubDate>Mon, 24 Feb 2020 05:54:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/2019-ncron-virus-update/</guid>
+      <guid>/2019-ncron-virus-update/</guid>
       <description></description>
     </item>
     
     <item>
       <title>让你用3分钟简单说敏捷教练能力模型</title>
-      <link>https://www.agilewalker.com/agile-coach-competency-framework/</link>
+      <link>/agile-coach-competency-framework/</link>
       <pubDate>Sat, 22 Feb 2020 10:30:04 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-competency-framework/</guid>
+      <guid>/agile-coach-competency-framework/</guid>
       <description>1) 保持中立的态度：敏捷教练在引导团队会议，提供专业指导以及培训的时候，需要保持不偏不倚的心境，不受来自高层或自己个人喜好的牵制和影响。 2) 服务客户的立场：敏捷教练的客户包括个人、团队、组织。客户更理解自己所处的环境，所以教练除了给出必要的指导和协助更要尊重客户自己的选择和决定。 3) 鼓励客户自实践：企业投资敏捷教练的目的是为了最终将敏捷思想，技能、实践转移给企业组织内部，成为一个自我管理，自我成长，高效</description>
     </item>
     
     <item>
       <title>聘请Agile Coach前，建议可以先问5个问题</title>
-      <link>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</link>
+      <link>/5-questions-before-hiring-agile-coach/</link>
       <pubDate>Fri, 21 Feb 2020 13:13:23 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</guid>
+      <guid>/5-questions-before-hiring-agile-coach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XP里故事要INVEST和任务要SMART</title>
-      <link>https://www.agilewalker.com/story-invest-smart/</link>
+      <link>/story-invest-smart/</link>
       <pubDate>Sun, 16 Feb 2020 16:20:24 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/story-invest-smart/</guid>
+      <guid>/story-invest-smart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MacOS中运行you_get或youtube_dl下载视频出现[SSL: CERTIFICATE_VERIFY_FAILED]</title>
-      <link>https://www.agilewalker.com/youtube_dl/</link>
+      <link>/youtube_dl/</link>
       <pubDate>Wed, 15 Jan 2020 07:29:34 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/youtube_dl/</guid>
+      <guid>/youtube_dl/</guid>
       <description>如果我们在使用you_get或youtube_dl下载视频 $ youtube-dl &amp;lsquo;https://youtu.be/10wVFaRInfs&#39; 有时候会出现如下错误❌： &amp;lt;urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)&amp;gt; (caused by URLError(SSLCertVerificationError(1, &#39;[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)&#39;))) 这里是对普通用户的问题解决方法（如何在Python代码里解决这个问题，网上已经有很多资料，就不多说了） 找到你电脑上的Python安装路径，运行如下命令： $ open &amp;ldquo;/Applications/Python 3.8/Install Certificates.command&amp;rdquo; 再运行下刚才的命令： $ youtube-dl &amp;lsquo;https://youtu.be/10wVFaRInfs&#39; 这样可以正常下载了，如下： Python的官方解释 https://bugs.python.org/issue29065#msg283984</description>
     </item>
     
     <item>
       <title>2020 新年快乐！</title>
-      <link>https://www.agilewalker.com/2020newyear/</link>
+      <link>/2020newyear/</link>
       <pubDate>Wed, 01 Jan 2020 08:21:03 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/2020newyear/</guid>
+      <guid>/2020newyear/</guid>
       <description>祝各位，2020全家幸福，健康快乐！给大家来一个程序员的祝福方式吧</description>
     </item>
     
     <item>
       <title>16天备考PMI-ACP认证通过无悬念—考试不易，自学定能水到渠成</title>
-      <link>https://www.agilewalker.com/hello-world-2/</link>
+      <link>/hello-world-2/</link>
       <pubDate>Wed, 30 Oct 2019 11:59:11 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/hello-world-2/</guid>
+      <guid>/hello-world-2/</guid>
       <description>01清晨的消息 几天前的一个早上，屋外斑鸠的叫声刚开始没多久，我那浅浅的睡眠进程被经典的消息提示音中断，一个朋友发来消息，宣布通过了PMI-ACP认证考试。说起我考ACP认证是将近2年前的事情，记得是当时项目上比较紧张，也许自己确实慵懒而没有写点什么与备考的同行们分享。学而不思则罔，思而不学则殆，想来想去还是现在补上，也希望能通过这种方式，与同行学习交流，于是我就问朋友要了几张截图，看起来他成绩不错</description>
     </item>
     

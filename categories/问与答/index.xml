@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>问与答 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/%E9%97%AE%E4%B8%8E%E7%AD%94/</link>
+    <link>/categories/%E9%97%AE%E4%B8%8E%E7%AD%94/</link>
     <description>Recent content in 问与答 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 10:23:26 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E9%97%AE%E4%B8%8E%E7%AD%94/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2020 10:23:26 +0000</lastBuildDate><atom:link href="/categories/%E9%97%AE%E4%B8%8E%E7%AD%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>博客生产线：WordPress(平台)&#43;Typora(编辑器)&#43;GitHub(图床)</title>
-      <link>https://www.agilewalker.com/wordpress-typora-github/</link>
+      <link>/wordpress-typora-github/</link>
       <pubDate>Tue, 07 Jul 2020 10:23:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/wordpress-typora-github/</guid>
+      <guid>/wordpress-typora-github/</guid>
       <description>前言 写个人博客的方法和平台有很多，这里介绍的是用个人搭建的WordPress(平台) + Typora(编辑器) + GitHub(图床)的方法，用Markdown语法写文章。 自从用了Markdown写博客，感觉还是挺方便的，现在很多平台都支持MD。这样保证了在各个平台上的兼容性，如果未来希望转移到其他基于GitHub的静态博客，如Hugo，也是个不错的准备。况且很多MD的编辑器非常棒，像Typora这么</description>
     </item>
     
     <item>
       <title>在线获取Scrum Alliance的A-CSM认证证书，上海和北京培训后必备攻略</title>
-      <link>https://www.agilewalker.com/how-to-get-a-csm-paper-after-training/</link>
+      <link>/how-to-get-a-csm-paper-after-training/</link>
       <pubDate>Tue, 21 Apr 2020 10:44:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-get-a-csm-paper-after-training/</guid>
+      <guid>/how-to-get-a-csm-paper-after-training/</guid>
       <description>今天要说的是关于如何在完成敏捷联盟(Scrum Alliance)的A-CSM培训后，在线获得证书的故事： 完成A-CSM培训 填写Scrum工作经验 接受CST签发的证书 提交你的账号下SEUs 分享你的徽章 一、完成A-CSM培训 敏捷联盟要求必须参加授权的CST培训，才能申请获得该认证。所以如果你已经完成了A-CSM的培训课程，就可以开始准备申请这个认证了。 先吃点东西庆祝下你已经完成了这次学习😝 二、填写Sc</description>
     </item>
     
     <item>
       <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
-      <link>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</link>
+      <link>/scrum-is-not-agilesoftware-framework/</link>
       <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</guid>
+      <guid>/scrum-is-not-agilesoftware-framework/</guid>
       <description>2019-新冠病毒疫情最新情报速递 Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。 许多Scrum专家说：Scrum是一个产品开发框架。 END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     

@@ -2,25 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 捷伴行Agile</title>
-    <link>https://leoyanlili.github.io/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright 2023 捷伴行Agile</copyright>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://leoyanlili.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 捷伴行Agile</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://leoyanlili.github.io/pages/resume/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <link>/pages/resume/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://leoyanlili.github.io/pages/resume/</guid>
-      <description>捷伴行Agile - Agile makes us better 促进敏捷文化在软件领域传播，并在广泛领域有趣创新
-捷伴行Agile博客，捷伴行Agile www.agilewalker.com
-一些99%的文字，捷伴行Thought www.51scrum.com
-敏捷和互联网外文干货，捷伴行Spreader www.agilespreader.com
-给我留言，点这里
-欢迎微信公众号，有更多敏捷文化和Python软件开发相关话题
-关于我们</description>
+      <guid>/pages/resume/</guid>
+      <description>捷伴行Agile - Agile makes us better 我是老彦，居住在中国上海，一位终身学习的研发效能改进实践者。程序员出身，目前是IT咨询公司的敏捷教练，工作涉及敏捷软件开发实践和DevOps落地，项目管理，组织敏捷转型和研发效能改进，是中国敏捷社区的参与者。 立足于软件交付，从精益创业、敏捷开发、DevOps落地等，思考研发效能，学习优秀同行，助力敏捷文化在中国软件行业的传播，并在广泛领域与志趣相投的朋友碰撞，产生有价值的</description>
     </item>
     
   </channel>

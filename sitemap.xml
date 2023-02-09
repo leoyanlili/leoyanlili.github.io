@@ -2,703 +2,709 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.agilewalker.com/038-impact-mapping/</loc>
+    <loc>/pages/resume/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/038-impact-mapping/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-methodology/</loc>
+    <loc>/tags/agile-methodology/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/impact-mapping/</loc>
+    <loc>/tags/impact-mapping/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E4%B8%9A%E5%86%85%E8%B5%84%E8%AE%AF/</loc>
+    <loc>/categories/%E4%B8%9A%E5%86%85%E8%B5%84%E8%AE%AF/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</loc>
+    <loc>/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%BD%B1%E5%93%8D%E5%9C%B0%E5%9B%BE/</loc>
+    <loc>/tags/%E5%BD%B1%E5%93%8D%E5%9C%B0%E5%9B%BE/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%80%9D%E8%80%83%E5%88%9B%E6%96%B0/</loc>
+    <loc>/categories/%E6%80%9D%E8%80%83%E5%88%9B%E6%96%B0/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/</loc>
+    <loc>/categories/%E6%95%8F%E6%8D%B7%E7%9F%A5%E8%AF%86%E5%BA%93/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7%E7%9F%A5%E8%AF%86%E5%BA%93/</loc>
+    <loc>/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2022-11-20T14:57:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2022-11-20T14:57:14+00:00</lastmod>
-  </url><url>
-    <loc>https://www.agilewalker.com/video_ansible_entry/</loc>
+    <loc>/video_ansible_entry/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/devops/</loc>
+    <loc>/tags/devops/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/devops/</loc>
+    <loc>/categories/devops/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7%E6%8A%80%E6%9C%AF/</loc>
+    <loc>/categories/%E6%95%8F%E6%8D%B7%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82/</loc>
+    <loc>/categories/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E8%81%8C%E5%9C%BA%E5%8A%B1%E5%BF%97/</loc>
+    <loc>/categories/%E8%81%8C%E5%9C%BA%E5%8A%B1%E5%BF%97/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E8%87%AA%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5/</loc>
+    <loc>/categories/%E8%87%AA%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5/</loc>
     <lastmod>2022-04-23T12:10:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-foundation-transformation/</loc>
+    <loc>/agile-foundation-transformation/</loc>
     <lastmod>2022-04-02T02:54:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%95%8F%E6%8D%B7365%E5%A4%A9/</loc>
+    <loc>/categories/%E6%95%8F%E6%8D%B7365%E5%A4%A9/</loc>
     <lastmod>2022-04-02T02:54:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E4%BA%A7%E5%93%81%E7%AE%A1%E7%90%86/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E4%BA%A7%E5%93%81%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2022-04-02T02:54:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2022-04-02T02:54:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%BD%AC%E5%9E%8B/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E8%BD%AC%E5%9E%8B/</loc>
     <lastmod>2022-04-02T02:54:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2022-04-02T02:54:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E4%BC%B0%E7%AE%97/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E4%BC%B0%E7%AE%97/</loc>
     <lastmod>2022-02-03T06:13:32+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E8%AF%84%E4%BC%B0/</loc>
     <lastmod>2022-02-03T06:13:32+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/storypoint-man-hour/</loc>
+    <loc>/storypoint-man-hour/</loc>
     <lastmod>2022-02-03T06:13:32+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/</loc>
+    <loc>/tags/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B/</loc>
     <lastmod>2022-02-03T06:13:32+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-software-development/</loc>
+    <loc>/tags/agile-software-development/</loc>
     <lastmod>2021-12-27T14:36:34+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91/</loc>
+    <loc>/tags/%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-12-27T14:36:34+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4/</loc>
+    <loc>/tags/%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4/</loc>
     <lastmod>2021-12-27T14:36:34+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/about-devops-delivery/</loc>
+    <loc>/about-devops-delivery/</loc>
     <lastmod>2021-12-27T14:36:34+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/devops-from-0-to-done/</loc>
+    <loc>/devops-from-0-to-done/</loc>
     <lastmod>2021-11-14T09:17:17+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%9B%A2%E9%98%9F/</loc>
+    <loc>/tags/%E5%9B%A2%E9%98%9F/</loc>
     <lastmod>2021-07-25T06:45:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/how-to-destroy-a-team/</loc>
+    <loc>/how-to-destroy-a-team/</loc>
     <lastmod>2021-07-25T06:45:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2021-07-25T06:45:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E9%A2%86%E5%AF%BC%E5%8A%9B/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E9%A2%86%E5%AF%BC%E5%8A%9B/</loc>
     <lastmod>2021-07-25T06:45:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%97%A5%E5%B8%B8%E6%9D%82%E8%B0%88/</loc>
+    <loc>/categories/%E6%97%A5%E5%B8%B8%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2021-07-25T06:45:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/how-we-daily-scrum/</loc>
+    <loc>/how-we-daily-scrum/</loc>
     <lastmod>2021-06-06T06:59:19+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E6%96%B9%E6%B3%95/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2021-06-06T06:59:19+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E7%AB%99%E4%BC%9A/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E7%AB%99%E4%BC%9A/</loc>
     <lastmod>2021-06-06T06:59:19+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%AF%8F%E6%97%A5%E7%AB%99%E4%BC%9A/</loc>
+    <loc>/tags/%E6%AF%8F%E6%97%A5%E7%AB%99%E4%BC%9A/</loc>
     <lastmod>2021-06-06T06:59:19+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/scrum-trainning/</loc>
+    <loc>/scrum-trainning/</loc>
     <lastmod>2021-04-01T10:22:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E5%9F%B9%E8%AE%AD%E8%AE%A4%E8%AF%81/</loc>
+    <loc>/categories/%E5%9F%B9%E8%AE%AD%E8%AE%A4%E8%AF%81/</loc>
     <lastmod>2021-04-01T10:22:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E4%BB%B7%E5%80%BC%E8%A7%82/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E4%BB%B7%E5%80%BC%E8%A7%82/</loc>
     <lastmod>2021-04-01T10:22:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2021-04-01T10:22:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%AE%A3%E8%A8%80/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%AE%A3%E8%A8%80/</loc>
     <lastmod>2021-04-01T10:22:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2021-04-01T10:22:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/how-bdd-user-story/</loc>
+    <loc>/how-bdd-user-story/</loc>
     <lastmod>2021-02-11T04:36:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/</loc>
+    <loc>/tags/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-02-11T04:36:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-principles/</loc>
+    <loc>/tags/agile-principles/</loc>
     <lastmod>2021-01-27T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/team-is-mirror-of-coach/</loc>
+    <loc>/team-is-mirror-of-coach/</loc>
     <lastmod>2021-01-27T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%8E%9F%E5%88%99/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%8E%9F%E5%88%99/</loc>
     <lastmod>2021-01-27T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E6%95%99%E7%BB%83/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E6%95%99%E7%BB%83/</loc>
     <lastmod>2021-01-27T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%B1%82%E8%81%8C%E9%9D%A2%E8%AF%95/</loc>
+    <loc>/categories/%E6%B1%82%E8%81%8C%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2021-01-27T14:53:45+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/what-is-agile/</loc>
+    <loc>/what-is-agile/</loc>
     <lastmod>2021-01-23T01:28:02+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/sprint-review/</loc>
+    <loc>/tags/sprint-review/</loc>
     <lastmod>2021-01-16T10:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E4%BA%A7%E5%93%81%E8%B4%9F%E8%B4%A3%E4%BA%BA/</loc>
+    <loc>/tags/%E4%BA%A7%E5%93%81%E8%B4%9F%E8%B4%A3%E4%BA%BA/</loc>
     <lastmod>2021-01-16T10:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/sprint-review-advice/</loc>
+    <loc>/sprint-review-advice/</loc>
     <lastmod>2021-01-16T10:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E7%BF%BB%E8%AF%91%E8%BD%AC%E8%BD%BD/</loc>
+    <loc>/categories/%E7%BF%BB%E8%AF%91%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2021-01-16T10:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%BF%AD%E4%BB%A3%E8%AF%84%E5%AE%A1/</loc>
+    <loc>/tags/%E8%BF%AD%E4%BB%A3%E8%AF%84%E5%AE%A1/</loc>
     <lastmod>2021-01-16T10:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/leadership-agile-qulity/</loc>
+    <loc>/leadership-agile-qulity/</loc>
     <lastmod>2020-12-27T13:56:52+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%AE%A1%E7%90%863.0/</loc>
+    <loc>/tags/%E7%AE%A1%E7%90%863.0/</loc>
     <lastmod>2020-12-20T02:41:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/the-responsibility-process/</loc>
+    <loc>/the-responsibility-process/</loc>
     <lastmod>2020-12-20T02:41:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/release-plan/</loc>
+    <loc>/tags/release-plan/</loc>
     <lastmod>2020-11-28T08:48:42+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/product-release-plan/</loc>
+    <loc>/product-release-plan/</loc>
     <lastmod>2020-11-28T08:48:42+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%8F%91%E5%B8%83%E8%AE%A1%E5%88%92/</loc>
+    <loc>/tags/%E5%8F%91%E5%B8%83%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2020-11-28T08:48:42+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%A7%84%E5%88%92/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E8%A7%84%E5%88%92/</loc>
     <lastmod>2020-11-28T08:48:42+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum/</loc>
+    <loc>/tags/scrum/</loc>
     <lastmod>2020-09-28T13:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/where-scrum-limits/</loc>
+    <loc>/where-scrum-limits/</loc>
     <lastmod>2020-09-28T13:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-project-managememt/</loc>
+    <loc>/tags/agile-project-managememt/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/kanban/</loc>
+    <loc>/tags/kanban/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/lean-startup/</loc>
+    <loc>/tags/lean-startup/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/understand-kanban/</loc>
+    <loc>/understand-kanban/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%9C%8B%E6%9D%BF/</loc>
+    <loc>/tags/%E7%9C%8B%E6%9D%BF/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%B2%BE%E7%9B%8A/</loc>
+    <loc>/tags/%E7%B2%BE%E7%9B%8A/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%B4%AF%E7%A7%AF%E6%B5%81%E5%9B%BE/</loc>
+    <loc>/tags/%E7%B4%AF%E7%A7%AF%E6%B5%81%E5%9B%BE/</loc>
     <lastmod>2020-07-10T03:45:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/picgo/</loc>
+    <loc>/tags/picgo/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/typora/</loc>
+    <loc>/tags/typora/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/wordpress/</loc>
+    <loc>/tags/wordpress/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/wordpress-typora-github/</loc>
+    <loc>/wordpress-typora-github/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <loc>/tags/%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%87%AA%E5%AA%92%E4%BD%93/</loc>
+    <loc>/tags/%E8%87%AA%E5%AA%92%E4%BD%93/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%BF%90%E8%90%A5/</loc>
+    <loc>/tags/%E8%BF%90%E8%90%A5/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E9%97%AE%E4%B8%8E%E7%AD%94/</loc>
+    <loc>/categories/%E9%97%AE%E4%B8%8E%E7%AD%94/</loc>
     <lastmod>2020-07-07T10:23:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</loc>
+    <loc>/%E3%80%8C%E8%A7%86%E9%A2%91%E3%80%8D%E8%A7%84%E6%A8%A1%E5%8C%96%E6%95%8F%E6%8D%B7spotify%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B7%A5%E7%A8%8B%E6%96%87%E5%8C%96/</loc>
     <lastmod>2020-06-24T02:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scaled-agile/</loc>
+    <loc>/tags/scaled-agile/</loc>
     <lastmod>2020-06-24T02:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/spotify/</loc>
+    <loc>/tags/spotify/</loc>
     <lastmod>2020-06-24T02:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%8F%E6%8D%B7/</loc>
+    <loc>/tags/%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%8F%E6%8D%B7/</loc>
     <lastmod>2020-06-24T02:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%8F%E6%8D%B7/</loc>
+    <loc>/categories/%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%8F%E6%8D%B7/</loc>
     <lastmod>2020-06-24T02:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E6%B2%B9%E7%AE%A1%E8%BE%93%E9%80%81/</loc>
+    <loc>/categories/%E6%B2%B9%E7%AE%A1%E8%BE%93%E9%80%81/</loc>
     <lastmod>2020-06-24T02:04:10+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/v-how-to-set-okr/</loc>
+    <loc>/v-how-to-set-okr/</loc>
     <lastmod>2020-06-17T02:30:43+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/objectives-and-key-results/</loc>
+    <loc>/tags/objectives-and-key-results/</loc>
     <lastmod>2020-06-17T02:30:43+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/okr/</loc>
+    <loc>/tags/okr/</loc>
     <lastmod>2020-06-17T02:30:43+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-manifesto/</loc>
+    <loc>/tags/agile-manifesto/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/certified-scrum-mater/</loc>
+    <loc>/tags/certified-scrum-mater/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum-foundation/</loc>
+    <loc>/tags/scrum-foundation/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum-introduction/</loc>
+    <loc>/tags/scrum-introduction/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum-training/</loc>
+    <loc>/tags/scrum-training/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>/tags/scrum%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/scrum-beginner-ppt-intro/</loc>
+    <loc>/scrum-beginner-ppt-intro/</loc>
     <lastmod>2020-06-03T07:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%BF%BB%E8%AF%91/</loc>
+    <loc>/tags/%E7%BF%BB%E8%AF%91/</loc>
     <lastmod>2020-05-21T11:36:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/translation-beyond-google/</loc>
+    <loc>/translation-beyond-google/</loc>
     <lastmod>2020-05-21T11:36:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/designthinking-leanstartup-agile/</loc>
+    <loc>/designthinking-leanstartup-agile/</loc>
     <lastmod>2020-05-16T15:06:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/</loc>
+    <loc>/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4/</loc>
     <lastmod>2020-05-16T15:06:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/v-product-backlog-refinement/</loc>
+    <loc>/v-product-backlog-refinement/</loc>
     <lastmod>2020-05-13T15:47:37+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/product-backlog-refinement/</loc>
+    <loc>/tags/product-backlog-refinement/</loc>
     <lastmod>2020-05-13T15:47:37+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/backlog-grooming/</loc>
+    <loc>/tags/backlog-grooming/</loc>
     <lastmod>2020-05-13T14:57:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/backlog-health/</loc>
+    <loc>/tags/backlog-health/</loc>
     <lastmod>2020-05-13T14:57:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E4%BA%A7%E5%93%81%E5%BE%85%E5%8A%9E%E6%A2%B3%E7%90%86/</loc>
+    <loc>/tags/%E4%BA%A7%E5%93%81%E5%BE%85%E5%8A%9E%E6%A2%B3%E7%90%86/</loc>
     <lastmod>2020-05-13T14:57:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A8/</loc>
+    <loc>/tags/%E5%BE%85%E5%8A%9E%E5%88%97%E8%A1%A8/</loc>
     <lastmod>2020-05-13T14:57:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/product-backlog-refinement/</loc>
+    <loc>/product-backlog-refinement/</loc>
     <lastmod>2020-05-13T14:57:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E6%8C%87%E6%A0%87/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E6%8C%87%E6%A0%87/</loc>
     <lastmod>2020-05-13T14:57:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/2020-5-1-labor-day/</loc>
+    <loc>/2020-5-1-labor-day/</loc>
     <lastmod>2020-05-01T13:09:49+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/10-minute-agile-estimation/</loc>
+    <loc>/10-minute-agile-estimation/</loc>
     <lastmod>2020-04-29T04:47:52+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/grow-model/</loc>
+    <loc>/tags/grow-model/</loc>
     <lastmod>2020-04-28T14:13:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/leadership/</loc>
+    <loc>/tags/leadership/</loc>
     <lastmod>2020-04-28T14:13:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%8F%90%E9%97%AE%E7%9A%84%E8%89%BA%E6%9C%AF/</loc>
+    <loc>/tags/%E6%8F%90%E9%97%AE%E7%9A%84%E8%89%BA%E6%9C%AF/</loc>
     <lastmod>2020-04-28T14:13:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/how-to-use-grow-model/</loc>
+    <loc>/how-to-use-grow-model/</loc>
     <lastmod>2020-04-28T14:13:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/v-impact-mapping/</loc>
+    <loc>/v-impact-mapping/</loc>
     <lastmod>2020-04-21T11:59:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%85%E4%BA%8B%E5%9C%B0%E5%9B%BE/</loc>
+    <loc>/tags/%E6%95%85%E4%BA%8B%E5%9C%B0%E5%9B%BE/</loc>
     <lastmod>2020-04-21T11:59:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/advanced-certified-scrum-master/</loc>
+    <loc>/tags/advanced-certified-scrum-master/</loc>
     <lastmod>2020-04-21T10:44:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-certification/</loc>
+    <loc>/tags/agile-certification/</loc>
     <lastmod>2020-04-21T10:44:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/pmi-acp/</loc>
+    <loc>/tags/pmi-acp/</loc>
     <lastmod>2020-04-21T10:44:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum-alliance/</loc>
+    <loc>/tags/scrum-alliance/</loc>
     <lastmod>2020-04-21T10:44:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/how-to-get-a-csm-paper-after-training/</loc>
+    <loc>/how-to-get-a-csm-paper-after-training/</loc>
     <lastmod>2020-04-21T10:44:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AE%A4%E8%AF%81/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E8%AE%A4%E8%AF%81/</loc>
     <lastmod>2020-04-21T10:44:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-product-ownership/</loc>
+    <loc>/agile-product-ownership/</loc>
     <lastmod>2020-04-18T08:53:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/agile-metrics/</loc>
+    <loc>/tags/agile-metrics/</loc>
     <lastmod>2020-04-16T12:49:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/capacity-planning/</loc>
+    <loc>/tags/capacity-planning/</loc>
     <lastmod>2020-04-16T12:49:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/sprint-capactiy-planning/</loc>
+    <loc>/sprint-capactiy-planning/</loc>
     <lastmod>2020-04-16T12:49:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2020-04-16T12:49:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%B3%BB%E7%BB%9F%E4%B9%8B%E7%BE%8E/</loc>
+    <loc>/tags/%E7%B3%BB%E7%BB%9F%E4%B9%8B%E7%BE%8E/</loc>
     <lastmod>2020-04-16T12:49:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%B3%BB%E7%BB%9F%E6%80%9D%E7%BB%B4/</loc>
+    <loc>/tags/%E7%B3%BB%E7%BB%9F%E6%80%9D%E7%BB%B4/</loc>
     <lastmod>2020-04-16T12:49:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/scrum-crash-course/</loc>
+    <loc>/scrum-crash-course/</loc>
     <lastmod>2020-04-16T03:36:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E5%85%B7/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2020-04-16T03:36:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/burndown-chart/</loc>
+    <loc>/tags/burndown-chart/</loc>
     <lastmod>2020-04-14T12:44:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum-metrics/</loc>
+    <loc>/tags/scrum-metrics/</loc>
     <lastmod>2020-04-14T12:44:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
     <lastmod>2020-04-14T12:44:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/sprint-burndown-chart/</loc>
+    <loc>/sprint-burndown-chart/</loc>
     <lastmod>2020-04-14T12:44:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E7%87%83%E5%B0%BD%E5%9B%BE/</loc>
+    <loc>/tags/%E7%87%83%E5%B0%BD%E5%9B%BE/</loc>
     <lastmod>2020-04-14T12:44:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</loc>
+    <loc>/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-04-14T12:44:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/sprint-burndown-chart-2/</loc>
+    <loc>/sprint-burndown-chart-2/</loc>
     <lastmod>2020-04-14T12:06:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/v-user-story-splitting/</loc>
+    <loc>/v-user-story-splitting/</loc>
     <lastmod>2020-04-14T03:52:25+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/v-understand-user-story/</loc>
+    <loc>/v-understand-user-story/</loc>
     <lastmod>2020-04-14T03:34:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/kano/</loc>
+    <loc>/tags/kano/</loc>
     <lastmod>2020-04-13T08:44:13+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/moscow/</loc>
+    <loc>/tags/moscow/</loc>
     <lastmod>2020-04-13T08:44:13+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E4%BC%98%E5%85%88%E7%BA%A7/</loc>
+    <loc>/tags/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E4%BC%98%E5%85%88%E7%BA%A7/</loc>
     <lastmod>2020-04-13T08:44:13+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/product-backlog-prioritization/</loc>
+    <loc>/product-backlog-prioritization/</loc>
     <lastmod>2020-04-13T08:44:13+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-coach-overview/</loc>
+    <loc>/agile-coach-overview/</loc>
     <lastmod>2020-04-12T10:58:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/</loc>
+    <loc>/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/</loc>
     <lastmod>2020-04-12T10:58:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-coach-development-path/</loc>
+    <loc>/agile-coach-development-path/</loc>
     <lastmod>2020-04-12T10:51:50+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/burn-down-chart/</loc>
+    <loc>/burn-down-chart/</loc>
     <lastmod>2020-04-12T10:46:36+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%BA%A6%E9%87%8F/</loc>
+    <loc>/tags/%E6%95%8F%E6%8D%B7%E5%BA%A6%E9%87%8F/</loc>
     <lastmod>2020-04-12T10:46:36+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/youtube/</loc>
+    <loc>/tags/youtube/</loc>
     <lastmod>2020-04-08T04:09:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/youtube-video-download-tools/</loc>
+    <loc>/youtube-video-download-tools/</loc>
     <lastmod>2020-04-08T04:09:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E4%B8%8B%E8%BD%BD/</loc>
+    <loc>/tags/%E4%B8%8B%E8%BD%BD/</loc>
     <lastmod>2020-04-08T04:09:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%A7%86%E9%A2%91/</loc>
+    <loc>/tags/%E8%A7%86%E9%A2%91/</loc>
     <lastmod>2020-04-08T04:09:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/kpi/</loc>
+    <loc>/tags/kpi/</loc>
     <lastmod>2020-04-07T09:37:16+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/scrum%E4%B8%93%E5%AE%B6/</loc>
+    <loc>/tags/scrum%E4%B8%93%E5%AE%B6/</loc>
     <lastmod>2020-04-07T09:37:16+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/understanding-scrum-metrics/</loc>
+    <loc>/understanding-scrum-metrics/</loc>
     <lastmod>2020-04-07T09:37:16+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/they-are-hiring/</loc>
+    <loc>/they-are-hiring/</loc>
     <lastmod>2020-04-04T12:22:06+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-talent/</loc>
+    <loc>/agile-talent/</loc>
     <lastmod>2020-04-04T12:18:38+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/7-minutes-scrum/</loc>
+    <loc>/7-minutes-scrum/</loc>
     <lastmod>2020-04-03T09:23:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%96%87%E5%8C%96/</loc>
+    <loc>/tags/%E6%96%87%E5%8C%96/</loc>
     <lastmod>2020-04-03T09:23:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
+    <loc>/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
     <lastmod>2020-04-03T09:23:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%A1%86%E6%9E%B6/</loc>
+    <loc>/tags/%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2020-04-03T09:23:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/scrum-okr-kpi-metrics/</loc>
+    <loc>/scrum-okr-kpi-metrics/</loc>
     <lastmod>2020-03-30T04:06:56+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%8C%87%E6%A0%87/</loc>
+    <loc>/tags/%E6%8C%87%E6%A0%87/</loc>
     <lastmod>2020-03-30T04:06:56+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/scrum-and-kanban/</loc>
+    <loc>/scrum-and-kanban/</loc>
     <lastmod>2020-03-30T04:00:37+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%AE%A4%E8%AF%81%E8%80%83%E8%AF%95/</loc>
+    <loc>/tags/%E8%AE%A4%E8%AF%81%E8%80%83%E8%AF%95/</loc>
     <lastmod>2020-03-29T15:04:52+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/your-favorite-agile-certification/</loc>
+    <loc>/your-favorite-agile-certification/</loc>
     <lastmod>2020-03-29T15:04:52+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/how-to-develop-scrum-team/</loc>
+    <loc>/how-to-develop-scrum-team/</loc>
     <lastmod>2020-03-27T10:46:38+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/2020-media-7-trends/</loc>
+    <loc>/2020-media-7-trends/</loc>
     <lastmod>2020-03-24T11:40:52+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9/</loc>
+    <loc>/categories/%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9/</loc>
     <lastmod>2020-03-24T11:40:52+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-is-not-a-methodology/</loc>
+    <loc>/agile-is-not-a-methodology/</loc>
     <lastmod>2020-03-21T10:42:27+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%9C%A8%E7%BA%BF%E5%8D%8F%E4%BD%9C/</loc>
+    <loc>/tags/%E5%9C%A8%E7%BA%BF%E5%8D%8F%E4%BD%9C/</loc>
     <lastmod>2020-03-19T05:30:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-collaberation-tools/</loc>
+    <loc>/agile-collaberation-tools/</loc>
     <lastmod>2020-03-19T05:30:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E8%99%9A%E6%8B%9F%E5%8A%9E%E5%85%AC/</loc>
+    <loc>/tags/%E8%99%9A%E6%8B%9F%E5%8A%9E%E5%85%AC/</loc>
     <lastmod>2020-03-19T05:30:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/sprint%E4%BF%A1%E6%81%AF%E9%A1%B5/</loc>
+    <loc>/tags/sprint%E4%BF%A1%E6%81%AF%E9%A1%B5/</loc>
     <lastmod>2020-03-19T04:41:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-visualization/</loc>
+    <loc>/agile-visualization/</loc>
     <lastmod>2020-03-19T04:41:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E9%80%9F%E7%8E%87/</loc>
+    <loc>/tags/%E9%80%9F%E7%8E%87/</loc>
     <lastmod>2020-03-19T04:41:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%8F%8D%E6%80%9D/</loc>
+    <loc>/tags/%E5%8F%8D%E6%80%9D/</loc>
     <lastmod>2020-03-15T10:32:36+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-coach-skills-tree/</loc>
+    <loc>/agile-coach-skills-tree/</loc>
     <lastmod>2020-03-15T10:32:36+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-coach-a-z/</loc>
+    <loc>/agile-coach-a-z/</loc>
     <lastmod>2020-03-04T07:57:42+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/what-is-agile-coach/</loc>
+    <loc>/what-is-agile-coach/</loc>
     <lastmod>2020-03-04T07:18:47+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%A6%82%E5%BF%B5/</loc>
+    <loc>/tags/%E6%A6%82%E5%BF%B5/</loc>
     <lastmod>2020-03-04T07:18:47+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-coach-defines/</loc>
+    <loc>/agile-coach-defines/</loc>
     <lastmod>2020-03-04T02:44:04+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6/</loc>
+    <loc>/tags/%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6/</loc>
     <lastmod>2020-02-29T08:48:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-apply-to-2020-ncov-dealing/</loc>
+    <loc>/agile-apply-to-2020-ncov-dealing/</loc>
     <lastmod>2020-02-29T08:48:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E5%88%9B%E6%96%B0/</loc>
+    <loc>/tags/%E5%88%9B%E6%96%B0/</loc>
     <lastmod>2020-02-29T08:48:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85/</loc>
+    <loc>/tags/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85/</loc>
     <lastmod>2020-02-29T08:48:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E9%BB%91%E5%A4%A9%E9%B9%85/</loc>
+    <loc>/tags/%E9%BB%91%E5%A4%A9%E9%B9%85/</loc>
     <lastmod>2020-02-29T08:48:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</loc>
+    <loc>/scrum-is-not-agilesoftware-framework/</loc>
     <lastmod>2020-02-25T04:16:15+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/2020-ncov-lean-agile-life/</loc>
+    <loc>/2020-ncov-lean-agile-life/</loc>
     <lastmod>2020-02-24T05:55:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/2019-ncron-virus-update/</loc>
+    <loc>/2019-ncron-virus-update/</loc>
     <lastmod>2020-02-24T05:54:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-coach-competency-framework/</loc>
+    <loc>/agile-coach-competency-framework/</loc>
     <lastmod>2020-02-22T10:30:04+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</loc>
+    <loc>/5-questions-before-hiring-agile-coach/</loc>
     <lastmod>2020-02-21T13:13:23+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/invest/</loc>
+    <loc>/tags/invest/</loc>
     <lastmod>2020-02-16T16:20:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/smart/</loc>
+    <loc>/tags/smart/</loc>
     <lastmod>2020-02-16T16:20:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/story-invest-smart/</loc>
+    <loc>/story-invest-smart/</loc>
     <lastmod>2020-02-16T16:20:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E4%BB%BB%E5%8A%A1/</loc>
+    <loc>/tags/%E4%BB%BB%E5%8A%A1/</loc>
     <lastmod>2020-02-16T16:20:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E6%9E%81%E9%99%90%E7%BC%96%E7%A8%8B/</loc>
+    <loc>/tags/%E6%9E%81%E9%99%90%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2020-02-16T16:20:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agilecoachchecklist/</loc>
+    <loc>/agilecoachchecklist/</loc>
     <lastmod>2020-02-12T15:38:32+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agilehomework/</loc>
+    <loc>/agilehomework/</loc>
     <lastmod>2020-02-09T02:27:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/youtube_dl/</loc>
+    <loc>/youtube_dl/</loc>
     <lastmod>2020-01-15T07:29:34+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/pmi/</loc>
+    <loc>/tags/pmi/</loc>
     <lastmod>2020-01-09T04:37:11+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2020-01-09T04:37:11+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/python%E4%B8%9A%E4%BD%99%E5%BC%80%E5%8F%91%E8%80%85/</loc>
+    <loc>/tags/python%E4%B8%9A%E4%BD%99%E5%BC%80%E5%8F%91%E8%80%85/</loc>
     <lastmod>2020-01-09T04:37:11+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/whoami/</loc>
+    <loc>/whoami/</loc>
     <lastmod>2020-01-09T04:37:11+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/categories/%E8%BF%98%E4%B8%8D%E7%9F%A5%E5%8E%BB%E5%93%AA%E9%87%8C/</loc>
+    <loc>/categories/%E8%BF%98%E4%B8%8D%E7%9F%A5%E5%8E%BB%E5%93%AA%E9%87%8C/</loc>
     <lastmod>2020-01-09T04:37:11+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/mvp/</loc>
+    <loc>/tags/mvp/</loc>
     <lastmod>2020-01-09T04:32:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/training/</loc>
+    <loc>/tags/training/</loc>
     <lastmod>2020-01-09T04:32:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/trainkanban/</loc>
+    <loc>/trainkanban/</loc>
     <lastmod>2020-01-09T04:32:12+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/genius/</loc>
+    <loc>/genius/</loc>
     <lastmod>2020-01-06T05:43:33+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/readings/</loc>
+    <loc>/readings/</loc>
     <lastmod>2020-01-04T23:37:31+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/trainning/</loc>
+    <loc>/trainning/</loc>
     <lastmod>2020-01-02T11:17:49+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/2020newyear/</loc>
+    <loc>/2020newyear/</loc>
     <lastmod>2020-01-01T08:21:03+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/findpassword/</loc>
+    <loc>/findpassword/</loc>
     <lastmod>2019-12-31T04:58:33+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/register/</loc>
+    <loc>/register/</loc>
     <lastmod>2019-12-31T04:58:33+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/login/</loc>
+    <loc>/login/</loc>
     <lastmod>2019-12-31T04:58:33+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/agile-resource/</loc>
+    <loc>/agile-resource/</loc>
     <lastmod>2019-12-30T10:28:56+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/reachme/</loc>
+    <loc>/reachme/</loc>
     <lastmod>2019-12-30T03:33:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
+    <loc>/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2019-12-30T03:25:23+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%8A%9E%E5%85%AC%E5%AE%A4/</loc>
+    <loc>/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%8A%9E%E5%85%AC%E5%AE%A4/</loc>
     <lastmod>2019-12-30T03:25:23+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/howtopmo/</loc>
+    <loc>/howtopmo/</loc>
     <lastmod>2019-12-30T03:25:23+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</loc>
+    <loc>/%E6%8C%A3%E5%80%BC%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2019-11-23T06:24:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/35-2/</loc>
+    <loc>/35-2/</loc>
     <lastmod>2019-11-23T06:10:55+00:00</lastmod>
   </url><url>
-    <loc>https://www.agilewalker.com/hello-world-2/</loc>
+    <loc>/hello-world-2/</loc>
     <lastmod>2019-10-30T11:59:11+00:00</lastmod>
   </url>
 </urlset>

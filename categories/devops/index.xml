@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/devops/</link>
+    <link>/categories/devops/</link>
     <description>Recent content in DevOps on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「视频」运维自动化之Ansible入门</title>
-      <link>https://www.agilewalker.com/video_ansible_entry/</link>
+      <link>/video_ansible_entry/</link>
       <pubDate>Sat, 23 Apr 2022 12:10:41 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/video_ansible_entry/</guid>
+      <guid>/video_ansible_entry/</guid>
       <description>[https://player.youku.com/embed/XNTg2NzEzNjYyNA==] 视频链接</description>
     </item>
     

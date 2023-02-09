@@ -2,135 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>业内资讯 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/%E4%B8%9A%E5%86%85%E8%B5%84%E8%AE%AF/</link>
+    <link>/categories/%E4%B8%9A%E5%86%85%E8%B5%84%E8%AE%AF/</link>
     <description>Recent content in 业内资讯 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 14:57:14 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E4%B8%9A%E5%86%85%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 14:57:14 +0000</lastBuildDate><atom:link href="/categories/%E4%B8%9A%E5%86%85%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>038.打造用户喜爱的产品，离不开需求助推器|影响地图Impact Mapping</title>
-      <link>https://www.agilewalker.com/038-impact-mapping/</link>
+      <link>/038-impact-mapping/</link>
       <pubDate>Sun, 20 Nov 2022 14:57:14 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/038-impact-mapping/</guid>
+      <guid>/038-impact-mapping/</guid>
       <description>把重点放在客户在工作中期望的变化，而非仅仅是客户要完成什么工作。 -Robert Brinkerhoff 开篇 今天要为你解读的这本书是《影响地图》，副标题叫做“让软件产生真正的影响力”。简单地说，这是一本帮助大家通过有效方法提升产品规划能力，实现客户业务价值交付的书。《大规模Scrum》的作者之一Craig Larman建议了本方法的最终命名“影响地图”，敏捷宣言的共同发起人Tom Poppendieck在本书前言中说“影响地图可视化地呈</description>
     </item>
     
     <item>
       <title>谈我们的研发运维一体化交付模式</title>
-      <link>https://www.agilewalker.com/about-devops-delivery/</link>
+      <link>/about-devops-delivery/</link>
       <pubDate>Mon, 27 Dec 2021 14:36:34 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/about-devops-delivery/</guid>
+      <guid>/about-devops-delivery/</guid>
       <description>物有本末，事有始终，知所先后，则近道矣。 &amp;ndash; 《大学》 [TOC] 一、说在前面的话 本文旨在记录下本人与同事，同行，以及相关领导关于研发运维一体化，架构优化与创新问题所进行的无数对话，讨论的内容，通过这些对话与讨论，很多人为本文提供了有价值的输入。 在经历了产品研发团队工作1年多的时间和开发运维团队工作6个月的时间之后，想起应该说下我们研发运维一体化技术那点事儿。每个人从不同的视角看的感受肯定不尽相同，通过本文分享</description>
     </item>
     
     <item>
       <title>如何用伪领导力搞垮一个敏捷团队</title>
-      <link>https://www.agilewalker.com/how-to-destroy-a-team/</link>
+      <link>/how-to-destroy-a-team/</link>
       <pubDate>Sun, 25 Jul 2021 06:45:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-destroy-a-team/</guid>
+      <guid>/how-to-destroy-a-team/</guid>
       <description>《易经》乃诸经之首，中华民族的哲学思想的源泉。 做了多年的基层伪领导，自认做的不是很好，格局不高，事实也说明基层管理更适合本人的思维深度，大家看到这里，至少能判断出我的自省做得很好。本文总结了一些伪领导力，还请大家赐教。 不知“外圆内方” 说的是领导的根本法则，领导者有更加圆通的行为方式，同时要有较为公正的管理原则。 有些领导说的头头是道，正确无误；做的相差甚远。可称之为：外方内圆。举个栗子，中国人讲究亲</description>
     </item>
     
     <item>
       <title>责任模型 – The Responsibility Process</title>
-      <link>https://www.agilewalker.com/the-responsibility-process/</link>
+      <link>/the-responsibility-process/</link>
       <pubDate>Sun, 20 Dec 2020 02:41:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/the-responsibility-process/</guid>
+      <guid>/the-responsibility-process/</guid>
       <description>虽然每个人都在谈论责任,但是在各种情况下,我们都不负责任。 前言 敏捷团队重视责任，敏捷思维和 Scrum文化中最关键的一个部分是责任。 Christopher Avery创建了一个非常好的责任模型，解释了责任如何发挥作用。在长期的进化过程中，人们的大脑得到了训练，能够迅速做出决策。每当出现一个小问题时,大脑将提供如何处理这个问题的选项。 责任流程选项 第一个可能的解决方案：否认，这是人类的大脑的第一反应，通常是：“我已经编码了，</description>
     </item>
     
     <item>
       <title>产品发布计划</title>
-      <link>https://www.agilewalker.com/product-release-plan/</link>
+      <link>/product-release-plan/</link>
       <pubDate>Sat, 28 Nov 2020 08:48:42 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-release-plan/</guid>
+      <guid>/product-release-plan/</guid>
       <description>&amp;ldquo;不谋万世者，不足谋一时；不谋全局者，不足谋一域。&amp;rdquo; -陈澹然[清] 序言： 这篇文章，让我想到了全局观，应该是作为产品负责人具备的基本素养，不仅给产品以愿景，给团队以方向，同时也能帮助产品负责人与干系人很好的进行沟通。而发布计划应该是这种素养的可视化的表述之一。发布计划向上衔接面向管理层的产品愿景和路线图，向下衔接面向团队的Sprint计划，对产品某次发布有个明确的规划，连接愿</description>
     </item>
     
     <item>
       <title>「视频」10分钟的敏捷估算教学，全面实用，理解深刻了</title>
-      <link>https://www.agilewalker.com/10-minute-agile-estimation/</link>
+      <link>/10-minute-agile-estimation/</link>
       <pubDate>Wed, 29 Apr 2020 04:47:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/10-minute-agile-estimation/</guid>
+      <guid>/10-minute-agile-estimation/</guid>
       <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。 访问以下链接 「视频」10分钟的敏捷估算教学，全面实用，理解深刻了 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>Youtube油管视频下载工具，MacOS客户端和网页端下载都有</title>
-      <link>https://www.agilewalker.com/youtube-video-download-tools/</link>
+      <link>/youtube-video-download-tools/</link>
       <pubDate>Wed, 08 Apr 2020 04:09:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/youtube-video-download-tools/</guid>
+      <guid>/youtube-video-download-tools/</guid>
       <description>节省大家的宝贵时间，这里废话不多说，干货直接分享： 一、能够下载Youtube视频的大前提是浏览器必须能够访问 www.youtube.com 网上有很多专业的方法或是收费的服务，这里就不介绍了。 二、可以用web网站或者客户端进行下载，下面就简单介绍两种方法 访问 https://www.y2mate.com/ 在绿框中输入youtube上的视频URL地址，点&amp;quot;Start&amp;quot;就可以下载了。 在MacOS上的下载的客户端 Downie 工具更方便，可以批量下，而且还可以下载其他渠</description>
     </item>
     
     <item>
       <title>选择合适自己的敏捷认证培训</title>
-      <link>https://www.agilewalker.com/your-favorite-agile-certification/</link>
+      <link>/your-favorite-agile-certification/</link>
       <pubDate>Sun, 29 Mar 2020 15:04:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/your-favorite-agile-certification/</guid>
+      <guid>/your-favorite-agile-certification/</guid>
       <description>考试和证书：考试有专门考点，监考严格，纸质考试。考试包含120个选择题，其中100道为打分题，20道不计分（根据当次考试情况选取），考试后6-7周在线出成绩。证书更新周期是每三年，可以通过获得PDU或支付费用来刷新。 考试和证书：考试包含50个选择题，答对37个合格，培训结束当天就可以考试，马上在线出成绩。证书更新周期是每三年，可以通过获得SDU或支付费用来刷新，认证还给PDU的哦。 考试和证书：包含</description>
     </item>
     
     <item>
       <title>「转载」头条官方报告披露2020年自媒体发展7个趋势 为创作者指出方向</title>
-      <link>https://www.agilewalker.com/2020-media-7-trends/</link>
+      <link>/2020-media-7-trends/</link>
       <pubDate>Tue, 24 Mar 2020 11:40:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/2020-media-7-trends/</guid>
+      <guid>/2020-media-7-trends/</guid>
       <description>头条官方报告给创作者引路 近期，今日头条旗下巨量引擎发布《2019-2020今日头条营销通案》，主题为“资讯新生态，头部影响力”。这份报告虽然主旨是为B端企业提供的，但其中的内容、数据，对个人创作者和MCN机构摸准明年头条系各平台的发力方向，也有非常大的指导价值。 从创作者到“记者”，你准备好了吗？ 对，你没看错。你不一定要做一名职业记者，但未来做头条，创作者要有“记者”的气质和价值，这是真的。这份报告</description>
     </item>
     
     <item>
       <title>敏捷教练的26项修炼「转载」</title>
-      <link>https://www.agilewalker.com/agile-coach-a-z/</link>
+      <link>/agile-coach-a-z/</link>
       <pubDate>Wed, 04 Mar 2020 07:57:42 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-a-z/</guid>
+      <guid>/agile-coach-a-z/</guid>
       <description>敏捷方法学带来了新的角色——“敏捷教练”，它不常见于传统方法学中，甚或不曾为之提及。已驾轻就熟的实践者，可能会视之为浑然天成，羚羊挂角、无迹可寻；而初窥门径的新手则会心生疑云：“敏捷教练为何如此重要？‘部门经理’、‘团队领导’、‘技术领导’，他们的问题何在？Monster.com为此提供54个职位，又是何故？”奇文共欣赏，疑义相与析，当是吾等本色。且与笔者同游于本文中，或可领会敏捷教练之所思、所行</description>
     </item>
     
     <item>
       <title>Scrum：我很好，我不是一个敏捷软件开发框架</title>
-      <link>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</link>
+      <link>/scrum-is-not-agilesoftware-framework/</link>
       <pubDate>Tue, 25 Feb 2020 04:16:15 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-is-not-agilesoftware-framework/</guid>
+      <guid>/scrum-is-not-agilesoftware-framework/</guid>
       <description>2019-新冠病毒疫情最新情报速递 Scrum联盟说：Scrum是一组简单但功能强大的原则和实践，可帮助团队在短周期内交付产品，从而实现快速反馈，持续改进和快速适应变化。 许多Scrum专家说：Scrum是一个产品开发框架。 END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     
     <item>
       <title>让你用3分钟简单说敏捷教练能力模型</title>
-      <link>https://www.agilewalker.com/agile-coach-competency-framework/</link>
+      <link>/agile-coach-competency-framework/</link>
       <pubDate>Sat, 22 Feb 2020 10:30:04 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-competency-framework/</guid>
+      <guid>/agile-coach-competency-framework/</guid>
       <description>1) 保持中立的态度：敏捷教练在引导团队会议，提供专业指导以及培训的时候，需要保持不偏不倚的心境，不受来自高层或自己个人喜好的牵制和影响。 2) 服务客户的立场：敏捷教练的客户包括个人、团队、组织。客户更理解自己所处的环境，所以教练除了给出必要的指导和协助更要尊重客户自己的选择和决定。 3) 鼓励客户自实践：企业投资敏捷教练的目的是为了最终将敏捷思想，技能、实践转移给企业组织内部，成为一个自我管理，自我成长，高效</description>
     </item>
     
     <item>
       <title>聘请Agile Coach前，建议可以先问5个问题</title>
-      <link>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</link>
+      <link>/5-questions-before-hiring-agile-coach/</link>
       <pubDate>Fri, 21 Feb 2020 13:13:23 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/5-questions-before-hiring-agile-coach/</guid>
+      <guid>/5-questions-before-hiring-agile-coach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>项目经理在成为PMO负责人过程中需要作出的改变</title>
-      <link>https://www.agilewalker.com/howtopmo/</link>
+      <link>/howtopmo/</link>
       <pubDate>Mon, 30 Dec 2019 03:25:23 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/howtopmo/</guid>
+      <guid>/howtopmo/</guid>
       <description>Less Tactical As a former US Army soldier, being less tactical was never a goal. The more tactics you had, the better you could execute on the overall military strategy. But becoming the PMO Director is more like becoming a Division Commander. You will be an integral part of the strategic portion of the battle. In order to become a PMO Leader, you need to think and communicate more strategically. You need to get out of the weeds, and out of the project plans, and into the business strategy that all of the projects are supporting. There could be several strategies for which hundreds of projects could be supporting. Yes – supporting. A project is the tactical portion of a strategy. It is the “how” you get things done. As an example, if the strategy is to have a completely safe, supported, and flexible environment for your SAS product, then the first level of HOW might be a program of projects to move your SAS product to a globally supported cloud platform. The second level of HOW would be a series of tactical projects to (1) do a data consolidation and migration, (2) restructure the architecture,</description>
     </item>
     

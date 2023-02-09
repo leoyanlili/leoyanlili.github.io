@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷计划 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/</link>
+    <link>/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/</link>
     <description>Recent content in 敏捷计划 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Thu, 16 Apr 2020 12:49:55 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 12:49:55 +0000</lastBuildDate><atom:link href="/tags/%E6%95%8F%E6%8D%B7%E8%AE%A1%E5%88%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
+      <link>/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
+      <guid>/sprint-capactiy-planning/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）</description>
     </item>
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
+      <link>/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
+      <guid>/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
+      <link>/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
+      <guid>/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么</description>
     </item>
     

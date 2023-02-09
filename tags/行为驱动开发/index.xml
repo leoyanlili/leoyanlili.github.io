@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>行为驱动开发 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/</link>
+    <link>/tags/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/</link>
     <description>Recent content in 行为驱动开发 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Thu, 11 Feb 2021 04:36:00 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 04:36:00 +0000</lastBuildDate><atom:link href="/tags/%E8%A1%8C%E4%B8%BA%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初创的敏捷团队采用行为驱动开发共创用户故事</title>
-      <link>https://www.agilewalker.com/how-bdd-user-story/</link>
+      <link>/how-bdd-user-story/</link>
       <pubDate>Thu, 11 Feb 2021 04:36:00 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-bdd-user-story/</guid>
+      <guid>/how-bdd-user-story/</guid>
       <description>如果说TDD是让我们正确地做事，那么BDD就是让我们做正确的事。 在原本的计划中，2021年农历新年前发布另一篇文章，还是应了计划赶不上变化的这句老话，也算是体现了敏捷的价值观，希望本文对初创敏捷团队有一定的帮助。 维基百科的解释 行为驱动开发（英语：Behavior-driven development，缩写BDD）是一种敏捷软件开发的技术，它鼓励软件项目中的产品负责人、开发者、QA和非技术人员或干系人</description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>风险管理 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</link>
+    <link>/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 风险管理 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 12:44:21 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Apr 2020 12:44:21 +0000</lastBuildDate><atom:link href="/tags/%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
+      <link>/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
+      <guid>/sprint-burndown-chart/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）： &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任</description>
     </item>
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart-2/</link>
+      <link>/sprint-burndown-chart-2/</link>
       <pubDate>Tue, 14 Apr 2020 12:06:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart-2/</guid>
+      <guid>/sprint-burndown-chart-2/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（下篇为主题4-6）： （延续上篇主题1-3 敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）） &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在这种情景下，团队需要查看当前的燃尽图和实际线。 截至特定日期，它们还有多少富余的工作时间。 可能有3种选项： &amp;lt;/p&amp;gt; &amp;lt;ol start=&amp;quot;1&amp;quot;&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;团队可以直接同意将故事添加到当前的sprint中&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt;</description>
     </item>
     

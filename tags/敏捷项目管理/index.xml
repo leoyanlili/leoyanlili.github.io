@@ -2,153 +2,153 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷项目管理 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
+    <link>/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 敏捷项目管理 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sun, 25 Jul 2021 06:45:07 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 06:45:07 +0000</lastBuildDate><atom:link href="/tags/%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何用伪领导力搞垮一个敏捷团队</title>
-      <link>https://www.agilewalker.com/how-to-destroy-a-team/</link>
+      <link>/how-to-destroy-a-team/</link>
       <pubDate>Sun, 25 Jul 2021 06:45:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/how-to-destroy-a-team/</guid>
+      <guid>/how-to-destroy-a-team/</guid>
       <description>《易经》乃诸经之首，中华民族的哲学思想的源泉。 做了多年的基层伪领导，自认做的不是很好，格局不高，事实也说明基层管理更适合本人的思维深度，大家看到这里，至少能判断出我的自省做得很好。本文总结了一些伪领导力，还请大家赐教。 不知“外圆内方” 说的是领导的根本法则，领导者有更加圆通的行为方式，同时要有较为公正的管理原则。 有些领导说的头头是道，正确无误；做的相差甚远。可称之为：外方内圆。举个栗子，中国人讲究亲</description>
     </item>
     
     <item>
       <title>如何理解并应用精益敏捷Kanban看板</title>
-      <link>https://www.agilewalker.com/understand-kanban/</link>
+      <link>/understand-kanban/</link>
       <pubDate>Fri, 10 Jul 2020 03:45:18 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/understand-kanban/</guid>
+      <guid>/understand-kanban/</guid>
       <description>我引入看板系统的目标是：防止过载、控制工作流的波动性，以及触发渐进式变革。 &amp;ndash;大卫.安德森 看板的基础知识 看板是一种用于管理产品创造的方法，该方法强调持续交付，同时又不增加开发团队的负担。 像Scrum一样，看板是旨在帮助团队更有效地协作的流程。它是一种可视化工作流程的方法。为了在需求与可用产能和瓶颈之间取得平衡，该框架在下面的工作中具有很高的生产率和效率。 临时请求(按需的任务) 计划外工作 生</description>
     </item>
     
     <item>
       <title>敏捷开发Scrum七大事件之3：产品待办事项梳理</title>
-      <link>https://www.agilewalker.com/product-backlog-refinement/</link>
+      <link>/product-backlog-refinement/</link>
       <pubDate>Wed, 13 May 2020 14:57:18 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-refinement/</guid>
+      <guid>/product-backlog-refinement/</guid>
       <description>前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产品待办事项梳理有很多优点，下面列出了其中的几个。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;standard-arrow list-divider bullet-top&amp;quot;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpFirst&amp;quot;&amp;gt; 通过消除用户故事的不确定性和未知事实来提高效率。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 提前识别依赖性（在团队和跨职能部门内）和风险，以制定相应的计划。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好的估算并避免返工（开发，测试和实施）。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 使开发人员和测试人员了解其要求，从而节省了开发团队在sprint周期中进行进一步讨论</description>
     </item>
     
     <item>
       <title>「视频」10分钟的敏捷估算教学，全面实用，理解深刻了</title>
-      <link>https://www.agilewalker.com/10-minute-agile-estimation/</link>
+      <link>/10-minute-agile-estimation/</link>
       <pubDate>Wed, 29 Apr 2020 04:47:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/10-minute-agile-estimation/</guid>
+      <guid>/10-minute-agile-estimation/</guid>
       <description>如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。 访问以下链接 「视频」10分钟的敏捷估算教学，全面实用，理解深刻了 — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」让产品的业务更清晰，在敏捷文化中，影响地图的艺术</title>
-      <link>https://www.agilewalker.com/v-impact-mapping/</link>
+      <link>/v-impact-mapping/</link>
       <pubDate>Tue, 21 Apr 2020 11:59:12 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-impact-mapping/</guid>
+      <guid>/v-impact-mapping/</guid>
       <description>让产品的业务更清晰，在敏捷文化中，影响地图的艺术。另一个很棒的视频在这里。 [https://player.youku.com/embed/XNDY0MjU0MTg0NA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」15分钟，用产品负责人的视角看Scrum敏捷软件开发</title>
-      <link>https://www.agilewalker.com/agile-product-ownership/</link>
+      <link>/agile-product-ownership/</link>
       <pubDate>Sat, 18 Apr 2020 08:53:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-product-ownership/</guid>
+      <guid>/agile-product-ownership/</guid>
       <description>15分钟，用产品负责人的视角看Scrum敏捷软件开发 [https://player.youku.com/embed/XNDYzNzY5NTc0MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之2：团队Sprint产能规划</title>
-      <link>https://www.agilewalker.com/sprint-capactiy-planning/</link>
+      <link>/sprint-capactiy-planning/</link>
       <pubDate>Thu, 16 Apr 2020 12:49:55 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-capactiy-planning/</guid>
+      <guid>/sprint-capactiy-planning/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产能规划Capacity Planning，是指意估算和计算敏捷团队在每个迭代中能贡献的有效工作能力。 有两种广泛使用的产能测量单位，在我的其他文章中有时会写成“能力规划”。 &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 1. &amp;lt;strong&amp;gt;故事点&amp;lt;/strong&amp;gt;，这是一种计算速度的简单方法（最后6到10个Sprint接受的故事点的平均值）</description>
     </item>
     
     <item>
       <title>「视频」敏捷文化中的Scrum是什么？ – 速成班带你深度了解</title>
-      <link>https://www.agilewalker.com/scrum-crash-course/</link>
+      <link>/scrum-crash-course/</link>
       <pubDate>Thu, 16 Apr 2020 03:36:39 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/scrum-crash-course/</guid>
+      <guid>/scrum-crash-course/</guid>
       <description>[本视频长度1.5小时] 敏捷文化中的Scrum是什么？ - 速成班带你深度了解 [https://player.youku.com/embed/XNDYxMDk2NjgwMA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart/</link>
+      <link>/sprint-burndown-chart/</link>
       <pubDate>Tue, 14 Apr 2020 12:44:21 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart/</guid>
+      <guid>/sprint-burndown-chart/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（上篇为主题1-3）： &amp;lt;div class=&amp;quot;wpb_single_image wpb_content_element vc_align_center&amp;quot;&amp;gt; &amp;lt;figure class=&amp;quot;wpb_wrapper vc_figure photoswipe-item photoswipe-wrapper&amp;quot;&amp;gt;&amp;lt;img class=&amp;quot;alignnone size-large wp-image-1004&amp;quot; src=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;760&amp;quot; height=&amp;quot;428&amp;quot; srcset=&amp;quot;https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1.jpg 1024w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-300x169.jpg 300w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-768x432.jpg 768w, https://www.agilewalker.com/wp-content/uploads/2020/04/Insecption_Burndown-1024x576-1-355x199.jpg 355w&amp;quot; sizes=&amp;quot;(max-width: 760px) 100vw, 760px&amp;quot; /&amp;gt;&amp;lt;/figure&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; &amp;amp;nbsp; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; 如果你查看上面的图片，会注意到团队有产品待办事项，在处理sprint待办事项期间，团队提交几个用户故事，然后团队成员分配了任务，对于每个任务，每个成员消耗的是估计的工作时间。到目前为止，已经为冲刺提交了一些故事，每个故事都有一些任</description>
     </item>
     
     <item>
       <title>敏捷开发框架Scrum工件-冲刺/迭代燃尽图（下篇）</title>
-      <link>https://www.agilewalker.com/sprint-burndown-chart-2/</link>
+      <link>/sprint-burndown-chart-2/</link>
       <pubDate>Tue, 14 Apr 2020 12:06:05 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/sprint-burndown-chart-2/</guid>
+      <guid>/sprint-burndown-chart-2/</guid>
       <description>《系统之美》 前言，在本文中，我们将从以下几点了解有关燃尽图的详细内容（下篇为主题4-6）： （延续上篇主题1-3 敏捷开发框架Scrum工件-冲刺/迭代燃尽图（上篇）） &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 在这种情景下，团队需要查看当前的燃尽图和实际线。 截至特定日期，它们还有多少富余的工作时间。 可能有3种选项： &amp;lt;/p&amp;gt; &amp;lt;ol start=&amp;quot;1&amp;quot;&amp;gt; &amp;lt;li&amp;gt; &amp;lt;strong&amp;gt;团队可以直接同意将故事添加到当前的sprint中&amp;lt;/strong&amp;gt; &amp;lt;/li&amp;gt;</description>
     </item>
     
     <item>
       <title>「视频」敏捷开发Scrum实践 – 分解用户故事，让产品需求更易落地</title>
-      <link>https://www.agilewalker.com/v-user-story-splitting/</link>
+      <link>/v-user-story-splitting/</link>
       <pubDate>Tue, 14 Apr 2020 03:52:25 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-user-story-splitting/</guid>
+      <guid>/v-user-story-splitting/</guid>
       <description>敏捷开发Scrum实践 - 分解用户故事，让产品需求更易落地 [https://player.youku.com/embed/XNDYwMzEwNjI1Ng==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>「视频」敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器</title>
-      <link>https://www.agilewalker.com/v-understand-user-story/</link>
+      <link>/v-understand-user-story/</link>
       <pubDate>Tue, 14 Apr 2020 03:34:58 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/v-understand-user-story/</guid>
+      <guid>/v-understand-user-story/</guid>
       <description>敏捷软件开发的用户故事，你了解么？产品需求获取的一把利器 [https://player.youku.com/embed/XNDYwMjQyNTI2MA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的内容与君分享。</description>
     </item>
     
     <item>
       <title>敏捷Scrum开发7大事件之1：产品待办列表优先级排序</title>
-      <link>https://www.agilewalker.com/product-backlog-prioritization/</link>
+      <link>/product-backlog-prioritization/</link>
       <pubDate>Mon, 13 Apr 2020 08:44:13 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-prioritization/</guid>
+      <guid>/product-backlog-prioritization/</guid>
       <description>&amp;lt;blockquote&amp;gt; &amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;“&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s2&amp;quot;&amp;gt;我们不必改变任何人的价值观，但必须让系统围绕真正的价值观运作&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;” --&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;s1&amp;quot;&amp;gt;《系统之美》&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;h2&amp;gt; 为什么</description>
     </item>
     
     <item>
       <title>「视频」敏捷教练的工作是什么？让我们总览一下</title>
-      <link>https://www.agilewalker.com/agile-coach-overview/</link>
+      <link>/agile-coach-overview/</link>
       <pubDate>Sun, 12 Apr 2020 10:58:07 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-coach-overview/</guid>
+      <guid>/agile-coach-overview/</guid>
       <description>敏捷教练的工作是什么？让我们总览一下 [https://player.youku.com/embed/XNDYyOTE3OTMyNA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>「视频」值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决</title>
-      <link>https://www.agilewalker.com/burn-down-chart/</link>
+      <link>/burn-down-chart/</link>
       <pubDate>Sun, 12 Apr 2020 10:46:36 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/burn-down-chart/</guid>
+      <guid>/burn-down-chart/</guid>
       <description>值得收藏，敏捷开发，解读冲刺燃尽图，及早发现问题，及早解决 [https://player.youku.com/embed/XNDYxMDk2Mjk0OA==] — END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。会有更多更及时的文章和视频。</description>
     </item>
     
     <item>
       <title>告诉你的CxO敏捷教练是什么</title>
-      <link>https://www.agilewalker.com/what-is-agile-coach/</link>
+      <link>/what-is-agile-coach/</link>
       <pubDate>Wed, 04 Mar 2020 07:18:47 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/what-is-agile-coach/</guid>
+      <guid>/what-is-agile-coach/</guid>
       <description>— END 希望能在评论区学习到大家的经验和想法~ 如果对相关内容感兴趣可以关注我的公众号：捷伴行Agile。公众号与博客持续同步更新。</description>
     </item>
     

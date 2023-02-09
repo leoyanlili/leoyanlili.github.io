@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>敏捷工程实践 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/</link>
+    <link>/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/</link>
     <description>Recent content in 敏捷工程实践 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 02 Apr 2022 02:54:46 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Apr 2022 02:54:46 +0000</lastBuildDate><atom:link href="/tags/%E6%95%8F%E6%8D%B7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「视频」敏捷开发基础，质量内建，帮助组织启动敏捷转型</title>
-      <link>https://www.agilewalker.com/agile-foundation-transformation/</link>
+      <link>/agile-foundation-transformation/</link>
       <pubDate>Sat, 02 Apr 2022 02:54:46 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-foundation-transformation/</guid>
+      <guid>/agile-foundation-transformation/</guid>
       <description>[https://player.youku.com/embed/XNTg1Njc1NzE4NA]</description>
     </item>
     
     <item>
       <title>敏捷教练日常工作中的检查列表</title>
-      <link>https://www.agilewalker.com/agilecoachchecklist/</link>
+      <link>/agilecoachchecklist/</link>
       <pubDate>Wed, 12 Feb 2020 15:38:32 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agilecoachchecklist/</guid>
+      <guid>/agilecoachchecklist/</guid>
       <description>印象中当教练的都是上面这样👆 敏捷教练有这些日常工作需要检查：</description>
     </item>
     

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>backlog grooming on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/tags/backlog-grooming/</link>
+    <link>/tags/backlog-grooming/</link>
     <description>Recent content in backlog grooming on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Wed, 13 May 2020 14:57:18 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/tags/backlog-grooming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 May 2020 14:57:18 +0000</lastBuildDate><atom:link href="/tags/backlog-grooming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>敏捷开发Scrum七大事件之3：产品待办事项梳理</title>
-      <link>https://www.agilewalker.com/product-backlog-refinement/</link>
+      <link>/product-backlog-refinement/</link>
       <pubDate>Wed, 13 May 2020 14:57:18 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/product-backlog-refinement/</guid>
+      <guid>/product-backlog-refinement/</guid>
       <description>前言，在本文中，我们将从以下几点了解关于产能规划的话题： &amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;wpb_text_column wpb_content_element &amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;wpb_wrapper&amp;quot;&amp;gt; &amp;lt;p&amp;gt; 产品待办事项梳理有很多优点，下面列出了其中的几个。 &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;standard-arrow list-divider bullet-top&amp;quot;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpFirst&amp;quot;&amp;gt; 通过消除用户故事的不确定性和未知事实来提高效率。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 提前识别依赖性（在团队和跨职能部门内）和风险，以制定相应的计划。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 更好的估算并避免返工（开发，测试和实施）。 &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;m_7654132575523233708gmail-MsoListParagraphCxSpMiddle&amp;quot;&amp;gt; 使开发人员和测试人员了解其要求，从而节省了开发团队在sprint周期中进行进一步讨论</description>
     </item>
     

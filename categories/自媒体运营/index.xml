@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>自媒体运营 on 捷伴行Agile</title>
-    <link>https://www.agilewalker.com/categories/%E8%87%AA%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5/</link>
+    <link>/categories/%E8%87%AA%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5/</link>
     <description>Recent content in 自媒体运营 on 捷伴行Agile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 捷伴行Agile</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="https://www.agilewalker.com/categories/%E8%87%AA%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 12:10:41 +0000</lastBuildDate><atom:link href="/categories/%E8%87%AA%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「视频」运维自动化之Ansible入门</title>
-      <link>https://www.agilewalker.com/video_ansible_entry/</link>
+      <link>/video_ansible_entry/</link>
       <pubDate>Sat, 23 Apr 2022 12:10:41 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/video_ansible_entry/</guid>
+      <guid>/video_ansible_entry/</guid>
       <description>[https://player.youku.com/embed/XNTg2NzEzNjYyNA==] 视频链接</description>
     </item>
     
     <item>
       <title>「视频」敏捷开发基础，质量内建，帮助组织启动敏捷转型</title>
-      <link>https://www.agilewalker.com/agile-foundation-transformation/</link>
+      <link>/agile-foundation-transformation/</link>
       <pubDate>Sat, 02 Apr 2022 02:54:46 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/agile-foundation-transformation/</guid>
+      <guid>/agile-foundation-transformation/</guid>
       <description>[https://player.youku.com/embed/XNTg1Njc1NzE4NA]</description>
     </item>
     
     <item>
       <title>博客生产线：WordPress(平台)&#43;Typora(编辑器)&#43;GitHub(图床)</title>
-      <link>https://www.agilewalker.com/wordpress-typora-github/</link>
+      <link>/wordpress-typora-github/</link>
       <pubDate>Tue, 07 Jul 2020 10:23:26 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/wordpress-typora-github/</guid>
+      <guid>/wordpress-typora-github/</guid>
       <description>前言 写个人博客的方法和平台有很多，这里介绍的是用个人搭建的WordPress(平台) + Typora(编辑器) + GitHub(图床)的方法，用Markdown语法写文章。 自从用了Markdown写博客，感觉还是挺方便的，现在很多平台都支持MD。这样保证了在各个平台上的兼容性，如果未来希望转移到其他基于GitHub的静态博客，如Hugo，也是个不错的准备。况且很多MD的编辑器非常棒，像Typora这么</description>
     </item>
     
     <item>
       <title>Youtube油管视频下载工具，MacOS客户端和网页端下载都有</title>
-      <link>https://www.agilewalker.com/youtube-video-download-tools/</link>
+      <link>/youtube-video-download-tools/</link>
       <pubDate>Wed, 08 Apr 2020 04:09:53 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/youtube-video-download-tools/</guid>
+      <guid>/youtube-video-download-tools/</guid>
       <description>节省大家的宝贵时间，这里废话不多说，干货直接分享： 一、能够下载Youtube视频的大前提是浏览器必须能够访问 www.youtube.com 网上有很多专业的方法或是收费的服务，这里就不介绍了。 二、可以用web网站或者客户端进行下载，下面就简单介绍两种方法 访问 https://www.y2mate.com/ 在绿框中输入youtube上的视频URL地址，点&amp;quot;Start&amp;quot;就可以下载了。 在MacOS上的下载的客户端 Downie 工具更方便，可以批量下，而且还可以下载其他渠</description>
     </item>
     
     <item>
       <title>「转载」头条官方报告披露2020年自媒体发展7个趋势 为创作者指出方向</title>
-      <link>https://www.agilewalker.com/2020-media-7-trends/</link>
+      <link>/2020-media-7-trends/</link>
       <pubDate>Tue, 24 Mar 2020 11:40:52 +0000</pubDate>
       
-      <guid>https://www.agilewalker.com/2020-media-7-trends/</guid>
+      <guid>/2020-media-7-trends/</guid>
       <description>头条官方报告给创作者引路 近期，今日头条旗下巨量引擎发布《2019-2020今日头条营销通案》，主题为“资讯新生态，头部影响力”。这份报告虽然主旨是为B端企业提供的，但其中的内容、数据，对个人创作者和MCN机构摸准明年头条系各平台的发力方向，也有非常大的指导价值。 从创作者到“记者”，你准备好了吗？ 对，你没看错。你不一定要做一名职业记者，但未来做头条，创作者要有“记者”的气质和价值，这是真的。这份报告</description>
     </item>
     
